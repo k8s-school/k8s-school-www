@@ -3,6 +3,6 @@ title: 'Team'
 intro_image: images/face.png
 ---
 
-# Meet The Team
+# Rencontrez notre équipe
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Notre équipe d'experts logiciel et système vous accompagne pour tous vos projets Cloud-Natif, de la preuve de concept à la mise en production.

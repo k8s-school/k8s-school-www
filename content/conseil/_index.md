@@ -1,8 +1,8 @@
 ---
 title: 'Services'
-intro_image: images/tree.png
+intro_image: images/logo_k8s.png
 ---
 
-# Services that grow with your business
+# L'expertise Kubernetes à votre service
 
-We help our customers with their accounting and tax.
+Ingénieurs logiciels expérimentés, nous accompagnons vos équipes pour opérer votre mutation vers le Cloud-Natif.
