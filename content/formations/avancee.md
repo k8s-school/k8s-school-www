@@ -1,5 +1,5 @@
 ---
-title: 'Business Advisory'
+title: 'Formation avancée'
 date: 2018-11-28T15:14:39+10:00
 image: '/services/default.png'
 featured: true

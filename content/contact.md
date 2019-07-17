@@ -4,4 +4,4 @@ date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
 
-Contactez-nous par courriel ou téléphone pour définir une solution sur-mesure.
+Contactez-nous par pour définir une solution sur-mesure.

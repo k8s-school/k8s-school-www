@@ -1,5 +1,5 @@
 ---
-title: 'Accounting'
+title: 'Formation essentielle'
 date: 2018-11-18T12:33:46+10:00
 image: '/services/noun_591323.png'
 draft: false
@@ -7,48 +7,77 @@ featured: true
 weight: 1
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Cette formation éprouvée vous montera rapidement en compétence sur les concepts clés de Kubernetes et du Cloud-Natif. 
 
-## Ne verba patulosque numen vix libet
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## OBJECTIFS
+- Comprendre l’intérêt et les caractéristiques des microservices
+- Savoir déployer des applications “Cloud-Native”
+- Maîtriser kubeadm, l’outil d’installation de Kubernetes
+- Comprendre comment déployer Kubernetes en production
+- Déployer à grande échelle ses applications sur un cluster ou dans le cloud
+- Permettre le passage à l’échelle automatique des applications
+- Mettre en place la haute-disponibilité et l’auto-réparation des services logiciels
+- Optimiser le stockage de grandes masses de données avec les volumes
+- Disposer d’un monitoring avancé de l’infrastructure et des applications
+- Automatiser la mise à jour des versions logicielles de ses applications
+ 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## PUBLIC VISÉ
+Développeurs, Architectes, Administrateurs systèmes, DevOps
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+ 
 
-## Postquam tamen
+## PRÉ-REQUIS
+Avoir des connaissances de base sur les conteneurs
+Connaissances de base d’un système Unix
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+# PROGRAMME DE LA FORMATION KUBERNETES
+ 
+## INTRODUCTION AUX MICRO-SERVICES
+- Les bonnes pratiques : la méthodologie des “12 facteurs”
+- Application monolithique versus Micro-services
+- Faire évoluer une application vers les micro-services
+ 
+## RAPPELS SUR LES CONTENEURS
+- Vue d’ensemble de Docker
+- Vue d’ensemble des conteneurs
+- Installer et exécuter des images Docker
+- Interagir avec des conteneurs
+- Créer ses propres images
+- Différence entre les dépôts privés et publics
+ 
+## KUBERNETES : LES BASES
+- Créer un cluster Kubernetes : sur votre poste de travail, dans votre datacenter ou dans le cloud.
+- Architecture et composants de Kubernetes (côté Control Plane et Node)
+- Cycle de vie d’une requête kubectl
+- Déployer une application sur plusieurs machines
+- Explorer une application
+- Exposer une application sur le réseau
+- Passage à l’échelle
+ 
+## KUBERNETES : LES PRINCIPAUX CONCEPTS
+- Vue d’ensemble des Pods
+- Interagir avec les Pods
+- Configuration et sécurité d’une application (ConfigMaps et Secrets)
+- Vue d’ensemble des Services (ClusterIP, NodePort, LoadBalancer, Headless)
+- Créer ses propres services pour exposer ses applications
+- Organiser ses Pods avec les Labels
+ 
+## DÉPLOYER SES MICRO-SERVICES
+- Stratégies de déploiement en mode “Cloud-Native”
+- Stratégies de calcul intensif (Jobs)
+- Cas pratique: déploiements avec kubectl et yaml
+- Stratégies de passage à l’échelle (Replicasets et Daemonsets)
+- Cas pratique : utilisation des réplicas
+- Cas pratique : installation d’un gestionnaire de journaux distribués
+- Stratégie de mise à jour logicielle (Deployments)
+- Cas pratique : Rolling update
+- Gérer simplement ses mises à jour applicatives
+- Techniques avancées : déploiement blue/green, canary
+ 
+## CONCEPTS AVANCÉS
+- Stockages volatiles et persistants (PersistentVolume / PersistentVolumeClaim)
+- Techniques de supervision avancées : Prometheus
+- Déploiement des bases de données distribuées (StatefulSet)
+- Cas pratique : installation de MongoDB et Redis en mode distribué
