@@ -31,7 +31,7 @@ theme = "hugo-serif-theme"
 
 [[menu.main]]
     name = "Equipe"
-    url = "/equipe/"
+    url = "/team/"
     weight = 3
 
 [[menu.main]]

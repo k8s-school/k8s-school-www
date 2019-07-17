@@ -1,6 +1,6 @@
 ---
-title: 'Team'
-intro_image: images/face.png
+title: 'Equipe'
+intro_image: images/team.jpg
 ---
 
 # Rencontrez notre équipe
