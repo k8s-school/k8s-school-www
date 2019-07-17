@@ -20,19 +20,24 @@ theme = "hugo-serif-theme"
 
 # Main Menu
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "Conseil"
+	url = "/conseil/"
     weight = 1
 
 [[menu.main]]
-    name = "Team"
-    url = "/team/"
+	name = "Formations"
+	url = "/formations/"
     weight = 2
 
 [[menu.main]]
-	name = "About"
-	url = "/about/"
-	weight = 3
+    name = "Equipe"
+    url = "/equipe/"
+    weight = 3
+
+[[menu.main]]
+	name = "References"
+	url = "/references/"
+	weight = 4
 
 [[menu.main]]
     name = "Contact"
@@ -42,7 +47,7 @@ theme = "hugo-serif-theme"
 
 # Footer Menu
 [[menu.footer]]
-	name = "Home"
+	name = "Accueil"
 	url = "/"
     weight = 1
 
