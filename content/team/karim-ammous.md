@@ -2,13 +2,14 @@
 title: 'Karim Ammous'
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: 'team/peter-van-eijk-711986-unsplash.jpg'
+image: 'team/kammous.jpg'
 jobtitle: 'Architecte Kubernetes'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/in/karim-ammous'
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Docteur en Informatique et architecte logiciel d'applications distribuées Java J2EE complexes et innovantes. 
+Agrément travaux R&D éligibles CIR (Crédit d'Impôt Recherche) délivré par le MESR (Ministère de l'Enseignement Supérieur et de la Recherche). 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Avec une expérience de plus de trois ans dans le conseil et le support des clients dans la mise en place d'une infrastructure à base de kubernetes et la migration des applications vers Kubernetes.
