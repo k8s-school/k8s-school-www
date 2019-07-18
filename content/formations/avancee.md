@@ -1,61 +1,66 @@
 ---
 title: 'Formation avancée'
-date: 2018-11-28T15:14:39+10:00
+date: 2018-11-18T12:33:46+10:00
 image: '/services/default.png'
-featured: true
 draft: false
+featured: true
+weight: 2
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+Cette formation offre une large palette de cas pratiques avancé, et expose les concepts permettant de migrer vos plate-formes de production vers le Cloud-Natif.
 
-## Inter pectore totidem
+# PROGRAMME DE LA FORMATION "AVANCEE"
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+## RAPPELS SUR KUBERNETES (optionnel)
+- Orchestration de conteneur et L’API Kubernetes
+- Objets de base : Pods, ReplicaSets et Services
+- Organisation de votre cluster avec les namespaces les labels et les annotations
+- Concepts avancés : Deployments, ingress et StatefulSets
+- Moteur de Batch : Job et ScheduledJob
+- Agents de cluster et utilitaires : DaemonSets
+ 
 
-## Novis hunc qua erat caecisque
+# ARCHITECTURE DE KUBERNETES
+- Concepts
+- Configuration déclarative
+- Groupement implicite ou dynamique
+- Philosophie Unix de nombreux composants
+- Interactions pilotées par les API
+- Composants du nœud principal et des  nœuds de travail
+- Gestion et fonctionnement interne du serveur d’API
+- Description du scheduler Kubernetes, prédicats et priorités
+- Contrôle de la planification avec les Labels et les Affinity NodeSelector, NodeAffinity, Taints and Tolerations
+ 
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+## INSTALLATION EN PRODUCTION
+- Configuration de kubeadm
+- Installation du “Control Plane”
+- Installation des nœuds de travail
+- Les phases
+- La haute disponibilité
+- Automatisation des upgrade
+ 
+## GESTION DES UTILISATEURS
+- Authentification
+- Paramétrage du fichier Kubeconfig
+- Gestion des ServiceAccounts
+- Autorisations
+- RBAC : Role et ClusterRole, RoleBinding et ClusterRoleBinding
+- Contrôle d’admission
+- PodSecurityPolicies, ResourceQuota et LimitRange
+- Gestion des contrôleurs d’admission
+ 
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
-
-## Naiades latuere rubenti tendere os Phrygum eminus
-
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+## RÉSEAU
+- Choix d’un plug-in réseau
+- Kube-proxy: fonctionnement avancé des réseaux virtuels
+- Service discovery
+- NetworkPolicies
+ 
+# MONITORING
+- Objectifs de surveillance, différences entre journalisation et surveillance
+- Construire une pile logicielle de surveillance
+- Obtenir des données de votre cluster et de vos applications
+- Agrégation de métriques et de journaux provenant de sources multiples
+- Stockage des données pour la récupération et l’interrogation
+- Visualiser et interagir avec vos données

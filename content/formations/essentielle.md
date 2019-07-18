@@ -32,7 +32,7 @@ Développeurs, Architectes, Administrateurs systèmes, DevOps
 Avoir des connaissances de base sur les conteneurs
 Connaissances de base d’un système Unix
 
-# PROGRAMME DE LA FORMATION KUBERNETES
+# PROGRAMME DE LA FORMATION "ESSENTIELLE"
  
 ## INTRODUCTION AUX MICRO-SERVICES
 - Les bonnes pratiques : la méthodologie des “12 facteurs”
