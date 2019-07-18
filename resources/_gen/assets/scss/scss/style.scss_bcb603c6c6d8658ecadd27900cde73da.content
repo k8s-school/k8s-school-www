@@ -11688,7 +11688,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 36px;
     height: 3px;
-    background-color: #f88379;
+    background-color: #1c3ed3;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -11852,7 +11852,7 @@ table {
   border-spacing: 0; }
 
 a {
-  color: #f88379; }
+  color: #1c3ed3; }
 
 img {
   max-width: 100%;
@@ -11899,7 +11899,7 @@ h2 {
       line-height: 1.4; } }
 
 h3 {
-  color: #f88379;
+  color: #1c3ed3;
   font-size: 16px;
   line-height: 1.4; }
   @media (min-width: 768px) {
@@ -11924,7 +11924,7 @@ h3 {
     flex: 1 0 0; }
 
 .header {
-  color: #f88379;
+  color: #1c3ed3;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -12096,17 +12096,17 @@ h3 {
         display: inline-block;
         font-weight: regular;
         text-decoration: none;
-        color: #f88379; }
+        color: #1c3ed3; }
         .main-menu > ul > li > a:hover {
           text-decoration: underline; }
       .main-menu > ul > li.active > a {
-        background: #f88379;
+        background: #1c3ed3;
         border-radius: 3px;
         text-decoration: none;
         color: #ffffff; }
         .main-menu > ul > li.active > a:hover {
           text-decoration: none;
-          background: #f88379;
+          background: #1c3ed3;
           transition: all 225ms ease-in 0s;
           color: #ffffff; }
 
@@ -12131,7 +12131,7 @@ h3 {
     transform: translateY(-11px) translateX(0) rotate(-45deg);
     background: #ffffff; }
   .button_container span {
-    background: #f88379;
+    background: #1c3ed3;
     border: none;
     height: 5px;
     width: 100%;
@@ -12147,7 +12147,7 @@ h3 {
 
 .main-menu-mobile {
   position: fixed;
-  background: #f88379;
+  background: #1c3ed3;
   top: 0;
   left: 0;
   width: 100%;
@@ -12233,7 +12233,7 @@ h3 {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #f88379; }
+    background: #1c3ed3; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -12248,7 +12248,7 @@ h3 {
   line-height: 40px;
   padding: 0 14px;
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
-  background: #f88379;
+  background: #1c3ed3;
   border-radius: 4px;
   font-size: 15px;
   font-weight: 600;
@@ -12260,7 +12260,7 @@ h3 {
   transition: all 0.15s ease; }
   .button:hover {
     color: #ffffff;
-    background-color: #fbb0a9;
+    background-color: #3d5ce5;
     transform: translateY(-1px);
     box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
     text-decoration: none; }
@@ -12306,7 +12306,7 @@ h3 {
         height: 120px; } }
 
 .title {
-  color: #f88379;
+  color: #1c3ed3;
   font-size: 48px;
   line-height: 1.2; }
   @media (min-width: 992px) {
@@ -12349,7 +12349,7 @@ h3 {
       line-height: 1.4; } }
 
 .content h3 {
-  color: #f88379;
+  color: #1c3ed3;
   line-height: 1.4;
   font-weight: 200;
   letter-spacing: 1px; }
@@ -12390,7 +12390,7 @@ h3 {
       padding-top: 160px;
       padding-bottom: 160px; } }
   .intro h1 {
-    color: #f88379;
+    color: #1c3ed3;
     font-size: 48px;
     line-height: 1.2; }
     @media (min-width: 992px) {
@@ -12454,13 +12454,13 @@ h3 {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #f88379, #575766); }
+  background-image: linear-gradient(to right, #1c3ed3, #575766); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #f88379, #575766); }
+  background-image: linear-gradient(to bottom, #1c3ed3, #575766); }
 
 .strip-primary {
-  background-color: #f88379; }
+  background-color: #1c3ed3; }
 
 .strip-secondary {
   background-color: #575766; }
@@ -12538,7 +12538,7 @@ h3 {
 .page-services-single h1.title {
   font-size: 3rem;
   font-family: "DM Serif Display", serif, -apple-system;
-  color: #f88379; }
+  color: #1c3ed3; }
 
 .page-services-single .content > p:first-of-type {
   font-size: 1.6rem;
