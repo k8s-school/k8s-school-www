@@ -20,7 +20,7 @@ Cette formation offre une large palette de cas pratiques avancé, et expose les 
 - Agents de cluster et utilitaires : DaemonSets
  
 
-# ARCHITECTURE DE KUBERNETES
+## ARCHITECTURE DE KUBERNETES
 - Concepts
 - Configuration déclarative
 - Groupement implicite ou dynamique
@@ -57,7 +57,7 @@ Cette formation offre une large palette de cas pratiques avancé, et expose les 
 - Service discovery
 - NetworkPolicies
  
-# MONITORING
+## MONITORING
 - Objectifs de surveillance, différences entre journalisation et surveillance
 - Construire une pile logicielle de surveillance
 - Obtenir des données de votre cluster et de vos applications
