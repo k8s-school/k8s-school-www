@@ -1,5 +1,5 @@
 ---
-title: 'Accounting'
+title: 'Infrastructures'
 date: 2018-11-18T12:33:46+10:00
 image: '/services/noun_591323.png'
 draft: false
@@ -7,9 +7,7 @@ featured: true
 weight: 1
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Déployez Kubernetes sur vos plate-formes de dévelopement, sur vos clusters On-Premise et débordez dans le Cloud si nécessaire. 
 
 ## Ne verba patulosque numen vix libet
 
