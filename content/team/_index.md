@@ -1,6 +1,6 @@
 ---
 title: 'Equipe'
-intro_image: images/team.jpg
+intro_image: images/pods.png
 ---
 
 # Rencontrez notre équipe

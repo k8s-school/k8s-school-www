@@ -1,6 +1,6 @@
 ---
 title: 'Services'
-intro_image: images/logo_k8s.png
+intro_image: images/cncf-logos.png
 ---
 
 # Kubernetes sur-mesure

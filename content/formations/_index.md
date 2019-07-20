@@ -1,6 +1,6 @@
 ---
 title: 'Services'
-intro_image: images/tree.png
+intro_image: images/kind-demo.gif
 ---
 
 # Embarquez pour le Cloud-Natif

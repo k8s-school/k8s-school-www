@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-intro_image: images/bulb.png
+intro_image: images/logo_k8s.png
 ---
 
 # L'expertise Kubernetes
