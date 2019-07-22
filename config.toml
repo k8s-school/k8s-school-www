@@ -1,4 +1,4 @@
-baseURL = "www.k8s-school.eu"
+baseURL = "http://k8s-school.github.io/"
 languageCode = "fr-fr"
 title = "K8s-school"
 themesDir = "themes"
@@ -34,10 +34,10 @@ theme = "hugo-serif-theme"
     url = "/team/"
     weight = 3
 
-[[menu.main]]
-	name = "References"
-	url = "/references/"
-	weight = 4
+# [[menu.main]]
+#	name = "References"
+#	url = "/references/"
+#	weight = 4
 
 [[menu.main]]
     name = "Contact"
