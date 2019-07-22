@@ -12,3 +12,4 @@ git chekcout master
 git pull
 # Then rebase branch k8s-school on master
 ```
+# k8s-school.github.io
