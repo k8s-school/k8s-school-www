@@ -9,8 +9,9 @@ weight: 1
 
 Cette formation éprouvée vous montera rapidement en compétence sur les concepts clés de Kubernetes et du Cloud-Natif. 
 
+--------------
 
-## OBJECTIFS
+# OBJECTIFS
 - Comprendre l’intérêt et les caractéristiques des microservices
 - Savoir déployer des applications “Cloud-Native”
 - Maîtriser kubeadm, l’outil d’installation de Kubernetes
@@ -23,14 +24,16 @@ Cette formation éprouvée vous montera rapidement en compétence sur les concep
 - Automatiser la mise à jour des versions logicielles de ses applications
  
 
-## PUBLIC VISÉ
+# PUBLIC VISÉ
 Développeurs, Architectes, Administrateurs systèmes, DevOps
 
  
 
-## PRÉ-REQUIS
+# PRÉ-REQUIS
 Avoir des connaissances de base sur les conteneurs
 Connaissances de base d’un système Unix
+
+------------------------
 
 # PROGRAMME DE LA FORMATION "ESSENTIELLE"
  
