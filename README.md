@@ -8,7 +8,7 @@ git checkout k8s-school
 
 # Update master to upstream
 git remote add upstream https://github.com/JugglerX/hugo-serif-theme
-git chekcout master
+git checkout master
 git pull
 # Then rebase branch k8s-school on master
 ```
