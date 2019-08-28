@@ -1,5 +1,5 @@
 ---
-title: 'Infrastructures'
+title: 'Infrastructures et Production'
 date: 2018-11-18T12:33:46+10:00
 image: '/services/noun_591323.png'
 draft: false
@@ -7,9 +7,13 @@ featured: true
 weight: 1
 ---
 
-Déployez Kubernetes sur vos plate-formes de dévelopement, sur vos clusters On-Premise et débordez dans le Cloud si nécessaire. 
+Appui pour le déploiement de Kubernetes sur plate-formes de production, de dévelopement, sur clusters On-Premise et pour déborder dans le Cloud si nécessaire. 
 
-## Ne verba patulosque numen vix libet
+## Installation et déploiement
+
+Fabrice supervise la gestion d'un cluster Kubernetes de plusieurs dizaines de machines dans un centre de calcul académique
+national. Il a en outre mené plusieurs expérimentation Kubernetes dans le cloud, notamment avec les ingénieurs de Stanford et de Google Cloud Platform.
+Ses compétences permettent de bénéficier d'un cluster opérationnel et performant pour un coût très compétifif.
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
@@ -27,26 +31,14 @@ dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
 esse iam feres mortis Plurima.
 
-## Postquam tamen
+## Sécurité
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+- PodSecurityPolicies 
+- NetworkPolicies
+- Service Mesh
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Supervision
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+- Prometheus
+- EFK
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
