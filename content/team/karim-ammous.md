@@ -9,7 +9,6 @@ linkedinurl: 'https://www.linkedin.com/in/karim-ammous'
 weight: 1
 ---
 
-Docteur en Informatique et architecte logiciel d'applications distribuées Java J2EE complexes et innovantes. 
-Agrément travaux R&D éligibles CIR (Crédit d'Impôt Recherche) délivré par le MESR (Ministère de l'Enseignement Supérieur et de la Recherche). 
+Docteur en Informatique, architecte de solutions orientées micro-services, Karim possède en outre une solide expertise en Java.
 
-Avec une expérience de plus de trois ans dans le conseil et le support des clients dans la mise en place d'une infrastructure à base de kubernetes et la migration des applications vers Kubernetes.
+Avec une expérience de plusieurs années dans le conseili, Karim pilote actuellement un projet international de mise en place d'infrastructures Kubernetes et de migration d'applications complexes vers le Cloud-Natif.
