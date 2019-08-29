@@ -18,6 +18,6 @@ yafc  <<**
 open fish://"$SERVER_USER"@"$SERVER"
 cd "$SERVER_DIR"
 rm -rf *
-put -rf $LOCAL_DIR
+put -rf $LOCAL_DIR/*
 close
 **
