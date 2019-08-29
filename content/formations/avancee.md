@@ -7,7 +7,7 @@ featured: true
 weight: 2
 ---
 
-Cette formation offre une large palette de cas pratiques avancé, et expose les concepts permettant de migrer vos plate-formes de production vers le Cloud-Natif.
+Cette formation offre une large palette de cas pratiques avancés, et expose les concepts permettant de migrer vos plate-formes de production vers le Cloud-Natif.
 
 # PROGRAMME DE LA FORMATION "AVANCEE"
 
