@@ -11,4 +11,4 @@ weight: 1
 
 Docteur en Informatique, architecte de solutions orientées micro-services, Karim possède en outre une solide expertise en Java.
 
-Avec une expérience de plusieurs années dans le conseili, Karim pilote actuellement un projet international de mise en place d'infrastructures Kubernetes et de migration d'applications complexes vers le Cloud-Natif.
+Avec une expérience de plus de 10 ans dans le conseil, Karim pilote actuellement un projet international de mise en place d'infrastructures Kubernetes et de migration d'applications complexes vers le Cloud-Natif.
