@@ -7,8 +7,9 @@ featured: true
 weight: 2
 ---
 
-Cette formation avancée offre une large palette de cas pratiques(~50%), et expose les concepts permettant de migrer vos plate-formes de production vers le Cloud-Natif.
+Cette formation avancée offre une large palette de cas pratiques(~50%), et expose les concepts permettant de migrer vos plate-formes de production vers le Cloud-Natif. La sécurisation de votre infrastructure est couverte de manière approfondie avec les PodSecurityPolicies, les NetworkPolicies, et la gestion avancée des utilisateurs et des droits associés (RBAC)/
 
+Elles concernents les ingénieurs systèmes souhaitant opérer Kubernetes en production, et les développeurs souhaitant délivrer des applications fiables et sécurisées.
 
 Programme complet:
 
