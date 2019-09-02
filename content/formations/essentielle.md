@@ -1,5 +1,5 @@
 ---
-title: 'Kubernetes et les micro-services'
+title: 'Formation Kubernetes et les micro-services'
 date: 2018-11-18T12:33:46+10:00
 image: '/services/noun_591323.png'
 draft: false
@@ -7,7 +7,7 @@ featured: true
 weight: 1
 ---
 
-Cette formation éprouvée vous permettra de monter rapidement en compétence sur les concepts clés de Kubernetes et du Cloud-Natif.
+Cette formation Kubernetes éprouvée vous permettra de monter rapidement en compétence sur les concepts clés de Kubernetes et du Cloud-Natif.
 Vous comprendrez l'intérêt des architectures micro-services et de leur mise en oeuvre sur les plate-formes de développement et de production.
 
 Nos formateurs partagerons avec vous leur expérience du sujet et apporteront des réponses précises relatives à vos cas d'utilisation.
@@ -15,10 +15,15 @@ Nos formateurs partagerons avec vous leur expérience du sujet et apporteront de
 Cette formation couvre l'ensemble des concepts fondamentaux requis pour obtenir la prestigieuse certification CKA (Certifiate Kubernetes Administrator)
 
 
-Programme complet:
+# Programme complet:
 
 [![Programme](/images/pdf-64x64.png)](https://docs.google.com/document/d/1w0sCYoqfs59aT68TphxP4i4Gtl0l0ScWDVJA1o-m52c/export?format=pdf)
 [![Programme doc](/images/google_doc_logo.jpg)](https://docs.google.com/document/d/1w0sCYoqfs59aT68TphxP4i4Gtl0l0ScWDVJA1o)
+
+# Tarif:
+
+*1980 euros HT par personne pour 3 jours* (21 heures) de formation.
+650 euros par personne pour chaque jour de formation optionnelle en plus.
 
 
 ![Architecture de Kubernetes](https://docs.google.com/drawings/d/1mOGXWcwW-MlLex6j1WjfkmlpDWPbk5aU-y7RXoJownk/export/png)

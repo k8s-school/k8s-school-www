@@ -1,8 +1,8 @@
 ---
-title: 'Home'
+title: 'Expertise et Formation Kubernetes'
 intro_image: images/logo_k8s.png
 ---
 
-# L'expertise Kubernetes
+# Expertise et formation Kubernetes
 
-## Démultipliez la puissance de vos applications en embarquant pour le Cloud-Natif.
+## Grâce à nos formations Kubernetes de haute-qualité, embarquez pour le Cloud-Natif et démultipliez la puissance de vos applications.
