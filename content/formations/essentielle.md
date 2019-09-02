@@ -15,7 +15,7 @@ Nos formateurs partagerons avec vous leur expérience du sujet et apporteront de
 Cette formation couvre l'ensemble des concepts fondamentaux requis pour obtenir la prestigieuse certification CKA (Certifiate Kubernetes Administrator)
 
 
-# Programme complet:
+# Programme:
 
 [![Programme](/images/pdf-64x64.png)](https://docs.google.com/document/d/1w0sCYoqfs59aT68TphxP4i4Gtl0l0ScWDVJA1o-m52c/export?format=pdf)
 [![Programme doc](/images/google_doc_logo.jpg)](https://docs.google.com/document/d/1w0sCYoqfs59aT68TphxP4i4Gtl0l0ScWDVJA1o)

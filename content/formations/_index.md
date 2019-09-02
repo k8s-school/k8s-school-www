@@ -1,5 +1,5 @@
 ---
-title: 'Formation Kubernetes'
+title: 'Formations Kubernetes'
 intro_image: images/cncf-logos.png
 ---
 
