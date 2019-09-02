@@ -5,7 +5,7 @@ themesDir = "themes"
 theme = "hugo-serif-theme"
 
 [params]
-  google_analytics_id=""
+  google_analytics_id="UA-146891246-1"
 
   [params.homepage_meta_tags]
     meta_description = "K8s School fournit de l'expertise et de la formation Kubernetes et Cloud-Natif"
