@@ -11,13 +11,13 @@ Cette formation Kubernetes avancée offre une large palette de cas pratiques(~50
 
 Elles concernents les ingénieurs systèmes souhaitant opérer Kubernetes en production, et les développeurs souhaitant délivrer des applications fiables et sécurisées.
 
-Programme complet:
+# Programme complet:
 
 [![Programme pdf](/images/pdf-64x64.png)](https://docs.google.com/document/d/144AYNNxp5bbkovew-TM4AJevaPo0ytNnqPzsxflc2IQ/export?format=pdf)
 [![Programme doc](/images/google_doc_logo.jpg)](https://docs.google.com/document/d/144AYNNxp5bbkovew-TM4AJevaPo0ytNnqPzsxflc2IQ)
 
 # Tarif:
 
-*2250 euros HT par personne pour 3 jours* (21 heures) de formation.
+**2250 euros HT par personne pour 3 jours** (21 heures) de formation.
 
 ![Architecture de Kubernetes](https://docs.google.com/drawings/d/1mOGXWcwW-MlLex6j1WjfkmlpDWPbk5aU-y7RXoJownk/export/png)
