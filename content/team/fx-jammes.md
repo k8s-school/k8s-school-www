@@ -12,3 +12,4 @@ weight: 2
 Ingénieur passionné par l'innovation et le déploiement de nouvelles technologies, François-Xavier apporte une expertise opérationnelle de premier plan à des leaders mondiaux tels que Amazon. Basé à Menlo Park, François-Xavier offre aux clients de K8s-School une connection directe avec la Silicon Valley et leur permet d'anticiper sur les évolutions technologiques majeures à venir.
 
 François-Xavier est titulaire d'un diplôme d'ingénieur du MIT (Massachusetts Institute of Technology et d'un MBA de la prestigieuses université de Stanford.
+
