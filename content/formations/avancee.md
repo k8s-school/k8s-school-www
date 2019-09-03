@@ -20,4 +20,4 @@ Cette formation Kubernetes s'adresse aux ingénieurs systèmes souhaitant opére
 
 **2250 euros HT par personne pour 3 jours** (21 heures) de formation.
 
-![Architecture de Kubernetes](https://docs.google.com/drawings/d/1mOGXWcwW-MlLex6j1WjfkmlpDWPbk5aU-y7RXoJownk/export/png)
+![Concepts avancés de Kubernetes](https://docs.google.com/drawings/d/1lxK0NWtRou1YfzghaokTyEKB7VJswWXx2-hsp5z0Lko/export/png)
