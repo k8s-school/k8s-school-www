@@ -11,6 +11,6 @@ weight: 1
 
 Titulaire de la CKA (Certifiate Kubernetes Administrator), et speaker lors de la prestigieuse KubeCon2019 à Barcelone.
 
-Ingénieur de recherche CNRS et responsable français pour la base de données du télescope LSST, dénommée Qserv (https://github.com/lsst/qserv). Cette base de données distribuée, destinée à stocker un catalogue d’objets célestes de plusieurs PetaOctets, est développée par ~10 ingénieurs de l’université de Stanford ainsi que Fabrice, référent Cloud-Natif et Kubernetes. C'est notamment Fabrice qui conçoit et développe la procédure de déploiement à grande échelle de Qserv (~500 machines par clusters), entièrement basée sur Kubernetes.
+Ingénieur de recherche CNRS et responsable français pour la base de données du télescope LSST, dénommée Qserv (https://github.com/lsst/qserv). Cette base de données distribuée, destinée à stocker un catalogue d’objets célestes de plusieurs PetaOctets, est développée par ~10 ingénieurs de l’université de Stanford ainsi que Fabrice, référent Cloud-Natif et Kubernetes. Fabrice conçoit et développe la procédure de déploiement à grande échelle de Qserv (~500 machines par clusters), entièrement integrée à Kubernetes.
 
 {{< youtube id="YC_nIGbI8Hk" autoplay="false" >}}
