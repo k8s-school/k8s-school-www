@@ -8,11 +8,11 @@ weight: 1
 ---
 
 Cette formation Kubernetes éprouvée vous permettra de monter rapidement en compétence sur les concepts clés de Kubernetes et du Cloud-Natif.
-Vous comprendrez l'intérêt des architectures micro-services et de leur mise en oeuvre sur les plate-formes de développement et de production.
+Vous comprendrez l'intérêt des architectures micro-services et de leur mise en œuvre sur les plate-formes de développement et de production.
 
-Nos formateurs partagerons avec vous leur expérience du sujet et apporteront des réponses précises relatives à vos cas d'utilisation.
+Nos formateurs partageront avec vous leur expérience du sujet et apporteront des réponses précises relatives à vos cas d'utilisation.
 
-Cette formation couvre l'ensemble des concepts fondamentaux requis pour obtenir la prestigieuse certification CKA (Certifiate Kubernetes Administrator)
+Cette formation couvre l'ensemble des concepts fondamentaux requis pour obtenir la prestigieuse certification CKA (Certified Kubernetes Administrator)
 
 
 # Programme:
