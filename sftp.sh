@@ -5,6 +5,8 @@ set -x
 
 DIR=$(cd "$(dirname "$0")"; pwd -P)
 
+hugo
+
 # directory to backup
 SERVER_DIR="www"
 

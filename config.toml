@@ -11,8 +11,8 @@ theme = "hugo-serif-theme"
     meta_description = "K8s School fournit de l'expertise et de la formation Kubernetes et Cloud-Natif"
     meta_og_title = "K8s School"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-serif.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+    meta_og_url = "https://k8s-school.fr"
+    meta_og_image = "https://k8s-school.fr/images/logo.png"
     meta_og_description = "K8s School fournit une formation Kubernetes pour les micro-services et une formation Kubernetes avancée"
     meta_twitter_card = "summary"
     meta_twitter_site = "@zerostaticio"
@@ -42,6 +42,11 @@ theme = "hugo-serif-theme"
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
+    weight = 5
+
+[[menu.main]]
+    name = "Ressources"
+    url = "/resources/"
     weight = 5
 
 
