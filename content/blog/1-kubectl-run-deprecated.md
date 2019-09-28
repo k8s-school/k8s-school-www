@@ -1,9 +1,11 @@
 # Alternatives for deprecated 'kubectl run' commands
 `kubectl run` command is a convenient and useful way to quickly create kubernetes resources without dealing with yaml files. Since kubernetes v1.12, creation acknowledgment ("object created") is preceded by a message noting that this creation command is deprecated and will no more available in a feature version.
 
-Indeed, we can create some "runnable" resources like Pod and Deployment ([the complete list](https://kubernetes.io/docs/reference/kubectl/conventions/#generators)) using 'kubectl run' with the `--generator` flag. However, those generators have been deprecated since v1.12 except 'run-pod/v1' generator.
+Indeed, we can create some "runnable" resources like Pod and Deployment ([the complete list](https://kubernetes.io/docs/reference/kubectl/conventions/#generators)) using `kubectl run` command by setting the `--generator` flag with the appropriate value. However, those generators have been deprecated since v1.12 except 'run-pod/v1' generator.
 
 The above deprecation covers `--restart` and `--generator` flags as well. Like `--generator` flag, they are also used to set generator.
+
+<center>
 
 | Generated Resource       |  Flag                 | 
 | -----------------------  |:--------------------  |
@@ -12,7 +14,10 @@ The above deprecation covers `--restart` and `--generator` flags as well. Like `
 | Job (deprecated)         | --restart=OnFailure   | 
 | Cron Job (deprecated)    | --schedule=\<cron\>   |
 
+
 Source: [kubernetes.io](https://kubernetes.io/docs/reference/kubectl/conventions/#generators)
+
+</center>
 
 This post aims to list available alternatives in latest available kubernetes version at the time of writing which is **v1.15.4** for both client and server.
 ## Pod
@@ -43,7 +48,7 @@ It talks about two alternatives. Only the `kubectl create` command works as expe
 ```
 kubectl create deployment nginx --image=nginx 
 ```
-Please note that by moving to `kubectl create` command, we are losing the ability to fully customize generated Deployment. For exmaple, it is no longer possible to define replicas (--replicas option), resources (`--requests` and `--limits` options) or implicitly create an associated Service with `--expose` option.
+Please note that by moving to `kubectl create` command, we are losing the ability to fully customize generated Deployment. For exmaple, it is no longer possible to define replicas (`--replicas` option), resources (`--requests` and `--limits` options) or implicitly create an associated Service with `--expose` option.
 ## Job
 Deprecated command:
 ```
