@@ -4,12 +4,14 @@
 Indeed, we can create some "runnable" resources like Pod and Deployment ([the complete list](https://kubernetes.io/docs/reference/kubectl/conventions/#generators)) using 'kubectl run' with the `--generator` flag. However, those generators have been deprecated since v1.12 except 'run-pod/v1' generator.
 
 The above deprecation covers `--restart` and `--generator` flags as well. Like `--generator` flag, they are also used to set generator.
+
 | Generated Resource       |  Flag                 | 
 | -----------------------  |:--------------------  |
 | Pod                      | --restart=Never       | 
 | Deployment (deprecated)  | --restart=Always      | 
 | Job (deprecated)         | --restart=OnFailure   | 
 | Cron Job (deprecated)    | --schedule=\<cron\>   |
+
 Source: [kubernetes.io](https://kubernetes.io/docs/reference/kubectl/conventions/#generators)
 
 This post aims to list available alternatives in latest available kubernetes version at the time of writing which is **v1.15.4** for both client and server.
