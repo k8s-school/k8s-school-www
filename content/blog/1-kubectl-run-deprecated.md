@@ -39,6 +39,9 @@ deployment.apps/nginx created
 ```
 It talks about two alternatives. Only the `kubectl create` command works as expected and generate a Deployment resource.
 
+### Note
+    Please note that by moving to 'kubectl create' command, we are losing the ability to fully customize generated Deployment. For exmaple, it is no longer possible to define replicas (--replicas option), resources (--requests and --limits options) or implicit exposition with a Service (--expose option).
+
 **"Create" command alternative**
 ```
 kubectl create deployment nginx --image=nginx 
