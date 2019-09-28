@@ -18,6 +18,7 @@ LOCAL_DIR="./public"
 
 yafc  <<**
 open fish://"$SERVER_USER":$SERVER_PASS@"$SERVER"
+mkdir "$SERVER_DIR"
 cd "$SERVER_DIR"
 rm -rf *
 put -rf $LOCAL_DIR/*

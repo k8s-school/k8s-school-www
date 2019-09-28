@@ -1,4 +1,4 @@
-baseURL = "http://k8s-school.fr/"
+baseURL = "https://k8s-school.fr/"
 languageCode = "fr-fr"
 title = "K8s-school"
 themesDir = "themes"
