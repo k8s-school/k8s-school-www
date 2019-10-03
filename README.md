@@ -4,6 +4,7 @@
 cd themes
 rmdir hugo-serif-theme
 git clone https://github.com/k8s-school/hugo-serif-theme.git
+cd hugo-serif-theme
 git checkout k8s-school
 
 # Update master to upstream
