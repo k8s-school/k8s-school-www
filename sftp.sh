@@ -17,11 +17,14 @@ PDF_DIR="$DIR/content/pdf"
 
 . "$DIR/env-creds.sh"
 
-#yafc fish://"$SERVER_USER"@"$SERVER"
 
+# Access to pdf directory
 htpasswd -bc "$PDF_DIR/.htpasswd" "$HTACCESS_USER" "$HTACCESS_PASS" 
-cp -r "$PDF_DIR" "$LOCAL_DIR"
 
+# 404 management
+cp "$DIR/.htaccess" "$LOCAL_DIR"
+
+#yafc fish://"$SERVER_USER"@"$SERVER"
 yafc  <<**
 open fish://"$SERVER_USER":$SERVER_PASS@"$SERVER"
 mkdir "$SERVER_DIR"
