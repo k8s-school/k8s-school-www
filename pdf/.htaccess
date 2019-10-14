@@ -1,1 +1,4 @@
-k8s:$apr1$8D6PGNnk$G/loOHJYUzuZEIePWJnBe1
+AuthType Basic
+AuthName "K8s school protected Area"
+AuthUserFile /pdf/.htpasswd
+Require valid-user
