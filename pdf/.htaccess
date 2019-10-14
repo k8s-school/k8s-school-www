@@ -1,4 +1,4 @@
 AuthType Basic
-AuthName "K8s school protected Area"
+AuthName "K8s school protected area"
 AuthUserFile /pdf/.htpasswd
 Require valid-user
