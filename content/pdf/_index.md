@@ -1,5 +1,5 @@
 ---
-title: 'Services'
+title: 'Support de cours'
 intro_image: images/cncf-logos.png
 ---
 
