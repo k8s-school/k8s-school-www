@@ -12,7 +12,7 @@ SERVER_DIR="www"
 
 LOCAL_DIR="$DIR/public"
 
-PDF_DIR="$DIR/pdf"
+PDF_DIR="$DIR/content/pdf"
 
 
 . "$DIR/env-creds.sh"

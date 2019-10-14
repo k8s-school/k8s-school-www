@@ -1,5 +1,7 @@
 # Install
 
+## Theme management
+
 ```shell
 cd themes
 rmdir hugo-serif-theme
@@ -13,4 +15,6 @@ git checkout master
 git pull
 # Then rebase branch k8s-school on master
 ```
-# k8s-school.github.io
+# Google drive management
+
+See https://developers.google.com/admin-sdk/directory/v1/quickstart/go

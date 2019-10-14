@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "K8s school protected area"
-AuthUserFile /pdf/.htpasswd
+AuthUserFile /home/<FTP_LOGIN>/www/pdf/.htpasswd
 Require valid-user
