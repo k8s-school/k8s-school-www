@@ -17,7 +17,7 @@ Top!
 
 Très bonne formation
 Le formateur est excellent! Connaissance de Kubernetes, et de tout son écosystème, capacité de mettre les concepts à notre portée
-Je recommande vivement cette formation?
+Je recommande vivement cette formation.
 
 ## Philippe, CNRS:
 
