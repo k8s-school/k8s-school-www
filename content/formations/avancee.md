@@ -13,8 +13,7 @@ Cette formation Kubernetes s'adresse aux ingénieurs systèmes souhaitant opére
 
 # Programme:
 
-[![Programme pdf](/images/pdf-64x64.png)](https://docs.google.com/document/d/144AYNNxp5bbkovew-TM4AJevaPo0ytNnqPzsxflc2IQ/export?format=pdf)
-[![Programme doc](/images/google_doc_logo.jpg)](https://docs.google.com/document/d/144AYNNxp5bbkovew-TM4AJevaPo0ytNnqPzsxflc2IQ)
+[![Programme pdf](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf)
 
 # Tarif:
 

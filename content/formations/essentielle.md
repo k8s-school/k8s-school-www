@@ -17,8 +17,7 @@ Cette formation couvre l'ensemble des concepts fondamentaux requis pour obtenir 
 
 # Programme:
 
-[![Programme](/images/pdf-64x64.png)](https://docs.google.com/document/d/1w0sCYoqfs59aT68TphxP4i4Gtl0l0ScWDVJA1o-m52c/export?format=pdf)
-[![Programme doc](/images/google_doc_logo.jpg)](https://docs.google.com/document/d/1w0sCYoqfs59aT68TphxP4i4Gtl0l0ScWDVJA1o-m52c)
+[![Programme](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf)
 
 # Tarif:
 
