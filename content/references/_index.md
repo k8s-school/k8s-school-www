@@ -3,6 +3,9 @@ title: 'Formations Kubernetes'
 intro_image: /images/certified.svg
 ---
 
-# Embarquez pour le Cloud-Natif
+# Avis clients
 
-Nos formations Kubernetes sont fortement orientées sur la pratique (~50 %) et sont éprouvées auprés de dizaines d'ingénieurs de sociétés prestigieuses comme BForBank, Murex, Cap Gemini, l'AFNIC ou encore Orange.
+- **Philippe, CNRS**: Une formation à la pointe mené par un expert du domaine
+- **Frédéric, CNRS**: Très bonne formation, j'ai particulièrement apprécié les nombreux cas pratiques et retours d'expérience.
+
+
