@@ -21,4 +21,4 @@ Cette formation Kubernetes s'adresse aux ingénieurs systèmes souhaitant opére
 * **Inter-entreprise**: **2250 euros HT par personne pour 3 jours** (21 heures) de formation, 650 euros par personne pour chaque jour de formation optionnelle.
 * **Intra-entreprise**: Tarifs sur demande
 
-![Concepts avancés de Kubernetes](https://docs.google.com/drawings/d/1lxK0NWtRou1YfzghaokTyEKB7VJswWXx2-hsp5z0Lko/export/png)
+![Concepts avancés de Kubernetes](/images/k8s-advanced.svg)

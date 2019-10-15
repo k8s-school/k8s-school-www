@@ -20,13 +20,13 @@ theme = "hugo-serif-theme"
 
 # Main Menu
 # [[menu.main]]
-#	name = "Conseil"
-#	url = "/conseil/"
+#   name = "Conseil"
+#   url = "/conseil/"
 #   weight = 1
 
 [[menu.main]]
-	name = "Formations"
-	url = "/formations/"
+    name = "Formations"
+    url = "/formations/"
     weight = 2
 
 [[menu.main]]
@@ -35,9 +35,9 @@ theme = "hugo-serif-theme"
     weight = 3
 
 # [[menu.main]]
-#	name = "References"
-#	url = "/references/"
-#	weight = 4
+#   name = "References"
+#   url = "/references/"
+#   weight = 4
 
 [[menu.main]]
     name = "Ressources"
@@ -50,17 +50,22 @@ theme = "hugo-serif-theme"
     weight = 6
 
 [[menu.main]]
+    name = "Références"
+    url = "/references/"
+    weight = 7
+
+[[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 7
+    weight = 8
 
 # Footer Menu
 [[menu.footer]]
-	name = "Accueil"
-	url = "/"
+    name = "Accueil"
+    url = "/"
     weight = 1
 
 [[menu.footer]]
-	name = "Contact"
-	url = "/contact/"
+    name = "Contact"
+    url = "/contact/"
     weight = 2

@@ -25,5 +25,4 @@ Cette formation couvre l'ensemble des concepts fondamentaux requis pour obtenir 
 * **Inter-entreprise**: **1980 euros HT par personne pour 3 jours** (21 heures) de formation, 650 euros par personne pour chaque jour de formation optionnelle.
 * **Intra-entreprise**: Tarifs sur demande
 
-
-![Architecture de Kubernetes](https://docs.google.com/drawings/d/1mOGXWcwW-MlLex6j1WjfkmlpDWPbk5aU-y7RXoJownk/export/png)
+![Architecture de Kubernetes](/images/k8s-archi.svg)

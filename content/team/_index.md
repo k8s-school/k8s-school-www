@@ -1,6 +1,6 @@
 ---
 title: 'Equipe'
-intro_image: https://docs.google.com/drawings/d/1E7nh2dlNm3sWbMH7X4BrRscwmpStB6opp1sNgAJv7lk/export/png
+intro_image: /images/equipe.svg
 ---
 
 # Rencontrez notre équipe
