@@ -25,7 +25,7 @@ theme = "hugo-serif-theme"
 #   weight = 1
 
 [[menu.main]]
-    name = "Formations"
+    name = "Formations K8s"
     url = "/formations/"
     weight = 2
 
@@ -40,7 +40,7 @@ theme = "hugo-serif-theme"
 #   weight = 4
 
 [[menu.main]]
-    name = "Cours"
+    name = "Cours K8s"
     url = "/courses/"
     weight = 5
 
