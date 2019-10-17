@@ -9,7 +9,7 @@ intro_image: images/cncf-logos.png
 |:----------|
 | [A_01_LightningTalk.pdf](/pdf/A_01_LightningTalk.pdf) |
 | [A_02_Architecture_Microservices.pdf](/pdf/A_02_Architecture_Microservices.pdf) |
-| [A_03.1_Intro to the cloud-native world of Kubernetes -- Lyon June 2018.pdf](/pdf/A_03.1_Intro to the cloud-native world of Kubernetes -- Lyon June 2018.pdf) |
+| [A_03.1_Intro to the cloud-native world of Kubernetes](/pdf/A_03.1_Intro to the cloud-native world of Kubernetes -- Lyon June 2018.pdf) |
 | [A_03_Kubernetes_Intro_and_Overview.pdf](/pdf/A_03_Kubernetes_Intro_and_Overview.pdf) |
 | [B_Docker_01_intro.pdf](/pdf/B_Docker_01_intro.pdf) |
 | [B_Docker_02_exercice.pdf](/pdf/B_Docker_02_exercice.pdf) |
