@@ -8,7 +8,7 @@ theme = "hugo-serif-theme"
   google_analytics_id="UA-146891246-1"
 
   [params.homepage_meta_tags]
-    meta_description = "K8s School fournit de l'expertise et de la formation Kubernetes et Cloud-Natif"
+    meta_description = "K8s School: expertise et formation Kubernetes et Cloud-Natif"
     meta_og_title = "K8s School"
     meta_og_type = "website"
     meta_og_url = "https://k8s-school.fr"
