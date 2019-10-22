@@ -1,5 +1,5 @@
 ---
-title: 'Formation Kubernetes pour la production'
+title: 'Formation Kubernetes avancé pour la production'
 date: 2018-11-18T12:33:46+10:00
 image: '/services/default.png'
 draft: false
