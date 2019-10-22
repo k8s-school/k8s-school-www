@@ -24,11 +24,14 @@ htpasswd -bc "$PDF_DIR/.htpasswd" "$HTACCESS_USER" "$HTACCESS_PASS"
 # 404 management
 cp "$DIR/.htaccess" "$LOCAL_DIR"
 
+rm -rf "$DIR/public/resources"
+
 #yafc fish://"$SERVER_USER"@"$SERVER"
 yafc  <<**
 open fish://"$SERVER_USER":$SERVER_PASS@"$SERVER"
 mkdir "$SERVER_DIR"
 cd "$SERVER_DIR"
+# UNCOMMENT TO CLEANUP
 # rm -rf *
 put -rf $LOCAL_DIR/*
 close
