@@ -40,7 +40,7 @@ theme = "hugo-serif-theme"
 #   weight = 4
 
 [[menu.main]]
-    name = "Cours K8s"
+    name = "Resources"
     url = "/resources/"
     weight = 5
 
