@@ -6,6 +6,3 @@ weight: 1
 ---
 
 * Philippe: Une formation à la pointe mené par un expert du domaine.
-<!--
-* Frédéric: Très bonne formation, j'ai particulièrement apprécié les nombreux cas pratiques et retours d'expérience.
--->
