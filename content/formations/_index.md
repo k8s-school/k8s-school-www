@@ -9,4 +9,4 @@ intro_image: images/cncf-logos.png
 
 [Formation K8s avancé](avancee), session du 16 au 18 décembre sur Paris.
 
-Nos formations Kubernetes, inter ou intra entreprise, sont orientées sur la pratique (~50 %) et ont déjà apporté entière satisfaction à plus d'une centaines d'ingénieurs.
+Nos formations Kubernetes, inter ou intra entreprise, sont orientées sur la pratique (~50 %) et ont déjà apporté entière satisfaction à plus d'une centaine d'ingénieurs.
