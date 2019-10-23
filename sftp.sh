@@ -36,3 +36,5 @@ cd "$SERVER_DIR"
 put -rf $LOCAL_DIR/*
 close
 **
+
+curl http://www.google.com/ping\?sitemap=https://www.k8s-school.fr/sitemap.xml 
