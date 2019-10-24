@@ -9,7 +9,7 @@ weight: 1
 
 # Formation éligible au CPF: code unique 235537
 
-Cette formation Kubernetes éprouvée vous permettra de monter rapidement en compétence sur les concepts clés de Kubernetes et du Cloud-Natif.
+Cette formation Kubernetes, déjà éprouvée auprès d'une centaine d'ingénieurs, vous permettra de monter rapidement en compétence sur les concepts clés de Kubernetes et du Cloud-Natif.
 Vous comprendrez l'intérêt des architectures micro-services et de leur mise en œuvre sur les plate-formes de développement et de production.
 
 Nos formateurs partageront avec vous leur expérience du sujet et apporteront des réponses précises relatives à vos cas d'utilisation.
