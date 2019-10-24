@@ -5,4 +5,4 @@ draft: false
 weight: 1
 ---
 
-★★★★★ **Philippe:** Une formation à la pointe mené par un expert du domaine.
+★★★★★ **Philippe:** Une formation à la pointe menée par un expert du domaine.
