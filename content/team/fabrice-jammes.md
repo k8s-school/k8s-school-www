@@ -9,8 +9,8 @@ linkedinurl: 'https://www.linkedin.com/in/fabrice-jammes-5b29b042/'
 weight: 1
 ---
 
-Titulaire de la CKA (Certifiate Kubernetes Administrator), et speaker lors de la prestigieuse KubeCon2019 à Barcelone.
+Titulaire de la **CKA** (Certifiate Kubernetes Administrator), **speaker lors de la KubeCon2019** à Barcelone, Fabrice est également **ingénieur de recherche au CNRS**.
 
-Ingénieur de recherche CNRS et responsable français pour la base de données du télescope LSST, dénommée Qserv (https://github.com/lsst/qserv). Cette base de données distribuée, destinée à stocker un catalogue d’objets célestes de plusieurs PetaOctets, est développée par ~10 ingénieurs de l’université de Stanford ainsi que Fabrice, référent Cloud-Natif et Kubernetes. Fabrice conçoit et développe la procédure de déploiement à grande échelle de Qserv (~500 machines par clusters), entièrement integrée à Kubernetes.
+ Actuellement, il est responsable français pour **la base de données du télescope LSST**, dénommée Qserv (https://github.com/lsst/qserv). Cette base de données distribuée, destinée à stocker un catalogue d’objets célestes de plusieurs PetaOctets, est développée par ~10 ingénieurs de l’**université de Stanford** ainsi que Fabrice, leur **référent Cloud-Natif et Kubernetes**. Fabrice conçoit et développe la procédure de déploiement à grande échelle de Qserv (~500 machines par clusters), sous forme d'**un opérateur Kubernetes** (https://github.com/lsst/qserv-operator). En 2019, **il a collaboré étroitement avec les ingénieurs de Google Cloud** pour déployer Qserv sur Google Kubernetes Engine.
 
 {{< youtube id="YC_nIGbI8Hk" autoplay="false" >}}

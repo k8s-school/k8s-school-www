@@ -24,7 +24,7 @@ Cette formation Kubernetes s'adresse aux ingénieurs systèmes souhaitant opére
 
 pour 3 jours** (21 heures) de formation, 650 euros par personne pour chaque jour de formation optionnelle.
 
-### Intra-entreprise**:
+### Intra-entreprise:
 Tarifs sur demande
 
 ### Formation éligible au CPF: code unique 235537

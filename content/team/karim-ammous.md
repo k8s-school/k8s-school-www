@@ -9,6 +9,6 @@ linkedinurl: 'https://www.linkedin.com/in/karim-ammous'
 weight: 1
 ---
 
-Docteur en Informatique, architecte de solutions orientées micro-services, Karim possède en outre une solide expertise en Java.
+**Docteur en Informatique**, architecte de solutions orientées micro-services, Karim possède en outre une **solide expertise en Java**.
 
-Avec une expérience de plus de 10 ans dans le conseil, Karim pilote actuellement un projet international de mise en place d'infrastructures Kubernetes et de migration d'applications complexes vers le Cloud-Natif.
+Avec **une expérience de plus de 10 ans dans le conseil informatique**, Karim pilote actuellement un projet international de mise en place d'**infrastructures Kubernetes de production** et de migration d'applications complexes vers le Cloud-Natif.
