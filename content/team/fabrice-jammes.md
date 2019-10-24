@@ -1,6 +1,6 @@
 ---
 title: 'Fabrice Jammes'
-date: 2018-11-19T10:47:58+10:00
+date: 2019-10-24T11:01:34+07:00
 draft: false
 image: 'team/fjammes.jpg'
 jobtitle: 'Expert Kubernetes'

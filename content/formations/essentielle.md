@@ -1,6 +1,6 @@
 ---
 title: 'Formation Kubernetes et les micro-services'
-date: 2018-11-18T12:33:46+10:00
+date: 2019-10-24T11:01:34+07:00
 image: '/services/noun_591323.png'
 draft: false
 featured: true
@@ -19,9 +19,9 @@ Cette formation couvre l'ensemble des concepts fondamentaux requis pour obtenir 
 
 [![Programme](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf)
 
-# Tarif:
+# Tarif: Promotion de fin d'année = -10%
 
-* **Inter-entreprise**: **1980 euros HT par personne pour 3 jours** (21 heures) de formation, 650 euros par personne pour chaque jour de formation optionnelle.
+* **Inter-entreprise**: **~~1980 €~~ 1782 € HT par personne pour 3 jours** (21 heures) de formation, 650 € HT par personne pour chaque jour de formation optionnelle.
 * **Intra-entreprise**: Tarifs sur demande
 
 ![Architecture de Kubernetes](/images/k8s-archi.svg)

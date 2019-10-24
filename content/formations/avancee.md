@@ -1,6 +1,6 @@
 ---
 title: 'Formation Kubernetes avancé pour la production'
-date: 2018-11-18T12:33:46+10:00
+date: 2019-10-24T11:01:34+07:00
 image: '/services/default.png'
 draft: false
 featured: true
