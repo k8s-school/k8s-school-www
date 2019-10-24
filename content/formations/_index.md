@@ -1,6 +1,6 @@
 ---
 title: 'Formations Kubernetes'
-intro_image: images/cncf-logos.png
+intro_image: images/cncf-logos.svg
 ---
 
 # ⎈Embarquez pour le Cloud-Natif⎈
