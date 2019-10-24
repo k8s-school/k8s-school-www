@@ -5,7 +5,7 @@ intro_image: images/cncf-logos.svg
 
 # ⎈ Embarquez pour le Cloud-Natif
 
-Nos formations Kubernetes, inter ou intra entreprise, sont orientées sur la pratique (~50 %) et ont déjà apporté entière satisfaction à plus d'**une centaine d'ingénieurs**.
+Nos formations Kubernetes, inter ou intra-entreprise, sont orientées sur la pratique (~50 %) et ont déjà apporté entière satisfaction à plus d'**une centaine d'ingénieurs**.
 
 
 ## **Prochaines Sessions:**
