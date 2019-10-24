@@ -7,6 +7,8 @@ featured: true
 weight: 1
 ---
 
+# Formation éligible au CPF: code unique 235537
+
 Cette formation Kubernetes éprouvée vous permettra de monter rapidement en compétence sur les concepts clés de Kubernetes et du Cloud-Natif.
 Vous comprendrez l'intérêt des architectures micro-services et de leur mise en œuvre sur les plate-formes de développement et de production.
 
@@ -19,9 +21,11 @@ Cette formation couvre l'ensemble des concepts fondamentaux requis pour obtenir 
 
 [![Programme](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf)
 
-# Tarif: Promotion de fin d'année = -10%
+# Tarif:
 
-* **Inter-entreprise**: **~~1980 €~~ 1782 € HT par personne pour 3 jours** (21 heures) de formation, 650 € HT par personne pour chaque jour de formation optionnelle.
-* **Intra-entreprise**: Tarifs sur demande
+# Promotion spéciale fin d'année: -10%
+
+⎈ **Inter-entreprise**: **~~1980 €~~ 1782 € HT par personne pour 3 jours** (21 heures) de formation, 650 € HT par personne pour chaque jour de formation optionnelle.
+⎈ **Intra-entreprise**: Tarifs sur demande
 
 ![Architecture de Kubernetes](/images/k8s-archi.svg)

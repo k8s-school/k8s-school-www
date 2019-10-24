@@ -8,7 +8,7 @@ intro_image: images/cncf-logos.png
 Nos formations Kubernetes, inter ou intra entreprise, sont orientées sur la pratique (~50 %) et ont déjà apporté entière satisfaction à plus d'une centaine d'ingénieurs.
 
 
-## Prochaines Sessions
+## Prochaines Sessions:
 
 ⎈ [Formation Kubernetes et micro-services](essentielle): Sessions **du 18 au 21 novembre** et **du 9 au 12 décembre** sur Paris.
 
