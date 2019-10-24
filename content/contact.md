@@ -4,6 +4,6 @@ date: 2019-10-24T11:01:34+07:00
 layout: contact
 ---
 
-Faite nous part de votre demande et définissons ensemble une solution sur-mesure.
+Faites nous part de votre demande et définissons ensemble une solution sur-mesure.
 
 ![Image formation Kubernetes](/images/contact.svg)
