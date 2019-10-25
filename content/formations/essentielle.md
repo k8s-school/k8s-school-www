@@ -27,7 +27,7 @@ Cette formation couvre l'ensemble des **concepts fondamentaux** requis pour obte
 
 ### Inter-entreprise: 1782 € HT par personne (au lieu de 1980 €)
 
-pour 3 jours (21 heures) de formation, 650 € HT par personne pour chaque jour de formation optionnelle.
+pour **3 jours** de formation, 650 € HT par personne pour chaque jour de formation optionnelle.
 
 ### Intra-entreprise:
 

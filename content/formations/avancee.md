@@ -22,7 +22,7 @@ Cette formation Kubernetes s'adresse aux ingénieurs systèmes souhaitant opére
 
 ### Inter-entreprise: 2025 € HT par personne (au lieu de 2250 €)
 
-pour 3 jours** (21 heures) de formation, 650 euros par personne pour chaque jour de formation optionnelle.
+pour **3 jours** de formation, 650 euros par personne pour chaque jour de formation optionnelle.
 
 ### Intra-entreprise:
 Tarifs sur demande
