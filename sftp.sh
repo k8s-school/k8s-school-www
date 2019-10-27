@@ -10,19 +10,19 @@ hugo
 # directory to backup
 SERVER_DIR="www"
 
-LOCAL_DIR="$DIR/public"
+BUILD_DIR="$DIR/public"
 
-PDF_DIR="$DIR/content/pdf"
+PDF_DIR="$BUILD_DIR/pdf"
 
 
 . "$DIR/env-creds.sh"
 
+# 404 management
+cp "$DIR/content/.htaccess" "$BUILD_DIR"
 
 # Access to pdf directory
+sed "s/<LOGIN>/$SERVER_USER/g" "$DIR/content/pdf/.htaccess" > "$PDF_DIR/.htaccess"
 htpasswd -bc "$PDF_DIR/.htpasswd" "$HTACCESS_USER" "$HTACCESS_PASS" 
-
-# 404 management
-cp "$DIR/.htaccess" "$LOCAL_DIR"
 
 rm -rf "$DIR/public/resources"
 
@@ -33,7 +33,7 @@ mkdir "$SERVER_DIR"
 cd "$SERVER_DIR"
 # UNCOMMENT TO CLEANUP
 # rm -rf *
-put -rf $LOCAL_DIR/*
+put -rf $BUILD_DIR/*
 close
 **
 

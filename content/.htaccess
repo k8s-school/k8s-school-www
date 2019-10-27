@@ -1,0 +1,7 @@
+# Customize error 404 page
+Errordocument 404 /404/index.html
+
+# http to https
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://k8s-school.fr/$1 [R,L]

@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Support de cours K8s-school"
+AuthUserFile /home/<LOGIN>/www/pdf/.htpasswd
+Require valid-user
