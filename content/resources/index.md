@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta http-equiv="Refresh" content="0; url=https://www.k8s-school.fr/resources">  
-</head>
-
-<body>
-
-</body>
-
-</html>
+This page is used only to generate sitemap.xml and never uploaded to website.

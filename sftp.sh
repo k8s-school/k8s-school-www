@@ -22,6 +22,10 @@ cp "$DIR/content/.htaccess" "$BUILD_DIR"
 
 # Access to pdf directory
 sed "s/<LOGIN>/$SERVER_USER/g" "$DIR/content/pdf/.htaccess" > "$PDF_DIR/.htaccess"
+if [ -z "$HTACCESS_USER" ]; then
+    >&2 echo "ERROR: undefined HTACCESS_USER in env-creds.sh"
+    exit 1
+fi
 htpasswd -bc "$PDF_DIR/.htpasswd" "$HTACCESS_USER" "$HTACCESS_PASS" 
 
 rm -rf "$DIR/public/resources"
