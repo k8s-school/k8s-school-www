@@ -12,5 +12,5 @@ Nos formations Kubernetes, inter ou intra-entreprise, sont orientées sur la pra
 
 ⎈ [Formation Kubernetes et les micro-services](essentielle): Sessions **du 18 au 21 novembre** et **du 9 au 12 décembre** sur Paris.
 
-⎈ [Formation Kubernetes avancé pour la production](avancee): Session **du 16 au 18 décembre** sur Paris.
+⎈ [Formation K8s avancé pour la production](avancee): Session **du 16 au 18 décembre** sur Paris.
 

@@ -3,7 +3,7 @@ title: 'Fabrice Jammes'
 date: 2019-10-24T11:01:34+07:00
 draft: false
 image: 'team/fjammes.jpg'
-jobtitle: 'Expert Kubernetes'
+jobtitle: 'Expert formateur Kubernetes'
 email: 'fabrice.jammes@k8s-school.eu'
 linkedinurl: 'https://www.linkedin.com/in/fabrice-jammes-5b29b042/'
 weight: 1
