@@ -27,7 +27,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
     name = "Formations K8s"
-    url = "/formations/"
+    url = "/formations-kubernetes/"
     weight = 2
 
 [[menu.main]]
