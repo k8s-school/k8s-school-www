@@ -1,5 +1,5 @@
 ---
-title: 'Equipe'
+title: 'Equipe et formateurs Kubernetes'
 intro_image: /images/equipe.svg
 ---
 

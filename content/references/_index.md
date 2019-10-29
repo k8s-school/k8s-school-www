@@ -1,5 +1,5 @@
 ---
-title: 'Formations Kubernetes'
+title: 'Références et clients'
 intro_image: /images/certified.svg
 ---
 
