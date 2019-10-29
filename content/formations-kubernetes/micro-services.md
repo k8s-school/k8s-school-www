@@ -18,6 +18,8 @@ Cette formation couvre l'ensemble des **concepts fondamentaux** requis pour obte
 
 # Programme:
 
+Télécharger le **programme détaillé** de la **formation Kubernetes** et les micro-services:
+
 [![Programme](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf)
 
 # Tarifs:
@@ -27,7 +29,7 @@ Cette formation couvre l'ensemble des **concepts fondamentaux** requis pour obte
 
 ### Inter-entreprise: 1782 € HT par personne (au lieu de 1980 €)
 
-pour **3 jours** de formation, 650 € HT par personne pour chaque jour de formation optionnelle.
+pour **3 jours** de formation, 650 € HT par personne pour chaque jour optionnel supplémentaire.
 
 ### Intra-entreprise:
 

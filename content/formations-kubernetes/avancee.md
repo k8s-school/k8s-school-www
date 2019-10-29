@@ -13,6 +13,8 @@ Cette formation Kubernetes s'adresse aux ingénieurs systèmes souhaitant opére
 
 # Programme:
 
+Télécharger le **programme détaillé** de la **formation Kubernetes avancé**:
+
 [![Programme pdf](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf)
 
 # Tarifs:
@@ -22,7 +24,7 @@ Cette formation Kubernetes s'adresse aux ingénieurs systèmes souhaitant opére
 
 ### Inter-entreprise: 2025 € HT par personne (au lieu de 2250 €)
 
-pour **3 jours** de formation, 650 euros par personne pour chaque jour de formation optionnelle.
+pour **3 jours** de formation, 650 euros par personne pour chaque jour optionnel supplémentaire.
 
 ### Intra-entreprise:
 Tarifs sur demande
