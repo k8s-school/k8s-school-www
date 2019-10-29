@@ -22,7 +22,7 @@ Cette formation couvre l'ensemble des **concepts fondamentaux** requis pour obte
 
 # Tarifs:
 
-### ⎈ Promotion spéciale fin d'année:  ⎈
+### ⎈ Promotion spéciale fin d'année: ⎈
 **-10%** sur toutes nos formations
 
 ### Inter-entreprise: 1782 € HT par personne (au lieu de 1980 €)

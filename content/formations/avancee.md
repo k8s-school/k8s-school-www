@@ -17,7 +17,7 @@ Cette formation Kubernetes s'adresse aux ingénieurs systèmes souhaitant opére
 
 # Tarifs:
 
-### ⎈ Promotion spéciale fin d'année:  ⎈
+### ⎈ Promotion spéciale fin d'année: ⎈
 **-10%** sur toutes nos formations
 
 ### Inter-entreprise: 2025 € HT par personne (au lieu de 2250 €)
