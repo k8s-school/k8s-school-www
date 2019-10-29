@@ -1,6 +1,6 @@
 ---
 title: 'Expertise et Formation Kubernetes'
-intro_image: images/logo_k8s.png
+intro_image: images/logo_kubernetes.svg
 ---
 
 # Expertise et formation Kubernetes

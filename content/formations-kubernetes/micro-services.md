@@ -37,4 +37,5 @@ Tarifs sur demande
 
 ### Formation éligible au CPF: code unique 235537
 
+![Concepts fondamentaux de Kubernetes](/images/formation_kubernetes_fondamentaux.svg)
 ![Architecture de Kubernetes](/images/k8s-archi.svg)
