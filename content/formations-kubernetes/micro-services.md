@@ -35,7 +35,13 @@ pour **3 jours** de formation, 650 € HT par personne pour chaque jour optionne
 
 Tarifs sur demande
 
-### Formation éligible au CPF: code unique 235537
+# Formation éligible au CPF:
 
+### Code unique 235537
+Transmettre ces références à votre OPCO pour utiliser votre compte professionnel de formation.
+
+## Concepts fondamentaux de Kubernetes:
 ![Concepts fondamentaux de Kubernetes](/images/formation_kubernetes_fondamentaux.svg)
+
+## Architecture de Kubernetes:
 ![Architecture de Kubernetes](/images/k8s-archi.svg)

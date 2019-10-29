@@ -29,7 +29,10 @@ pour **3 jours** de formation, 650 euros par personne pour chaque jour optionnel
 ### Intra-entreprise:
 Tarifs sur demande
 
-### Formation éligible au CPF: code unique 235537
+# Formation éligible au CPF:
 
+### Code unique 235537
+Transmettre ces références à votre OPCO pour utiliser votre compte professionnel de formation.
 
+## Concepts avancés de Kubernetes:
 ![Concepts avancés de Kubernetes](/images/k8s-advanced.svg)
