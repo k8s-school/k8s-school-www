@@ -1,6 +1,7 @@
 ---
 title: 'Support de cours'
 intro_image: images/cncf-logos.svg
+sitemap_exclude: true
 ---
 
 # Support de cours 
