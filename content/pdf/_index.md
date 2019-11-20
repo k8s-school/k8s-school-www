@@ -6,8 +6,9 @@ sitemap_exclude: true
 
 # Support de cours 
 
-|    |
-|:----------|
+
+| |
+|----------|
 | [A_01_LightningTalk.pdf](/pdf/A_01_LightningTalk.pdf) |
 | [A_02_Architecture_Microservices.pdf](/pdf/A_02_Architecture_Microservices.pdf) |
 | [A_03.1_Intro to the cloud-native world of Kubernetes -- Lyon June 2018.pdf](/pdf/A_03.1_Intro to the cloud-native world of Kubernetes -- Lyon June 2018.pdf) |
@@ -22,9 +23,10 @@ sitemap_exclude: true
 | [E_01_advanced-k8s-cluster-internals.pdf](/pdf/E_01_advanced-k8s-cluster-internals.pdf) |
 | [E_02_advanced-k8s_RBAC.pdf](/pdf/E_02_advanced-k8s_RBAC.pdf) |
 | [E_03_advanced-k8s_Security_node+network.pdf](/pdf/E_03_advanced-k8s_Security_node+network.pdf) |
-| [E_03_advanced-k8s_computational resources.pdf](/pdf/E_03_advanced-k8s_computational resources.pdf) |
+| [E_04_advanced-k8s_computational resources.pdf](/pdf/E_04_advanced-k8s_computational resources.pdf) |
+| [E_05_advanced-k8s_advanced_scheduling.pdf](/pdf/E_05_advanced-k8s_advanced_scheduling.pdf) |
+| [E_06_advanced-k8s-the-Operators-Framework.pdf](/pdf/E_06_advanced-k8s-the-Operators-Framework.pdf) |
 | [Gartner_choose_k8s_install_method.pdf](/pdf/Gartner_choose_k8s_install_method.pdf) |
 | [Lighting_talk_telepresence.pdf](/pdf/Lighting_talk_telepresence.pdf) |
 | [evaluation.pdf](/pdf/evaluation.pdf) |
 | [solution.pdf](/pdf/solution.pdf) |
-
