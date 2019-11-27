@@ -13,3 +13,5 @@ Ingénieur passionné par l'innovation et le déploiement de nouvelles technolog
 
 François-Xavier est titulaire d'un diplôme d'**ingénieur du MIT** (Massachusetts Institute of Technology) et d'**un MBA de l'université de Stanford**.
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="fxjammes"><a class="LI-simple-link" href='https://fr.linkedin.com/in/fxjammes?trk=profile-badge'>F.X. Jammes</a></div>
