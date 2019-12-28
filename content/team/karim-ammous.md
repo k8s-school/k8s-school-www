@@ -9,9 +9,11 @@ linkedinurl: 'https://www.linkedin.com/in/karim-ammous'
 weight: 1
 ---
 
-**Docteur en Informatique**, architecte de solutions orientées micro-services, Karim possède en outre une **solide expertise en Java** et est titulaire de la certification **CKAD** (Certified Kubernetes Application Developer) délivrée par l'organisme **CNCF** (Cloud Native Computing Foundation) controlé par **Linux Foundation**. 
+**Docteur en Informatique**, architecte de solutions orientées micro-services, Karim possède en outre une **solide expertise en Java** et est titulaire de la certification **CKA** (Certified Kubernetes Administrator) ainsi que la certification **CKAD** (Certified Kubernetes Application Developer) délivrées par l'organisme **CNCF** (Cloud Native Computing Foundation) controlé par **Linux Foundation**. 
 
 Avec **une expérience de plus de 10 ans dans le conseil informatique**, Karim pilote actuellement un projet international de mise en place d'**infrastructures Kubernetes de production** et de migration d'applications complexes vers le Cloud-Natif.
+
+Nos clients peuvent profiter de son agrément **CIR** (Crédit d'Impôt Recherche) délivré par le MESR (Ministère de l'Enseignement Supérieur et de la Recherche).
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="karim-ammous"><a class="LI-simple-link" href='https://fr.linkedin.com/in/karim-ammous?trk=profile-badge'>Karim Ammous</a></div>
