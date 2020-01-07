@@ -7,6 +7,11 @@ intro_image: images/cncf-logos.svg
 
 Nos formations Kubernetes, inter ou intra-entreprise, sont orientées sur la pratique (~50 %) et ont déjà apporté entière satisfaction à plus d'**une centaine d'ingénieurs**.
 
+ ## **Formations Kubernetes et Devops**
+ 
+ ⎈ [Formation Kubernetes et les micro-services](micro-services): Pour découvrir et s'initier à l'écosystème Kubernetes
+ 
+ ⎈ [Formation K8s avancé pour la production](avancee): Pour approfondir le fonctionnement de Kubernetes, notamment sur les aspects **sécurité** et **production**
 
 <!--
 ## **Prochaines Sessions:**
