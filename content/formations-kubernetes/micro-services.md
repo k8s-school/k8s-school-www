@@ -23,21 +23,13 @@ Télécharger le **programme détaillé** de la **formation Kubernetes** et les 
 
 # Tarifs:
 
-### ⎈ Promotion spéciale fin d'année: ⎈
-**-10%** sur toutes nos formations
-
-### Inter-entreprise: 1782 € HT par personne (au lieu de 1980 €)
+### Inter-entreprise: 1980 € HT par personne
 
 pour **3 jours** de formation, 650 € HT par personne pour chaque jour optionnel supplémentaire.
 
 ### Intra-entreprise:
 
 Tarifs sur demande
-
-# Formation éligible au CPF:
-
-### Code unique 235537
-Transmettre ces références à votre OPCO pour utiliser votre compte professionnel de formation.
 
 ## Concepts fondamentaux de Kubernetes:
 ![Concepts fondamentaux de Kubernetes](/images/formation_kubernetes_fondamentaux.svg)

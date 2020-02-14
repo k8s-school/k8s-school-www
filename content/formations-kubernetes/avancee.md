@@ -19,20 +19,12 @@ Télécharger le **programme détaillé** de la **formation Kubernetes avancé**
 
 # Tarifs:
 
-### ⎈ Promotion spéciale fin d'année: ⎈
-**-10%** sur toutes nos formations
-
-### Inter-entreprise: 2025 € HT par personne (au lieu de 2250 €)
+### Inter-entreprise: 225 € HT par personne
 
 pour **3 jours** de formation, 650 euros par personne pour chaque jour optionnel supplémentaire.
 
 ### Intra-entreprise:
 Tarifs sur demande
-
-# Formation éligible au CPF:
-
-### Code unique 235537
-Transmettre ces références à votre OPCO pour utiliser votre compte professionnel de formation.
 
 ## Concepts avancés de Kubernetes:
 ![Concepts avancés de Kubernetes](/images/k8s-advanced.svg)
