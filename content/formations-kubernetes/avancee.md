@@ -19,7 +19,7 @@ Télécharger le **programme détaillé** de la **formation Kubernetes avancé**
 
 # Tarifs:
 
-### Inter-entreprise: 225 € HT par personne
+### Inter-entreprise: 2250 € HT par personne
 
 pour **3 jours** de formation, 650 euros par personne pour chaque jour optionnel supplémentaire.
 
