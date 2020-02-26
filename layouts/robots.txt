@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: /pdf/
-Disallow: /resources/robots.txt
+Disallow: /resources/index.html
 
 Sitemap: https://www.k8s-school.fr/sitemap.xml 
 Sitemap: https://www.k8s-school.fr/resources/sitemap.xml 
