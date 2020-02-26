@@ -26,7 +26,7 @@ if [ -z "$HTACCESS_USER" ]; then
     >&2 echo "ERROR: undefined HTACCESS_USER in env-creds.sh"
     exit 1
 fi
-htpasswd -bc "$PDF_DIR/.htpasswd" "$HTACCESS_USER" "$HTACCESS_PASS" 
+htpasswd -bc "$PDF_DIR/.htpasswd" "$HTACCESS_USER" "$HTACCESS_PASS"
 
 rm -rf "$DIR/public/resources"
 
@@ -38,6 +38,7 @@ cd "$SERVER_DIR"
 # UNCOMMENT TO CLEANUP
 # rm -rf *
 put -rf $BUILD_DIR/*
+mkdir resources
 close
 **
 
