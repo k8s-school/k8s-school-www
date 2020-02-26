@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 
-Nos experts travaillent en étroite collaboration avec l'organisme de formation **[Ambient-IT](www.ambient-it.net)**, pour lesquels nous assurons de nombreuses formations Kubernetes inter-entreprise.
+Nos experts travaillent en étroite collaboration avec l'organisme de formation **[Ambient-IT](http://www.ambient-it.net)**, pour lesquels nous assurons de nombreuses formations Kubernetes inter-entreprise.
 
 Les avis de nos clients sont disponibles sur les pages du site d'Ambient-IT dediées à la [formation Kubernetes initiale](https://www.ambient-it.net/formation/formation-kubernetes/) et à la [formation Kubernetes avancée](https://www.ambient-it.net/formation/kubernetes).
 
