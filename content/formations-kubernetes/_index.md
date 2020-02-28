@@ -3,11 +3,11 @@ title: 'Formations Kubernetes'
 intro_image: images/cncf-logos.svg
 ---
 
-# ⎈ Embarquez pour le Cloud-Natif
+# Kubernetes, Devops et Cloud-Natif
 
 Nos formations Kubernetes, inter ou intra-entreprise, sont orientées sur la pratique (~50 %) et ont déjà apporté entière satisfaction à plus d'**une centaine d'ingénieurs**.
 
- ## Formations Kubernetes et Devops
+# Formations K8s ⎈
  
  ⎈ [Formation Kubernetes et les micro-services](micro-services): Pour découvrir et s'initier à l'écosystème Kubernetes
  
