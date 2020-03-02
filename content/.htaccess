@@ -10,3 +10,7 @@ RewriteRule formations/(.*)$ /formations-kubernetes/$1 [R]
 RewriteRule resources/blog/1-kubectl-run-deprecated/ /resources/en/blog/kubectl-run-deprecated/ [R]
 RewriteRule resources/blog/kubectl-run-deprecated/ /resources/en/blog/kubectl-run-deprecated/ [R]
 RewriteRule resources/blog/2-k8s-ci/ /resources/en/blog/k8s-ci/ [R]
+
+# Unable to fix it in hugo-theme-learn
+RewriteRule fr/resources/tags /resources/fr/tags [R]
+RewriteRule en/resources/tags /resources/en/tags [R]
