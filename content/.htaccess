@@ -9,5 +9,4 @@ RewriteRule ^(.*)$ https://k8s-school.fr/$1 [R,L]
 RewriteRule formations/(.*)$ /formations-kubernetes/$1 [R]
 RewriteRule resources/blog/1-kubectl-run-deprecated/ /resources/blog/kubectl-run-deprecated/ [R]
 RewriteRule resources/blog/2-k8s-ci/ /resources/blog/k8s-ci/ [R]
-# ???
-# RewriteRule resources/blog/kubectl-run-deprecated/ /resources/en/blog/kubectl-run-deprecated/ [R]
+RewriteRule resources/blog/kubectl-run-deprecated/ /resources/en/blog/kubectl-run-deprecated/ [R]

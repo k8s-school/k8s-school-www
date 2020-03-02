@@ -1,0 +1,1 @@
+https://k8s-school.fr/resources/blog/kubectl-run-deprecated/, https://k8s-school.fr/resources/en/blog/kubectl-run-deprecated/
