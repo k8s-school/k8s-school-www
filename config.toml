@@ -47,7 +47,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
     name = "Blog"
-    url = "/resources/blog/"
+    url = "/resources/en/blog/"
     weight = 6
 
 [[menu.main]]
