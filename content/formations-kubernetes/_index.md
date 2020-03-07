@@ -3,9 +3,9 @@ title: 'Formations Kubernetes'
 intro_image: images/cncf-logos.svg
 ---
 
-# Formation K8S et Devops
+# Formation K8S
 
-Nos formations Kubernetes, inter ou intra-entreprise, sont orientées sur la pratique (~50 %) et ont déjà apporté entière satisfaction à plus d'**une centaine d'ingénieurs**.
+Nos formations Kubernetes et Devops, inter ou intra-entreprise, sont orientées sur la pratique (~50 %) et ont déjà apporté entière satisfaction à plus d'**une centaine d'ingénieurs**.
 
 ## **Sessions inter-entreprises:**
 
@@ -13,4 +13,4 @@ Nos formations Kubernetes, inter ou intra-entreprise, sont orientées sur la pra
 
 ⎈ [Formation K8s avancé pour la production](avancee): Pour approfondir le fonctionnement de Kubernetes, notamment sur les aspects **sécurité** et **production**, **du 27 au 29 avril**, **du 25 au 27 mai**,  **du 29 juin au 1 juillet**, **du 29 juin au 1er août** sur Paris.
 
-## **En intra-entreprises sur demande**
+## **En intra-entreprises sur demande** 
