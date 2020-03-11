@@ -3,7 +3,7 @@ title: 'Références et clients'
 intro_image: /images/certified.svg
 ---
 
-# Des formations reconnues en Kubernetes, Devops et Cloud-Natif
+# Des formations Kubernetes reconnues
 
 Nos experts ont assuré des formations Kubernetes couvrant **CRI, CNI Containerd, les Service Mesh et Istio, Ingress et les Operators** pour déjà plus de deux cents ingénieurs.
 
