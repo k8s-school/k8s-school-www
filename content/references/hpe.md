@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 
-# 3 Formations initiales, 1 avancée, Grenoble, septembre, octobre 2019, environ 15 participants.
+# 3 Formations initiales, 2 avancée, Grenoble, septembre, octobre 2019, janvier 2020, environ 15 participants.
 
 ★★★★ **Philippe E.:** Les formations dispensées sont denses, mixent à parts égales la présentation des concepts et leur mise en pratique et s'appuient sur une équipe de formateurs ayant une expérience concrète de la gestion d'infrastructures et du développement d'application micro-services. Un gros plus.
 

@@ -15,5 +15,7 @@ Titulaire de la **CKA** (Certifiate Kubernetes Administrator), **speaker lors de
 
 {{< youtube id="YC_nIGbI8Hk" autoplay="false" >}}
 
+[![Certification CKA](/images/pdf-64x64.png)](/images/CKA_Certificate_Fabrice_Jammes.pdf)
+
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="fabrice-jammes-5b29b042"><a class="LI-simple-link" href='https://fr.linkedin.com/in/fabrice-jammes-5b29b042?trk=profile-badge'>Fabrice Jammes</a></div>
