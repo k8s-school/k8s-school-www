@@ -13,4 +13,4 @@ Nos formations Kubernetes et Devops, inter ou intra-entreprise, sont orientées 
 
 ⎈ [Formation K8s avancé pour la production](avancee): Pour approfondir le fonctionnement de Kubernetes, notamment sur les aspects **sécurité** et **production**, **du 27 au 29 avril**, **du 25 au 27 mai**,  **du 29 juin au 1 juillet**, **du 29 juin au 1er août** sur Paris.
 
-## **En intra-entreprises sur demande** 
+## **Formation K8S en intra-entreprises, en visio-conférence ou en remote sur demande** 
