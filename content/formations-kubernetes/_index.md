@@ -5,7 +5,7 @@ intro_image: images/cncf-logos.svg
 
 # Formation K8S
 
-Nos formations Kubernetes et Devops, inter ou intra-entreprise, sont orientées sur la pratique (~50 %) et ont déjà apporté entière satisfaction à plus d'**une centaine d'ingénieurs**.
+Nos formations Kubernetes et Devops, inter ou intra-entreprise, sont orientées sur la pratique (~50 %) et ont déjà apporté entière satisfaction à plus de **deux cents ingénieurs**.
 
 ## **Sessions inter-entreprises:**
 
