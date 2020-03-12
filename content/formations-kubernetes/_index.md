@@ -5,8 +5,7 @@ intro_image: images/cncf-logos.svg
 
 # Formation K8S
 
-Vous souhaitez évoluer vers les nouvelles technologies Cloud et Devops.
-Inscrivez-vous à nos formations Kubernetes, inter ou intra-entreprise, orientées sur la pratique. Nos experts Kubernetes, issus de la recherche et de l'industrie, ont apporté entière satisfaction à plus de **deux cents professionnels**.
+**Evoluez vers les technologies Cloud et Devops** en vous inscrivant à nos formations Kubernetes, inter ou intra-entreprise. Nos experts, opérant Kubernetes pour la recherche et l'industrie, ont apporté entière satisfaction à plus de **deux cents professionnels**.
 
 ## **Sessions inter-entreprises:**
 
