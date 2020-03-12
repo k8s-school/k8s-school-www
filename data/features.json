@@ -6,12 +6,12 @@
   },
   {
     "title": "Experts Certifiés CKA",
-    "description": "Nos formateurs sont certifiés K8S par la fondation Linux",
+    "description": "Vos formateurs sont certifiés K8S par la fondation Linux",
     "image": "/features/noun_The Process_1885341.svg"
   },
   {
     "title": "Expérience du terrain",
-    "description": "Nos formateurs utilisent quotidiennement K8S",
+    "description": "Nos formateurs utilisent quotidiennement K8S pour la recherche et l'industrie",
     "image": "/features/noun_3d modeling_1885342.svg"
   }
 ]
