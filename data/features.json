@@ -1,17 +1,17 @@
 [
   {
-    "title": "Consultation gratuite",
-    "description": "Notre première consultation téléphonique est gratuite",
+    "title": "Audit gratuit",
+    "description": "Définissez une formation Kubernetes sur-mesure",
     "image": "/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Experts Certifiés",
-    "description": "Nous disposons d'experts Kubernetes certifiés CNCF",
+    "title": "Experts Certifiés CKA",
+    "description": "Nos formateurs sont certifiés K8S par la fondation Linux",
     "image": "/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Réelle expérience",
-    "description": "Nos formateurs mettent en oeuvre le Cloud-Natif dans des projets internationaux",
+    "title": "Expérience du terrain",
+    "description": "Nos formateurs utilisent quotidiennement K8S",
     "image": "/features/noun_3d modeling_1885342.svg"
   }
 ]
