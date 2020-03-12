@@ -4,7 +4,7 @@ intro_image: /images/certified.svg
 description: Formez-vous avec des experts Kubernetes reconnus
 ---
 
-# Des formations Kubernetes reconnues
+# Formations Kubernetes reconnues
 
 Vous souhaitez travailler avec des ingénieurs reconnus et dignes de confiance. Nos experts ont assuré des formations Kubernetes couvrant **CRI, CNI Containerd, les Service Mesh et Istio, Ingress et les Operators** pour déjà plus de deux cents ingénieurs.
 

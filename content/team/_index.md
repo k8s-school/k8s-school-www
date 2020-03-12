@@ -3,6 +3,6 @@ title: 'Equipe et formateurs Kubernetes'
 intro_image: /images/equipe.svg
 ---
 
-# Rencontrez nos experts Devops
+# Des experts Kubernetes à votre service
 
-**Nos ingénieurs Devops** vous accompagnent pour tous **vos projets Cloud-Natif**, de la preuve de concept à la mise en production, et vous font bénéficier de **leurs connections directes avec la Silicon Valley**.
+Bénéficiez de connections avec la Silicon Valley et réussissez votre **migration Kubernetes et Cloud** avec **nos formateurs Kubernetes certifiés CKA**. 
