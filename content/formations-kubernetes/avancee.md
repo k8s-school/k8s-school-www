@@ -7,9 +7,9 @@ featured: true
 weight: 2
 ---
 
-Cette formation Kubernetes avancée, qui va au delà de la CKA, vous permet de devenir un expert. Vous découvrirez une **large palette de cas pratiques** directement transposable dans vos activités Devops. La **sécurisation de votre infrastructure** est couverte de manière approfondie avec les **PodSecurityPolicies, les NetworkPolicies**, ainsi que la gestion avancée des utilisateurs et des droits associés avec le module **RBAC**.
+**Devenez un expert Kubernetes** grâce à cette formation Kubernetes avancée, qui va au delà de la CKA. Avec nous, découvrez comment **orchestrer vos conteneurs en production** et **sécuriser votre infrastructure** grâce aux autorisations **RBAC**, aux **PodSecurityPolicies**, et aux **NetworkPolicies**. 
 
-Cette formation Kubernetes s'adresse aux ingénieurs systèmes souhaitant opérer **Kubernetes en production**, et aux développeurs et Devops souhaitant construire et déployer des **applications fiables et sécurisées**.
+Vous souhaitez opérer **Kubernetes en production**, et construire et déployer des **applications fiables et sécurisées**. Cette formation Kubernetes avancée s'adresse à vous.
 
 # Programme:
 
