@@ -11,7 +11,6 @@ weight: 2
 
 Vous souhaitez opérer **Kubernetes en production**, et construire et déployer des **applications fiables et sécurisées**. Cette formation Kubernetes avancée s'adresse à vous.
 
-# Programme: a
 
 [**programme détaillé**](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf) de la **formation Kubernetes avancé**:
 

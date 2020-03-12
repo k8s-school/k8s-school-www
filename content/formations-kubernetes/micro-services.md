@@ -15,7 +15,6 @@ Evoluez vers le **Cloud-Natif, Kubernetes, les conteneurs, les standards CRI/CNI
 
 Accédez à la certification **CKA** (Certified Kubernetes Administrator) grâce à cette formation couvrant l'ensemble des **concepts fondamentaux de Kubernetes** (pod, service, configmap, label, replicaset, statefulset, daemonset, persistent volume et claim). 
 
-# Programme:
 
 [**Programme détaillé**](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf) de la **formation Kubernetes** et les micro-services:
 
