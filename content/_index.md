@@ -5,8 +5,6 @@ intro_image: images/logo_kubernetes.svg
 
 # Expertise et formation Kubernetes
 
-Grâce à nos **formations Kubernetes de haute-qualité**, embarquez pour le Cloud-Natif et **démultipliez la puissance de vos applications**.
+Devenez expert en orchestration de conteneurs grâce à nos **formations Kubernetes**. Démultipliez la puissance de vos équipes Devops grâce au Cloud-Natif et aux conteneurs.
 
-**Nos formations certifiantes** Kubernetes sont gérées par un centre de formation référencé **Datadock** et sont éligibles au **CPF**.
-
-Nous assurons des formations Kube sur Paris, Lyon, Grenoble, Sophia-Antipolis, Toulouse et partout ailleurs en France. Nous pouvons également assurer nos formations à distance, en visio-conférence.
+Inscrivez-vous à une **formation certifiante** Kubernetes gérée par un centre de formation **Datadocké**, sur Paris, Lyon, Grenoble, Sophia-Antipolis, Toulouse et partout ailleurs en France et en Suisse. Vous pouvez également suivre votre formation à distance, en visio-conférence interactive.
