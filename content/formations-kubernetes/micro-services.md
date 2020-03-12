@@ -17,7 +17,7 @@ Accédez à la certification **CKA** (Certified Kubernetes Administrator) grâce
 
 # Programme:
 
-Télécharger le **programme détaillé** de la **formation Kubernetes** et les micro-services:
+[**Programme détaillé**](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf) de la **formation Kubernetes** et les micro-services:
 
 [![Programme](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf)
 

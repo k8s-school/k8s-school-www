@@ -13,7 +13,7 @@ Vous souhaitez opérer **Kubernetes en production**, et construire et déployer 
 
 # Programme: a
 
-Télécharger le **programme détaillé** de la **formation Kubernetes avancé**:
+[**programme détaillé**](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf) de la **formation Kubernetes avancé**:
 
 [![Programme pdf](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf)
 
