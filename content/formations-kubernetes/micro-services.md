@@ -8,12 +8,12 @@ weight: 1
 ---
 
 
-Grâce à cette formation Kubernetes, vous deviendrez opérationnel sur **les concepts clés de Kubernetes** et du **Cloud-Natif**.
-Vous pourrez architecturer des **solutions micro-services** et les mettre en œuvre sur les plate-formes de développement et de production.
+Grâce à cette formation Kubernetes, devenez opérationnel sur **les concepts clés de Kubernetes** et du **Cloud-Natif**.
+Architecturez des **solutions micro-services** et mettez les en œuvre sur vos plate-formes de développement et de production.
 
-Vous souhaitez évoluer vers le Cloud-Natif, Kubernetes, les conteneurs, les standards CRI/CNI/CSI, la supervision Prometheus. Nos formateurs partageront avec vous leur expérience du sujet et apporteront **des réponses précises sur vos cas d'utilisation Devops et SRE**.
+Evoluez vers le Cloud-Natif, Kubernetes, les conteneurs, les standards CRI/CNI/CSI, la supervision Prometheus. Nos formateurs partage avec vous leur expérience du sujet et apporte **des réponses précises sur vos cas d'utilisation**.
 
-Cette formation couvre l'ensemble des **concepts fondamentaux** (pod, service, configmap, label, replicaset, statefulset, daemonset, persistent volume et claim) requis pour obtenir la certification **CKA** (Certified Kubernetes Administrator)
+Accédez à la certification **CKA** (Certified Kubernetes Administrator) grâce à cette formation couvrant l'ensemble des **concepts fondamentaux de Kubernetes** (pod, service, configmap, label, replicaset, statefulset, daemonset, persistent volume et claim). 
 
 # Programme:
 
