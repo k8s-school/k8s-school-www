@@ -31,7 +31,7 @@ enableRobotsTXT = true
     weight = 2
 
 [[menu.main]]
-    name = "Equipe"
+    name = "Formateurs"
     url = "/team/"
     weight = 3
 
