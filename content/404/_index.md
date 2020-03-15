@@ -3,8 +3,10 @@ title: "Page Not Found"
 date: 2019-10-14T10:52:03+07:00
 ---
 
-## $ kubectl get page --selector formation=k8s
-## Page does not exists
+```shell
+$ kubectl get page --selector formation=k8s
+Page does not exists
+```
 
 [![K8s-school Logo](/images/logo.svg "K8s-school, expertise et formation Kubernetes")](https://k8s-school.fr)
 

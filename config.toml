@@ -57,7 +57,7 @@ enableRobotsTXT = true
 
 
 [[menu.main]]
-    name = "Contact"
+    name = "Inscription"
     url = "/contact/"
     weight = 8
 

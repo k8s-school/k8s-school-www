@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 
-# Formation avancée, Moody's Analytics, Grenoble, novembre 2019, 8 participants.
+## Formation avancée, Moody's Analytics, Grenoble, novembre 2019, 8 participants.
 
 ★★★★★ **Jérôme D.:** Manifestement une très bonne connaissance de Kubernetes, Fabrice avait de bonnes réponses à nos questions. Le cours était clair et bien mené, les exemples bien construits avec beaucoup de pointeurs utiles pour approfondir. Un seul regret : une utilisation intensive du mode impératif
 

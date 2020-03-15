@@ -5,6 +5,6 @@ draft: false
 weight: 1
 ---
 
-# Paris, février et mars 2020, environ 15 participants.
+## Paris, février et mars 2020, environ 15 participants.
 
 Ces formations Kubernetes initiale + avancé sur 5 jours à Paris ont réuni une quinzaine d'experts d'Axians, la filiale IT de Vinci Energie.

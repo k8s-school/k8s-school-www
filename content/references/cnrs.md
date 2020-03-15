@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 
-# Clermont-Ferrand, février 2019, environ 15 participants.
+## Clermont-Ferrand, février 2019, environ 15 participants.
 
 ★★★★★ **Philippe C.:** Excellent !! J'ai particulièrement apprécié l'ensemble de la formation. La découverte des concepts liés aux conteneurs et Kubernetes m'a permis de mieux comprendre l'éco-système Cloud Natif. Serait-il possible d'avoir une suite à cette formation ? Par exemple : Administration et sécurité.
 

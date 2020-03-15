@@ -9,7 +9,7 @@ Nos experts travaillent en étroite collaboration avec l'organisme de formation 
 
 Les avis de nos clients sont disponibles sur les pages du site d'Ambient-IT dediées à la [formation Kubernetes initiale](https://www.ambient-it.net/formation/formation-kubernetes/) et à la [formation Kubernetes avancée](https://www.ambient-it.net/formation/kubernetes).
 
-# Paris, novembre 2019, 5 participants.
+## Paris, novembre 2019, 5 participants.
 
 ★★★★★ **Robert G.:** Formateur au top!!! Très pédagogue, compétent et sympathique 😌
 
@@ -20,7 +20,7 @@ Merci Serdar pour cet avis positif. Je te souhaite beaucoup de réussite
 dans tes projets Kubernetes chez Total Direct Energie, et je reste à ton
 entière disposition si nécessaire.
 
-# Paris, septembre 2019, environ 5 participants.
+## Paris, septembre 2019, environ 5 participants.
 
 ★★★★★ **Stéphane L.:** Expérience très enrichissante. Merci beaucoup.
 
