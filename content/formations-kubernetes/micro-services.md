@@ -27,7 +27,7 @@ Accédez à la certification **CKA** (Certified Kubernetes Administrator) grâce
 
 ⎈ 1980 € HT par personne pour **3 jours** de formation, 650 € HT par personne pour chaque jour optionnel supplémentaire.
 
-# Sessions en intra-entreprise, en visio-conférence ou en remote
+# Sessions en intra-entreprise, option visio-conférence
 
 Sur demande
 
