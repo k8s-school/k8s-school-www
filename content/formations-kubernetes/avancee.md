@@ -22,7 +22,7 @@ Vous souhaitez opérer **Kubernetes en production**, et construire et déployer 
 
 ⎈ 2090 € HT par personne pour **3 jours** de formation, 650 euros par personne pour chaque jour optionnel supplémentaire.
 
-# Sessions en intra-entreprise, en visio-conférence ou en remote
+# Sessions en intra-entreprise, option visio-conférence
 
 Sur demande
 
