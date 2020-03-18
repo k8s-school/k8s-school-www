@@ -21,13 +21,13 @@ Accédez à la certification **CKA** (Certified Kubernetes Administrator) grâce
 [![Programme](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf)
 
 
-## Sessions inter-entreprises:
+# Sessions inter-entreprises
 
 ⎈ **Du 16 au 18 mars**, **du 20 au 22 avril**, **du 27 au 29 avril**, **du 8 au 10 juin** sur Paris.
 
 ⎈ 1980 € HT par personne pour **3 jours** de formation, 650 € HT par personne pour chaque jour optionnel supplémentaire.
 
-## Sessions en intra-entreprise, en visio-conférence ou en remote
+# Sessions en intra-entreprise, en visio-conférence ou en remote
 
 Sur demande
 
