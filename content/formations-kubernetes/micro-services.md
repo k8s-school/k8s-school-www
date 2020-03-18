@@ -20,13 +20,14 @@ Accédez à la certification **CKA** (Certified Kubernetes Administrator) grâce
 
 [![Programme](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf)
 
-# Tarifs:
 
-### Inter-entreprise: 1980 € HT par personne
+## **Sessions inter-entreprises:**
 
-pour **3 jours** de formation, 650 € HT par personne pour chaque jour optionnel supplémentaire.
+⎈ **Du 16 au 18 mars**, **du 20 au 22 avril**, **du 27 au 29 avril**, **du 8 au 10 juin** sur Paris.
 
-### Intra-entreprise:
+⎈ 1980 € HT par personne pour **3 jours** de formation, 650 € HT par personne pour chaque jour optionnel supplémentaire.
+
+## **Sessions K8S en intra-entreprise, en visio-conférence ou en remote sur demande** 
 
 Tarifs sur demande
 

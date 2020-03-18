@@ -16,13 +16,14 @@ Vous souhaitez opérer **Kubernetes en production**, et construire et déployer 
 
 [![Programme pdf](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf)
 
-# Tarifs:
+## **Sessions inter-entreprises:**
 
-### Inter-entreprise: 2090 € HT par personne
+⎈ **Du 27 au 29 avril**, **du 25 au 27 mai**,  **du 29 juin au 1 juillet**, **du 29 juin au 1er août** sur Paris. 
 
-pour **3 jours** de formation, 650 euros par personne pour chaque jour optionnel supplémentaire.
+⎈ 2090 € HT par personne pour **3 jours** de formation, 650 euros par personne pour chaque jour optionnel supplémentaire.
 
-### Intra-entreprise:
+## **Sessions en intra-entreprise, en visio-conférence ou en remote sur demande** 
+
 Tarifs sur demande
 
 ## Concepts avancés de Kubernetes:
