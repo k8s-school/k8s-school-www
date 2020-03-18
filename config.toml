@@ -58,7 +58,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
     name = "Inscription"
-    url = "/limesurvey/index.php/827842?lang=fr"
+    url = "/limesurvey/index.php/827842"
     weight = 8
 
 # Footer Menu
