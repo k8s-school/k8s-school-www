@@ -5,6 +5,7 @@ image: '/services/noun_591323.png'
 draft: false
 featured: true
 weight: 1
+description: 'Maîtrisez Kubernetes et ses fondamentaux avec cette formation couvrant tous les concepts clés de  K8s et dirigez-vous vers la certification CKA'
 ---
 
 

@@ -7,6 +7,7 @@ jobtitle: 'Expert formateur Kubernetes'
 email: 'fabrice.jammes@k8s-school.eu'
 linkedinurl: 'https://www.linkedin.com/in/fabrice-jammes-5b29b042/'
 weight: 1
+description: 'Votre formateur Kubernetes, ingénieur CNRS, est titulaire de la CKA (Certifiate Kubernetes Administrator), et speaker lors de la KubeCon2019.'
 ---
 
 Titulaire de la **CKA** (Certifiate Kubernetes Administrator), **speaker lors de la KubeCon2019** à Barcelone, Fabrice est également **ingénieur de recherche au CNRS**.

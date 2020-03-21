@@ -2,6 +2,7 @@
 title: 'Support de cours'
 intro_image: images/cncf-logos.svg
 sitemap_exclude: true
+description: "Accédez à l'ensemble de nos support de cours Kubernetes, initial et avancé"
 ---
 
 # Support de cours 

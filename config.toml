@@ -6,6 +6,7 @@ theme = "hugo-serif-theme"
 enableRobotsTXT = true
 
 [params]
+  author="K8s-school"
   google_analytics_id="UA-146891246-1"
 
   [params.homepage_meta_tags]
@@ -26,7 +27,7 @@ enableRobotsTXT = true
 #   weight = 1
 
 [[menu.main]]
-    name = "Programmes K8S"
+    name = "Programmes K8s"
     url = "/formations-kubernetes/"
     weight = 2
 

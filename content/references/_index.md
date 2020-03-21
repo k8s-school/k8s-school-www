@@ -1,7 +1,7 @@
 ---
 title: 'Références et clients'
 intro_image: /images/certified.svg
-description: Formez-vous avec des experts Kubernetes reconnus
+description: "Formez-vous avec des experts Kubernetes chevronnés, certifiés CKA, et reconnus par la recherche et l'industrie"
 ---
 
 # Formations Kubernetes reconnues

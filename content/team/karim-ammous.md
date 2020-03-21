@@ -7,6 +7,7 @@ jobtitle: 'Architecte formateur Kubernetes'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/in/karim-ammous'
 weight: 1
+description: 'Votre formateur Kubernetes, architecte de solutions micro-services, est titulaire de la CKA (Certifiate Kubernetes Administrator), et de la CKAD.'
 ---
 
 **Docteur en Informatique**, architecte de solutions orientées micro-services, Karim possède en outre une **solide expertise en Java** et est titulaire de la certification **CKA** (Certified Kubernetes Administrator) ainsi que la certification **CKAD** (Certified Kubernetes Application Developer) délivrées par l'organisme **CNCF** (Cloud Native Computing Foundation) controlé par **Linux Foundation**. 

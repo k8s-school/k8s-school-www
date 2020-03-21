@@ -2,10 +2,11 @@
 title: 'CNRS'
 date: 2019-10-24T11:01:34+07:00
 draft: false
-weight: 1
+weight: 2
+description: 'Le CNRS nous a confié la formation Kubernetes de 20 de ses ingénieurs'
 ---
 
-## Clermont-Ferrand, février 2019, environ 15 participants.
+### **Clermont-Ferrand, février 2019, environ 20 participants.**
 
 ★★★★★ **Philippe C.:** Excellent !! J'ai particulièrement apprécié l'ensemble de la formation. La découverte des concepts liés aux conteneurs et Kubernetes m'a permis de mieux comprendre l'éco-système Cloud Natif. Serait-il possible d'avoir une suite à cette formation ? Par exemple : Administration et sécurité.
 

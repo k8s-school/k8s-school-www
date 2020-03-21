@@ -1,6 +1,7 @@
 ---
 title: 'Formations Kubernetes'
 intro_image: images/cncf-logos.svg
+description: 'Vos programmes de formation Kubernetes initial et avancés sont personnalisés durant un audit gratuit avec nos formateurs'
 ---
 
 # Votre programme K8S

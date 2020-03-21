@@ -5,6 +5,7 @@ image: '/services/default.png'
 draft: false
 featured: true
 weight: 2
+description: 'Devenez expert Kubernetes avec votre formation Kubernetes avancée, au delà de la certification CKA'
 ---
 
 **Devenez expert Kubernetes**, au delà de la CKA, grâce à cette formation Kubernetes avancée. Avec nous, découvrez comment **orchestrer vos conteneurs en production** et **sécuriser votre infrastructure** grâce aux autorisations **RBAC**, aux **PodSecurityPolicies**, et aux **NetworkPolicies**. 
