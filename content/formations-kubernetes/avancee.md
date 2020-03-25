@@ -8,7 +8,7 @@ weight: 2
 description: 'Devenez expert Kubernetes avec votre formation Kubernetes avancée, au delà de la certification CKA'
 ---
 
-**Devenez expert Kubernetes**, au delà de la CKA, grâce à cette formation Kubernetes avancée. Avec nous, découvrez comment **orchestrer vos conteneurs en production** et **sécuriser votre infrastructure** grâce aux autorisations **RBAC**, aux **PodSecurityPolicies**, et aux **NetworkPolicies**. 
+**Devenez expert Kubernetes**, au delà de la [**CKA** (Certified Kubernetes Administrator)](https://www.cncf.io/certification/cka/), grâce à cette formation Kubernetes avancée. Avec nous, découvrez comment **orchestrer vos conteneurs en production** et **sécuriser votre infrastructure** grâce aux autorisations **RBAC**, aux **PodSecurityPolicies**, et aux **NetworkPolicies**. 
 
 Vous souhaitez opérer **Kubernetes en production**, et construire et déployer des **applications fiables et sécurisées**. Cette formation Kubernetes avancée s'adresse à vous.
 

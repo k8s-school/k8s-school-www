@@ -5,7 +5,7 @@ image: '/services/noun_591323.png'
 draft: false
 featured: true
 weight: 1
-description: 'Maîtrisez Kubernetes et ses fondamentaux avec cette formation couvrant tous les concepts clés de  K8s et dirigez-vous vers la certification CKA'
+description: 'Maîtrisez Kubernetes et ses fondamentaux avec cette formation couvrant tous les concepts clés de K8s et dirigez-vous vers la certification CKA'
 ---
 
 
@@ -14,7 +14,7 @@ Architecturez des **solutions micro-services** et mettez les en œuvre sur vos p
 
 Evoluez vers le **Cloud-Natif, Kubernetes, les conteneurs, les standards CRI/CNI/CSI, la supervision Prometheus, Ingress et le Service Mesh**. Nos formateurs partagent avec vous leur expérience du sujet et apportent **des réponses personnalisées** à vos cas d'utilisation.
 
-Accédez à la certification **CKA** (Certified Kubernetes Administrator) grâce à cette formation couvrant l'ensemble des **concepts fondamentaux de Kubernetes** (pod, service, configmap, label, replicaset, statefulset, daemonset, persistent volume et claim). 
+Accédez à la certification [**CKA** (Certified Kubernetes Administrator)](https://www.cncf.io/certification/cka/) grâce à cette formation couvrant l'ensemble des [**concepts fondamentaux de Kubernetes**](https://kubernetes.io/fr/docs/home/) (pod, service, configmap, label, replicaset, statefulset, daemonset, persistent volume et claim). 
 
 [**Programme de la formation Kubernetes**](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf) et les micro-services:
 
