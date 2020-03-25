@@ -16,12 +16,11 @@ Evoluez vers le **Cloud-Natif, Kubernetes, les conteneurs, les standards CRI/CNI
 
 Accédez à la certification **CKA** (Certified Kubernetes Administrator) grâce à cette formation couvrant l'ensemble des **concepts fondamentaux de Kubernetes** (pod, service, configmap, label, replicaset, statefulset, daemonset, persistent volume et claim). 
 
-Avec Microsoft, accéder gratuitement au livre [Kubernetes Up and Running 2nd edition](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/), qui traite des fondamentaux de Kubernetes.
-
-[**Programme détaillé**](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf) de la **formation Kubernetes** et les micro-services:
+[**Programme de la formation Kubernetes**](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf) et les micro-services:
 
 [![Programme](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf)
 
+Avec Microsoft, accédez gratuitement au livre [**Kubernetes Up and Running 2nd edition**](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/), qui couvre l'ensemble des fondamentaux de Kubernetes. Nos formateurs ont collaboré avec son auteur, [Joe Beda](https://www.vmware.com/company/leadership/joe-beda.html), et [Tim Hockin, leader technique Kubernetes chez Google](https://twitter.com/thockin), pour mettre au point le plan et les supports de votre formation.
 
 # Sessions inter-entreprises
 
