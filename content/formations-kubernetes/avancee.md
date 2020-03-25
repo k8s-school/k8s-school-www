@@ -13,9 +13,9 @@ description: 'Devenez expert Kubernetes avec votre formation Kubernetes avancée
 Vous souhaitez opérer **Kubernetes en production**, et construire et déployer des **applications fiables et sécurisées**. Cette formation Kubernetes avancée s'adresse à vous.
 
 
-[**programme détaillé**](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf) de la **formation Kubernetes avancé**:
+[**programme de la formation Kubernetes avancé**](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf) :
 
-[![Programme pdf](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf)
+[![Programme pdf de la formation Kubernetes avancé](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf)
 
 # Sessions inter-entreprises
 
