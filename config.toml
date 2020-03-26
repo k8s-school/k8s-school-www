@@ -36,26 +36,15 @@ enableRobotsTXT = true
     url = "/team/"
     weight = 3
 
-# [[menu.main]]
-#   name = "References"
-#   url = "/references/"
-#   weight = 4
+[[menu.main]]
+    name = "Blog"
+    url = "/resources/fr/blog/"
+    weight = 6
 
 [[menu.main]]
     name = "Références"
     url = "/references/"
     weight = 5
-
-[[menu.main]]
-    name = "Blog FR"
-    url = "/resources/fr/blog/"
-    weight = 6
-
-[[menu.main]]
-    name = "Blog EN"
-    url = "/resources/en/blog/"
-    weight = 7
-
 
 [[menu.main]]
     name = "Inscription"
