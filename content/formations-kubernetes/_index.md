@@ -16,4 +16,4 @@ description: 'Vos programmes de formation Kubernetes initial et avancé sont per
 
 ## **Formation K8S en intra-entreprise, en visio-conférence ou en remote sur demande** 
 
-[**Inscrivez-vous à votre formation= Kubernetes**](/limesurvey/index.php/827842)
+[**Inscrivez-vous à votre formation Kubernetes**](/limesurvey/index.php/827842)
