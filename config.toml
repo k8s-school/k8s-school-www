@@ -21,10 +21,11 @@ enableRobotsTXT = true
     meta_twitter_creator = "@zerostaticio"
 
 # Main Menu
-# [[menu.main]]
-#   name = "Conseil"
-#   url = "/conseil/"
-#   weight = 1
+
+[[menu.main]]
+    name = "S'inscrire"
+    url = "/limesurvey/index.php/827842"
+    weight = 1
 
 [[menu.main]]
     name = "Programmes K8s"
@@ -45,11 +46,6 @@ enableRobotsTXT = true
     name = "Références"
     url = "/references/"
     weight = 5
-
-[[menu.main]]
-    name = "Inscription"
-    url = "/limesurvey/index.php/827842"
-    weight = 8
 
 # Footer Menu
 [[menu.footer]]
