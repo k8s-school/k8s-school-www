@@ -6,6 +6,6 @@ weight: 2
 description: "L'Afnic nous a confié la formation Kubernetes de ses ingénieurs systèmes et Devops afin de réussir la migration de son système d'information sur cet orchestrateur de conteneurs"
 ---
 
-### **Formation initiale et avancée, Montigny le Bretonneux, avril et mai 2019, 9 participants à chaque session**
+### **Formation initiale et avancée, Montigny le Bretonneux, avril et mai 2019, 9 participants**
 
 L'[Afnic](https://www.afnic.fr/) gère les extensions françaises de l'Internet. Nous avons formé ses experts Devops pour préparer la migration complète de leur système d'information sur Kubernetes.
