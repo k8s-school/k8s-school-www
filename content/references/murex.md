@@ -1,7 +1,7 @@
 ---
 title: 'Afnic'
 date: 2020-04-04T12:01:34+07:00
-draft: true
+draft: false
 weight: 2
 description: "Murex nous a confié la formation Kubernetes de ses équipes systèmes et Devops"
 ---
