@@ -21,7 +21,7 @@ Vous souhaitez opérer **Kubernetes en production**, et construire et déployer 
 
 # Sessions inter-entreprises
 
-⎈ **Du 27 au 29 avril**, **du 25 au 27 mai**,  **du 29 juin au 1 juillet**, **du 29 juin au 1er août** sur Paris. 
+⎈ **Du 27 au 29 avril**, **du 25 au 27 mai**,  **du 29 juin au 1 juillet** sur Paris. 
 
 ⎈ 2090 € HT par personne pour **3 jours** de formation, 650 euros par personne pour chaque jour optionnel supplémentaire.
 
