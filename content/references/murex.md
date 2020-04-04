@@ -1,5 +1,5 @@
 ---
-title: 'Afnic'
+title: 'Murex'
 date: 2020-04-04T12:01:34+07:00
 draft: false
 weight: 2
