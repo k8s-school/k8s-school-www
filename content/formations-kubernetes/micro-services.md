@@ -41,9 +41,10 @@ Sur demande
 ## Architecture de Kubernetes:
 ![Architecture de Kubernetes](/images/k8s-archi.svg)
 
+## Avis clients:
 
-<div class="Stars" style="--rating: 5;" aria-label="Rating of this product is 2.3 out of 5.">Denis C. de Hewlett-Packard: Formateur très professionnel et très compétent sur le sujet K8s.</div>
-
+<div class="Stars" style="--rating: 5;" aria-label="La note de ce produit est 5 sur 5.">Denis C. de Hewlett-Packard: Formateur très professionnel et très compétent sur le sujet K8s.</div>
+<div class="Stars" style="--rating: 5;" aria-label="La note de ce produit est 5 sur 5.">Marcel D. de Hewlett-Packard: Très bon formateur, les explications sont claires et concises. </div>
 
 <script type="application/ld+json">[{
    "@context":"https://schema.org",
