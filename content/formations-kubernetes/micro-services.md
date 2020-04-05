@@ -509,8 +509,8 @@ Sur demande
    "@type":"EducationEvent",
    "name":"Kubernetes Avril",
    "description":"Session Interentreprises : Formation Kubernetes Avril du 20 au 22 Avril sur Paris",
-   "image":"https://www.ambient-it.net/wp-content/uploads/2017/07/kubernetes-logo.png",
-   "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
+   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
    "startDate":"2020-04-20T09:00:00+0100",
    "endDate":"2020-04-22T17:00:00+0100",
    "eventAttendanceMode":"MixedEventAttendanceMode",
@@ -534,7 +534,7 @@ Sur demande
       "price":"1980",
       "priceCurrency":"EUR",
       "availability":"http://schema.org/InStock",
-      "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
       "validFrom":"2019-04-01T00:00:00+00:00"
    },
    "performer":{
@@ -547,8 +547,8 @@ Sur demande
    "@type":"EducationEvent",
    "name":"Kubernetes Avril",
    "description":"Session Interentreprises : Formation Kubernetes Avril du 27 au 29 Avril sur Paris",
-   "image":"https://www.ambient-it.net/wp-content/uploads/2017/07/kubernetes-logo.png",
-   "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
+   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
    "startDate":"2020-04-27T09:00:00+0100",
    "endDate":"2020-04-29T17:00:00+0100",
    "eventAttendanceMode":"MixedEventAttendanceMode",
@@ -572,7 +572,7 @@ Sur demande
       "price":"1980",
       "priceCurrency":"EUR",
       "availability":"http://schema.org/InStock",
-      "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
       "validFrom":"2019-04-01T00:00:00+00:00"
    },
    "performer":{
@@ -585,8 +585,8 @@ Sur demande
    "@type":"EducationEvent",
    "name":"Kubernetes Juin",
    "description":"Session Interentreprises : Formation Kubernetes Juin du 8 au 10 Juin sur Paris",
-   "image":"https://www.ambient-it.net/wp-content/uploads/2017/07/kubernetes-logo.png",
-   "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
+   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
    "startDate":"2020-06-08T09:00:00+0100",
    "endDate":"2020-06-10T17:00:00+0100",
    "eventAttendanceMode":"MixedEventAttendanceMode",
@@ -610,7 +610,7 @@ Sur demande
       "price":"1980",
       "priceCurrency":"EUR",
       "availability":"http://schema.org/InStock",
-      "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
       "validFrom":"2019-04-01T00:00:00+00:00"
    },
    "performer":{
@@ -623,8 +623,8 @@ Sur demande
    "@type":"EducationEvent",
    "name":"Kubernetes Septembre",
    "description":"Session Interentreprises : Formation Kubernetes Septembre du 21 au 23 Septembre sur Paris",
-   "image":"https://www.ambient-it.net/wp-content/uploads/2017/07/kubernetes-logo.png",
-   "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
+   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
    "startDate":"2020-09-21T09:00:00+0100",
    "endDate":"2020-09-23T17:00:00+0100",
    "eventAttendanceMode":"MixedEventAttendanceMode",
@@ -648,7 +648,7 @@ Sur demande
       "price":"1980",
       "priceCurrency":"EUR",
       "availability":"http://schema.org/InStock",
-      "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
       "validFrom":"2019-04-01T00:00:00+00:00"
    },
    "performer":{
@@ -661,8 +661,8 @@ Sur demande
    "@type":"EducationEvent",
    "name":"Kubernetes Novembre",
    "description":"Session Interentreprises : Formation Kubernetes Novembre du 23 au 25 Novembre sur Paris",
-   "image":"https://www.ambient-it.net/wp-content/uploads/2017/07/kubernetes-logo.png",
-   "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
+   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
    "startDate":"2020-11-23T09:00:00+0100",
    "endDate":"2020-11-25T17:00:00+0100",
    "eventAttendanceMode":"MixedEventAttendanceMode",
@@ -686,7 +686,7 @@ Sur demande
       "price":"1980",
       "priceCurrency":"EUR",
       "availability":"http://schema.org/InStock",
-      "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
       "validFrom":"2019-04-01T00:00:00+00:00"
    },
    "performer":{
@@ -699,8 +699,8 @@ Sur demande
    "@type":"EducationEvent",
    "name":"Kubernetes Décembre",
    "description":"Session Interentreprises : Formation Kubernetes Décembre du 14 au 16 Décembre sur Paris",
-   "image":"https://www.ambient-it.net/wp-content/uploads/2017/07/kubernetes-logo.png",
-   "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
+   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
    "startDate":"2020-12-14T09:00:00+0100",
    "endDate":"2020-12-16T17:00:00+0100",
    "eventAttendanceMode":"MixedEventAttendanceMode",
@@ -724,7 +724,7 @@ Sur demande
       "price":"1980",
       "priceCurrency":"EUR",
       "availability":"http://schema.org/InStock",
-      "url":"https://www.ambient-it.net/formation/formation-kubernetes",
+      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
       "validFrom":"2019-04-01T00:00:00+00:00"
    },
    "performer":{
