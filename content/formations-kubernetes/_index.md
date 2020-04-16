@@ -10,9 +10,9 @@ description: 'Vos programmes de formation Kubernetes initial et avancé sont per
 
 ## **Offre de formation:**
 
-⎈ [Formation Kubernetes](initial): Devenez opérationnel sur les fondamentaux de Kubernetes.
+⎈ [**Formation Kubernetes**](initial): Devenez opérationnel sur les fondamentaux de Kubernetes.
 
-⎈ [Formation K8s avancé/expert](avance): Devenez expert Kubernetes, notamment sur les aspects **sécurité** et **production**.
+⎈ [**Formation K8s avancé/expert**](avance): Devenez expert Kubernetes, notamment sur les aspects **sécurité** et **production**.
 
 ## **Formation K8S en inter et intra-entreprise, en visio-conférence ou en remote sur demande** 
 
