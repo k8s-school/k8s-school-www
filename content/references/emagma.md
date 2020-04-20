@@ -8,4 +8,4 @@ description: 'Emagma nous a confié la formation Kubernetes en visio-conférence
 
 ### **En visio-conférence, mars 2020, 1 participant**
 
-★★★★★ **Loïc C.:** La formation Kubernetes par Fabrice Jammes est d'un haut niveau de qualité, son écoute et sa disponibilité sont un atout pour s'immerger dans les possibilités techniques de l'outil, patience et attention au coeur de la démarche, c'est top.
+★★★★★ **Loïc Caillieux, fondateur Emagma:** Je ne remercierai jamais assez Fabrice pour la formation en 3 jours à Kubernetes qui m'a permis de prendre en main efficacement cette technologie. Tout y est : expertise, pédagogie, supports de qualité, adaptation à vos besoins réel, humour et simplicité. Vous souhaitez former vos équipes à Kubernetes, K8School est l'entreprise que je recommande.
