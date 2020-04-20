@@ -11,4 +11,4 @@ description: 'Axians, filiale IT de Vinci Energie, nous a confié la formation K
 Ces formations Kubernetes initiale + avancé sur 5 jours à Paris ont réuni une quinzaine d'experts d'Axians, la filiale IT de Vinci Energie.
 
 
-★★★★★ **Chamseddine S.:** Fabrice est un formateur extrêmement pédagogue. Sa capacité à transmettre son savoir et son retour d'expérience est exceptionnelle. Je suis ravi d'avoir été formé sur Kubernetes par Fabrice et je recommande chaudement les formations qu'il propose. À très vite & merci !
+★★★★★ **Chamseddine S.:** Fabrice est un formateur extrêmement pédagogue. Sa capacité à transmettre son savoir et son retour d'expérience sont exceptionnels. Je suis ravi d'avoir été formé sur Kubernetes par Fabrice et je recommande chaudement les formations qu'il propose. À très vite & merci !
