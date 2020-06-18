@@ -8,7 +8,7 @@ weight: 1
 description: 'Maîtrisez Kubernetes et ses fondamentaux avec cette formation couvrant tous les concepts clés de K8s et dirigez-vous vers la certification CKA'
 ---
 
-<div class="StarsHuge" style="--rating: 4.8;" aria-label="Rating of this product is 2.3 out of 5."></div>
+<div class="StarsHuge" style="--rating: 4.8;" aria-label="Cette formation est notée 4.8 sur 5."></div>
 
 Grâce à cette formation Kubernetes, devenez opérationnel sur **les concepts clés de Kubernetes** et du **Cloud-Natif**.
 Architecturez des **solutions micro-services** et mettez les en œuvre sur vos plate-formes de développement et de production.
