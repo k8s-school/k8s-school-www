@@ -27,8 +27,6 @@ Avec Microsoft, accédez gratuitement au livre [**Kubernetes Up and Running 2nd 
 
 # Sessions inter-entreprises
 
-⎈ **Du 16 au 18 mars**, **du 20 au 22 avril**, **du 27 au 29 avril**, **du 8 au 10 juin** sur Paris.
-
 ⎈ 1980 € HT par personne pour **3 jours** de formation, 650 € HT par personne pour chaque jour optionnel supplémentaire.
 
 # Sessions intra-entreprise, option visio-conférence
