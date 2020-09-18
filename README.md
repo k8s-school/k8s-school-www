@@ -1,5 +1,8 @@
 # Install
 
+- Install hugo
+- Install theme
+
 ## Theme management
 
 ```shell

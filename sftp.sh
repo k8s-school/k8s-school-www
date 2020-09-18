@@ -5,7 +5,7 @@ set -x
 
 DIR=$(cd "$(dirname "$0")"; pwd -P)
 
-hugo
+hugo --minify
 
 # directory to backup
 SERVER_DIR="www"
