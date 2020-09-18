@@ -18,8 +18,8 @@ jobs:
         with:
           hugo-version: '0.75.1'
           extended: true
-      - name: Install yafc
-        run: sudo apt-get install yafc
+      - name: Install htpasswd and yafc
+        run: sudo apt-get install apache2-utils yafc
       - name: Clone theme
         run: |
           cd themes
