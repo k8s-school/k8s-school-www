@@ -33,6 +33,8 @@ Sur demande
 ## Concepts avancés de Kubernetes:
 ![Concepts avancés de Kubernetes](/images/k8s-advanced.svg)
 
+<div class="Stars" style="--rating: 5;" aria-label="La note de ce produit est 5 sur 5.">François L. de chez Alcatel: Formation vivante malgré les conditions confinement. Bonne couverture des différents concepts, maîtrise du sujet du formateur, bonne répartition entre théorie et pratique.</div>
+
 <script type="application/ld+json">[
    {
       "@context":"https://schema.org",
