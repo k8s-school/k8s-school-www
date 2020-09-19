@@ -41,16 +41,18 @@ Sur demande
 
 ## Avis clients:
 
-<div class="Stars" style="--rating: 5;" aria-label="La note de ce produit est 5 sur 5.">Denis C. de Hewlett-Packard: Formateur très professionnel et très compétent sur le sujet K8s.</div>
 <div class="Stars" style="--rating: 5;" aria-label="La note de ce produit est 5 sur 5.">Marcel D. de Hewlett-Packard: Très bon formateur, les explications sont claires et concises. </div>
+<div class="Stars" style="--rating: 5;" aria-label="La note de ce produit est 5 sur 5.">Denis C. de Hewlett-Packard: Formateur très professionnel et très compétent sur le sujet K8s.</div>
+<div class="Stars" style="--rating: 5;" aria-label="La note de ce produit est 5 sur 5.">Sheherazade G. de Hewlett Packard: Très bon équilibrage entre la partie conceptuelle et l'expérience opérationnelle. </div>
+<div class="Stars" style="--rating: 5;" aria-label="La note de ce produit est 5 sur 5.">Katarina chez Moody's: C'était la meilleure formation que j'ai jamais fait. La plateforme avec le support où tout est déjà installé c'est juste top. On perd pas le temps à installer, corriger les erreurs, on est pas bloqué par les droit d'accès. On peut pratiquer sans stress, le rhytme était bien adapté.\r\nLe formateur très compétent et pédagogique.</div>
 
 <script type="application/ld+json">[{
    "@context":"https://schema.org",
-   "@type":"Product",
+   "@type":"Course",
    "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
    "name":"Formation Kubernetes et les Microservices",
    "url":"https://www.k8s-school.fr/formations-kubernetes/micro-services/",
-   "@id":"https://www.k8s-school.fr/formations-kubernetes/micro-services/#product",
+   "@id":"https://www.k8s-school.fr/formations-kubernetes/micro-services/#course",
    "aggregateRating":{
       "@type":"AggregateRating",
       "ratingValue":4.5,
@@ -367,7 +369,7 @@ Sur demande
       },
       {
          "@type":"Review",
-         "reviewBody":"Une formation intéressante avec un formateur disponible et une possibilité d'échanger, discuter pour approfondir ses connaissances.\r\nDans son ensemble, tous les membres d'AMBIENT-IT (mention spéciale au patron très accueillant) sont sympathiques.",
+         "reviewBody":"Une formation intéressante avec un formateur disponible et une possibilité d'échanger, discuter pour approfondir ses connaissances.",
          "datePublished":"2018-06-20T16:49:56+02:00",
          "author":{
             "@type":"Person",
@@ -501,232 +503,5 @@ Sur demande
          }
       }
    ]
-},
-{
-   "@context":"http://schema.org",
-   "@type":"EducationEvent",
-   "name":"Kubernetes Avril",
-   "description":"Session Interentreprises : Formation Kubernetes Avril du 20 au 22 Avril sur Paris",
-   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
-   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-   "startDate":"2020-04-20T09:00:00+0100",
-   "endDate":"2020-04-22T17:00:00+0100",
-   "eventAttendanceMode":"MixedEventAttendanceMode",
-   "maximumVirtualAttendeeCapacity":"50",
-   "maximumPhysicalAttendeeCapacity":"15",
-   "location":[
-      {
-         "@type":"VirtualLocation",
-         "url":"https://meet.jit.si/AmbientIT"
-      },
-      {
-         "@type":"Place",
-         "name":"Paris",
-         "address":{
-            "@type":"PostalAddress"
-         }
-      }
-   ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
-   "performer":{
-      "@type":"Person",
-      "name":"Formateur by AmbientIT"
-   }
-},
-{
-   "@context":"http://schema.org",
-   "@type":"EducationEvent",
-   "name":"Kubernetes Avril",
-   "description":"Session Interentreprises : Formation Kubernetes Avril du 27 au 29 Avril sur Paris",
-   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
-   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-   "startDate":"2020-04-27T09:00:00+0100",
-   "endDate":"2020-04-29T17:00:00+0100",
-   "eventAttendanceMode":"MixedEventAttendanceMode",
-   "maximumVirtualAttendeeCapacity":"50",
-   "maximumPhysicalAttendeeCapacity":"15",
-   "location":[
-      {
-         "@type":"VirtualLocation",
-         "url":"https://meet.jit.si/AmbientIT"
-      },
-      {
-         "@type":"Place",
-         "name":"Paris",
-         "address":{
-            "@type":"PostalAddress"
-         }
-      }
-   ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
-   "performer":{
-      "@type":"Person",
-      "name":"Formateur by AmbientIT"
-   }
-},
-{
-   "@context":"http://schema.org",
-   "@type":"EducationEvent",
-   "name":"Kubernetes Juin",
-   "description":"Session Interentreprises : Formation Kubernetes Juin du 8 au 10 Juin sur Paris",
-   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
-   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-   "startDate":"2020-06-08T09:00:00+0100",
-   "endDate":"2020-06-10T17:00:00+0100",
-   "eventAttendanceMode":"MixedEventAttendanceMode",
-   "maximumVirtualAttendeeCapacity":"50",
-   "maximumPhysicalAttendeeCapacity":"15",
-   "location":[
-      {
-         "@type":"VirtualLocation",
-         "url":"https://meet.jit.si/AmbientIT"
-      },
-      {
-         "@type":"Place",
-         "name":"Paris",
-         "address":{
-            "@type":"PostalAddress"
-         }
-      }
-   ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
-   "performer":{
-      "@type":"Person",
-      "name":"Formateur by AmbientIT"
-   }
-},
-{
-   "@context":"http://schema.org",
-   "@type":"EducationEvent",
-   "name":"Kubernetes Septembre",
-   "description":"Session Interentreprises : Formation Kubernetes Septembre du 21 au 23 Septembre sur Paris",
-   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
-   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-   "startDate":"2020-09-21T09:00:00+0100",
-   "endDate":"2020-09-23T17:00:00+0100",
-   "eventAttendanceMode":"MixedEventAttendanceMode",
-   "maximumVirtualAttendeeCapacity":"50",
-   "maximumPhysicalAttendeeCapacity":"15",
-   "location":[
-      {
-         "@type":"VirtualLocation",
-         "url":"https://meet.jit.si/AmbientIT"
-      },
-      {
-         "@type":"Place",
-         "name":"Paris",
-         "address":{
-            "@type":"PostalAddress"
-         }
-      }
-   ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
-   "performer":{
-      "@type":"Person",
-      "name":"Formateur by AmbientIT"
-   }
-},
-{
-   "@context":"http://schema.org",
-   "@type":"EducationEvent",
-   "name":"Kubernetes Novembre",
-   "description":"Session Interentreprises : Formation Kubernetes Novembre du 23 au 25 Novembre sur Paris",
-   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
-   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-   "startDate":"2020-11-23T09:00:00+0100",
-   "endDate":"2020-11-25T17:00:00+0100",
-   "eventAttendanceMode":"MixedEventAttendanceMode",
-   "maximumVirtualAttendeeCapacity":"50",
-   "maximumPhysicalAttendeeCapacity":"15",
-   "location":[
-      {
-         "@type":"VirtualLocation",
-         "url":"https://meet.jit.si/AmbientIT"
-      },
-      {
-         "@type":"Place",
-         "name":"Paris",
-         "address":{
-            "@type":"PostalAddress"
-         }
-      }
-   ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
-   "performer":{
-      "@type":"Person",
-      "name":"Formateur by AmbientIT"
-   }
-},
-{
-   "@context":"http://schema.org",
-   "@type":"EducationEvent",
-   "name":"Kubernetes Décembre",
-   "description":"Session Interentreprises : Formation Kubernetes Décembre du 14 au 16 Décembre sur Paris",
-   "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
-   "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-   "startDate":"2020-12-14T09:00:00+0100",
-   "endDate":"2020-12-16T17:00:00+0100",
-   "eventAttendanceMode":"MixedEventAttendanceMode",
-   "maximumVirtualAttendeeCapacity":"50",
-   "maximumPhysicalAttendeeCapacity":"15",
-   "location":[
-      {
-         "@type":"VirtualLocation",
-         "url":"https://meet.jit.si/AmbientIT"
-      },
-      {
-         "@type":"Place",
-         "name":"Paris",
-         "address":{
-            "@type":"PostalAddress"
-         }
-      }
-   ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
-   "performer":{
-      "@type":"Person",
-      "name":"Formateur by AmbientIT"
-   }
-}]</script>
+}
+]</script>

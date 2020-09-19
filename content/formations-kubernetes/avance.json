@@ -1,46 +1,11 @@
----
-title: 'Formation Kubernetes avancé/expert'
-date: 2019-10-24T11:01:34+07:00
-image: '/services/default.png'
-draft: false
-featured: true
-weight: 2
-description: 'Devenez expert Kubernetes avec votre formation Kubernetes avancée, au delà de la certification CKA'
----
-
-<div class="StarsHuge" style="--rating: 5;" aria-label="Cette formation est notée 5 sur 5."></div>
-
-
-**Devenez expert Kubernetes**, au delà de la [**CKA** (Certified Kubernetes Administrator)](https://www.cncf.io/certification/cka/), grâce à cette formation Kubernetes avancée. Avec nous, découvrez comment **orchestrer vos conteneurs en production** et **sécuriser votre infrastructure** grâce aux autorisations **RBAC**, aux **PodSecurityPolicies**, et aux **NetworkPolicies**. 
-
-Vous souhaitez opérer **Kubernetes en production**, et construire et déployer des **applications fiables et sécurisées**. Cette formation Kubernetes avancée s'adresse à vous.
-
-
-[**Programme de la formation Kubernetes avancé**](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf) :
-
-[![Programme pdf de la formation Kubernetes avancé](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf)
-
-[**Inscrivez-vous à votre formation Kubernetes**](/limesurvey/index.php/827842)
-
-# Sessions inter-entreprises
-
-⎈ 2090 € HT par personne pour **3 jours** de formation, 650 euros par personne pour chaque jour optionnel supplémentaire.
-
-# Sessions intra-entreprise, option visio-conférence
-
-Sur demande
-
-## Concepts avancés de Kubernetes:
-![Concepts avancés de Kubernetes](/images/k8s-advanced.svg)
-
-<script type="application/ld+json">[
+[
    {
       "@context":"https://schema.org",
-      "@type":"Course",
-      "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
+      "@type":"Product",
+      "image":"https://www.ambient-it.net/wp-content/uploads/2019/02/Kubernetes-ADVANCED.jpg",
       "name":"Formation Kubernetes Avancé : Administration",
-      "url":"https://www.k8s-school.fr/formations-kubernetes/avance/",
-      "@id":"https://www.k8s-school.fr/formations-kubernetes/avance/#product",
+      "url":"https://www.ambient-it.net/formation/kubernetes-avance/",
+      "@id":"https://www.ambient-it.net/formation/kubernetes-avance/#product",
       "aggregateRating":{
          "@type":"AggregateRating",
          "ratingValue":4.9,
@@ -52,7 +17,7 @@ Sur demande
          "@type":"Offer",
          "priceCurrency":"EUR",
          "price":"2090",
-         "sku":"sku-k8sschool-002"
+         "sku":"sku-ambient-10710"
       },
       "review":[
          {
@@ -147,7 +112,7 @@ Sur demande
          },
          {
             "@type":"Review",
-            "reviewBody":"Formation très intéressante, le sujet est vaste et Fabrice nous a apporté son expertise sur les différents domaines autour de Kubernetes.\r\nLes 3 jours sont justes au niveau temps, peut-être faut-il revoir dès le premier jour l'attente de l'ensemble des participants pour cibler les sujets.\r\nMerci beaucoup",
+            "reviewBody":"Formation très intéressante, le sujet est vaste et Fabrice nous a apporté son expertise sur les différents domaines autour de Kubernetes.\r\nLes 3 jours sont justes au niveau temps, peut-être faut-il revoir dès le premier jour l'attente de l'ensemble des participants pour cibler les sujets.\r\nDans un contexte d'entreprise, le périmètre est défini à l'avance, mais dans le cadre des locaux de Ambient-it, il faudrait lister les sujets à voir sur les 3 jours.\r\nMerci beaucoup",
             "datePublished":"2019-11-20T14:43:14+01:00",
             "author":{
                "@type":"Person",
@@ -208,4 +173,3 @@ Sur demande
       ]
    }
 ]
-</script>
