@@ -5,6 +5,9 @@ themesDir = "themes"
 theme = "hugo-serif-theme"
 enableRobotsTXT = true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
   author="K8s-school"
   google_analytics_id="UA-146891246-1"
