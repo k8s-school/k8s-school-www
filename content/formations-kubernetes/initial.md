@@ -55,7 +55,7 @@ Sur demande
    "@id":"https://www.k8s-school.fr/formations-kubernetes/micro-services/#course",
    "aggregateRating":{
       "@type":"AggregateRating",
-      "ratingValue":4.5,
+      "ratingValue":4.9,
       "reviewCount":29,
       "bestRating":5,
       "worstRating":1
