@@ -51,6 +51,7 @@ Sur demande
    "@type":"Course",
    "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
    "name":"Formation Kubernetes et les Microservices",
+   "description": "Formation Kubernetes pour la CKA"
    "url":"https://www.k8s-school.fr/formations-kubernetes/micro-services/",
    "@id":"https://www.k8s-school.fr/formations-kubernetes/micro-services/#course",
    "aggregateRating":{

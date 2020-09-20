@@ -41,6 +41,7 @@ Sur demande
       "@type":"Course",
       "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
       "name":"Formation Kubernetes Avancé : Administration",
+      "description":"Formation Kubernetes Avancé, au dela de la CKA",
       "url":"https://www.k8s-school.fr/formations-kubernetes/avance/",
       "@id":"https://www.k8s-school.fr/formations-kubernetes/avance/#product",
       "aggregateRating":{
