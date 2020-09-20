@@ -41,7 +41,7 @@ Sur demande
       "@type":"Course",
       "image":"https://www.k8s-school.fr/images/logo_kubernetes.svg",
       "name":"Formation Kubernetes Avancé : Administration",
-      "description":"Formation Kubernetes Avancé, au dela de la CKA",
+      "description":"Cette formation de perfectionnement sur Kubernetes vous permettra de maîtriser l’orchestration de conteneurs en production. Alliant théorie et pratique, vous découvrirez les détails d'implémentation de l’architecture de Kubernetes, aborderez son fonctionnement en production, la gestion des utilisateurs, le fonctionnement des réseaux virtuels ou encore les techniques de supervision. Grâce à cette formation en 3 jours, vous deviendrez capable de mettre en œuvre des clusters Kubernetes performants, robustes et sûrs à l'échelle de vos plate-formes de production.",
       "url":"https://www.k8s-school.fr/formations-kubernetes/avance/",
       "@id":"https://www.k8s-school.fr/formations-kubernetes/avance/#product",
       "aggregateRating":{
