@@ -7,7 +7,7 @@ intro_image: images/logo_kubernetes.svg
 
 Devenez expert en **Devops et orchestration de conteneurs** grâce à une **formation Kubernetes**. Démultipliez la puissance de vos équipes Devops grâce au Cloud-Natif et aux conteneurs.
 
-[Inscrivez-vous à une **formation Kubernetes**](/limesurvey/index.php/827842) inter ou intra entreprise et certifiée **Datadock**. Vous pouvez organiser votre formation en France, en Suisse ou **à distance, en visio-conférence interactive**.
+[Inscrivez-vous à une **formation Kubernetes**](/limesurvey/index.php/827842) inter ou intra entreprise et certifiée **Datadock**. Nous organisons votre formation en présentiel ou **à distance, en visio-conférence interactive**.
 
 ## **Offre de formation:**
 
