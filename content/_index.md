@@ -3,13 +3,16 @@ title: 'Expertise et Formation Kubernetes'
 intro_image: images/logo_kubernetes.svg
 ---
 
-# Votre formation Kubernetes
+# Des experts Devops et Kubernetes à votre service
+
+Nous réalisons des prestations d'audit sur mesure pour votre infrastructure Kubernetes. Elles vous permettent d'optimiser et de sécuriser vos plate-formes Cloud.
+
+## **Offre de formation:**
 
 Devenez expert en **Devops et orchestration de conteneurs** grâce à une **formation Kubernetes**. Démultipliez la puissance de vos équipes Devops grâce au Cloud-Natif et aux conteneurs.
 
 [Inscrivez-vous à une **formation Kubernetes**](/limesurvey/index.php/827842) inter ou intra entreprise et certifiée **Datadock**. Nous organisons votre formation en présentiel ou **à distance, en visio-conférence interactive**.
 
-## **Offre de formation:**
 
 ⎈ [**Formation Kubernetes**](initial): Devenez opérationnel sur les fondamentaux de Kubernetes.
 
