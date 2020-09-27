@@ -57,7 +57,7 @@ Sur demande
    "aggregateRating":{
       "@type":"AggregateRating",
       "ratingValue":4.9,
-      "reviewCount":29,
+      "reviewCount":30,
       "bestRating":5,
       "worstRating":1
    },
@@ -68,6 +68,36 @@ Sur demande
       "sku":"sku-k8sschool-0001"
    },
    "review":[
+      {
+         "@type":"Review",
+         "reviewBody":"Feedback from the team is that everybody here enjoyed the training and found it to be relevant and useful!",
+         "datePublished":"2020-09-05T15:43:08+01:00",
+         "author":{
+            "@type":"Person",
+            "name":"Fritz M. Stanford University"
+         },
+         "reviewRating":{
+            "@type":"Rating",
+            "ratingValue":"5",
+            "bestRating":5,
+            "worstRating":1
+         }
+      },
+      {
+         "@type":"Review",
+         "reviewBody":"Je ne remercierai jamais assez Fabrice pour la formation en 3 jours à Kubernetes qui m’a permis de prendre en main efficacement cette technologie. Tout y est : expertise, pédagogie, supports de qualité, adaptation à vos besoins réel, humour et simplicité. Vous souhaitez former vos équipes à Kubernetes, K8School est l’entreprise que je recommande.",
+         "datePublished":"2019-03-05T15:43:08+01:00",
+         "author":{
+            "@type":"Person",
+            "name":"Loïc C. Fondateur Emagma"
+         },
+         "reviewRating":{
+            "@type":"Rating",
+            "ratingValue":"5",
+            "bestRating":5,
+            "worstRating":1
+         }
+      },
       {
          "@type":"Review",
          "reviewBody":"Formateur très professionnel et très compétent sur le sujet K8s.",
@@ -113,13 +143,21 @@ Sur demande
             "worstRating":1
          }
       },
+
+         "reviewRating":{
+            "@type":"Rating",
+            "ratingValue":"4",
+            "bestRating":5,
+            "worstRating":1
+         }
+      },
       {
          "@type":"Review",
-         "reviewBody":"Très bon équilibrage entre la partie conceptuelle et l'expérience opérationnelle",
+         "reviewBody":"Feedback from the team is that everybody here enjoyed the training and found it to be relevant and useful!",
          "datePublished":"2019-12-05T15:43:08+01:00",
          "author":{
             "@type":"Person",
-            "name":"Sheherazade G. Hewlett Packard France"
+            "name":"Fritz M. Stanford University"
          },
          "reviewRating":{
             "@type":"Rating",
