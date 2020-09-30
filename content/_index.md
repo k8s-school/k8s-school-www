@@ -5,6 +5,8 @@ intro_image: images/logo_kubernetes.svg
 
 # Des experts Devops et Kubernetes à votre service
 
+## **Audit:**
+
 Nous réalisons des prestations d'audit sur mesure pour votre infrastructure Kubernetes. Elles vous permettent d'optimiser et de sécuriser vos plate-formes Cloud.
 
 ## **Offre de formation:**
