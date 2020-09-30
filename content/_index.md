@@ -7,7 +7,7 @@ intro_image: images/logo_kubernetes.svg
 
 ## **Audit:**
 
-Nous réalisons des prestations d'audit sur mesure pour votre infrastructure Kubernetes. Elles vous permettent d'optimiser et de sécuriser vos plate-formes Cloud.
+Nous réalisons des prestations d'audit sur mesure pour votre infrastructure Kubernetes. Elles vous permettent d'optimiser et de sécuriser vos plates-formes Cloud-Natif.
 
 ## **Offre de formation:**
 
