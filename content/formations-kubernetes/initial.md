@@ -143,14 +143,6 @@ Sur demande
             "worstRating":1
          }
       },
-
-         "reviewRating":{
-            "@type":"Rating",
-            "ratingValue":"4",
-            "bestRating":5,
-            "worstRating":1
-         }
-      },
       {
          "@type":"Review",
          "reviewBody":"Feedback from the team is that everybody here enjoyed the training and found it to be relevant and useful!",
