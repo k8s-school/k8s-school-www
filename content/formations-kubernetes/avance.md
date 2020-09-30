@@ -18,7 +18,19 @@ Vous souhaitez opérer **Kubernetes en production**, et construire et déployer 
 
 [![Programme pdf de la formation Kubernetes avancé](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf)
 
-[**Prochaine session en du 23 u 25 novembre à Paris**](https://www.ambient-it.net/formation/kubernetes-avance/)
+{{< highlight html >}}
+$ kubectl exec -it formation-k8s -- curl http://prochaine-session
+<section id="formation-kubernetes">
+  <div>
+   <h1 id="niveau">KUBERNETES AVANCEE</h1>
+   <h1 id="lieu">PARIS, @Ambient-It</h1>
+   <h1 id="date">23 AU 25 NOVEMBRE 2020</h1>
+  </div>
+</section>
+{{< /highlight >}}
+
+[**Inscrivez-vous pour la prochaine session du 23 au 25 novembre à Paris**](https://www.ambient-it.net/formation/kubernetes-avance/)
+
 [**Inscrivez-vous à votre formation Kubernetes**](/limesurvey/index.php/827842)
 
 # Sessions inter-entreprises
