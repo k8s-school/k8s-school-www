@@ -16,9 +16,9 @@ Devenez expert en **Devops et orchestration de conteneurs** grâce à une **form
 [Inscrivez-vous à une **formation Kubernetes**](/limesurvey/index.php/827842) inter ou intra entreprise et certifiée **Datadock**. Nous organisons votre formation en présentiel ou **à distance, en visio-conférence interactive**.
 
 
-⎈ [**Formation Kubernetes**](initial): Devenez opérationnel sur les fondamentaux de Kubernetes.
+⎈ [**Formation Kubernetes**](formations-kubernetes/initial): Devenez opérationnel sur les fondamentaux de Kubernetes.
 
-⎈ [**Formation K8s avancé/expert**](avance): Devenez expert Kubernetes, notamment sur les aspects **sécurité** et **production**.
+⎈ [**Formation K8s avancé/expert**](formations-kubernetes/avance): Devenez expert Kubernetes, notamment sur les aspects **sécurité** et **production**.
 
 <script type="application/ld+json" >{
 	"@context":"http://schema.org",
