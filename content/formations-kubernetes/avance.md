@@ -23,13 +23,13 @@ $ kubectl exec -it formation-k8s -- curl http://prochaine-session
 <section id="formation-kubernetes">
   <div>
    <h1 id="niveau">KUBERNETES AVANCEE</h1>
-   <h1 id="lieu">PARIS, @Ambient-It</h1>
-   <h1 id="date">23 AU 25 NOVEMBRE 2020</h1>
+   <h1 id="lieu">Remote, @Ambient-It</h1>
+   <h1 id="date">29 NOVEMBRE au 1er DECEMBRE</h1>
   </div>
 </section>
 {{< /highlight >}}
 
-[**Inscrivez-vous pour la prochaine session du 23 au 25 novembre à Paris**](https://www.ambient-it.net/formation/kubernetes-avance/)
+[**Inscrivez-vous pour la prochaine session du 29 novembre au 1er decembre en remote**](https://www.ambient-it.net/formation/kubernetes-avance/)
 
 [**Demandez-nous un devis pour vos formations Kubernetes**](/limesurvey/index.php/827842)
 
