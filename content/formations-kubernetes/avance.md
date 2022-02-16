@@ -12,7 +12,7 @@ description: 'Devenez expert Kubernetes avec votre formation Kubernetes avancée
 
 Vous souhaitez opérer **Kubernetes en production**, et construire et déployer des **applications fiables et sécurisées**. Cette formation Kubernetes avancée s'adresse à vous.
 
-**Devenez expert Kubernetes**, au delà de la [**CKA** (Certified Kubernetes Administrator)](https://www.cncf.io/certification/cka/), grâce à cette formation Kubernetes avancée. Avec nos experts Devops, découvrez comment **orchestrer vos conteneurs en production** et **sécuriser votre infrastructure** grâce aux autorisations **RBAC**, aux **PodSecurityPolicies**, et aux **NetworkPolicies**.
+**Devenez expert Kubernetes**, au delà de la [**CKA** (Certified Kubernetes Administrator)](https://www.cncf.io/certification/cka/), grâce à cette formation Kubernetes avancée. Avec nos experts Devops, découvrez comment **orchestrer vos conteneurs en production** et **sécuriser votre infrastructure** grâce aux autorisations **RBAC**, aux **PodSecurityPolicies**, et aux **NetworkPolicies**. Découvrez les concepts de sécurité avancé qui vous permettront de valider la [**CKS** (Certified Kubernetes Security Specialist)](https://www.cncf.io/certification/cks/)
 
 [**Programme de la formation Kubernetes avancé**](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf) :
 
@@ -24,12 +24,12 @@ $ kubectl exec -it formation-k8s -- curl http://prochaine-session
   <div>
    <h1 id="niveau">KUBERNETES AVANCEE</h1>
    <h1 id="lieu">Remote, @Ambient-It</h1>
-   <h1 id="date">29 NOVEMBRE au 1er DECEMBRE</h1>
+   <h1 id="date">29 au 30 MARS</h1>
   </div>
 </section>
 {{< /highlight >}}
 
-[**Inscrivez-vous pour la prochaine session du 29 novembre au 1er decembre en remote**](https://www.ambient-it.net/formation/kubernetes-avance/)
+[**Inscrivez-vous pour la prochaine session du 28 au 30 mars en remote**](https://www.ambient-it.net/formation/kubernetes-avance/?partner=620bb70825b1c)
 
 [**Demandez-nous un devis pour vos formations Kubernetes**](/limesurvey/index.php/827842)
 
