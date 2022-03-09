@@ -8,7 +8,7 @@ description: "Accédez à l'ensemble de nos support de cours Kubernetes, initial
 # Support de cours
 
 
-| |
+|   |
 |----------|
 | [A_00_Kubecon_LSST.pdf](/pdf/A_00_Kubecon_LSST.pdf) |
 | [A_02_EN_Microservices_Architecture.pdf](/pdf/A_02_EN_Microservices_Architecture.pdf) |
@@ -19,8 +19,10 @@ description: "Accédez à l'ensemble de nos support de cours Kubernetes, initial
 | [B_Docker_01_intro.pdf](/pdf/B_Docker_01_intro.pdf) |
 | [B_Docker_02_EN_exercice.pdf](/pdf/B_Docker_02_EN_exercice.pdf) |
 | [B_Docker_02_exercice.pdf](/pdf/B_Docker_02_exercice.pdf) |
+| [CKAD-preparation-final.pdf](/pdf/CKAD-preparation-final.pdf) |
 | [C_K8s_01_course.pdf](/pdf/C_K8s_01_course.pdf) |
-| [C_K8s_02_OFFICIAL_slide_deck.pdf](/pdf/C_K8s_02_OFFICIAL_slide_deck.pdf) |
+| [C_K8s_02.1_OFFICIAL_slide_deck.pdf](/pdf/C_K8s_02.1_OFFICIAL_slide_deck.pdf) |
+| [C_K8s_02_standard_API.pdf](/pdf/C_K8s_02_standard_API.pdf) |
 | [D_01_Ingress.pdf](/pdf/D_01_Ingress.pdf) |
 | [D_02_Istio_k8s_service-mesh.pdf](/pdf/D_02_Istio_k8s_service-mesh.pdf) |
 | [D_03_Helm.pdf](/pdf/D_03_Helm.pdf) |
@@ -36,3 +38,4 @@ description: "Accédez à l'ensemble de nos support de cours Kubernetes, initial
 | [Lighting_talk_telepresence.pdf](/pdf/Lighting_talk_telepresence.pdf) |
 | [evaluation.pdf](/pdf/evaluation.pdf) |
 | [solution.pdf](/pdf/solution.pdf) |
+| [ssh-tunnel-and-port-forward.pdf](/pdf/ssh-tunnel-and-port-forward.pdf) |
