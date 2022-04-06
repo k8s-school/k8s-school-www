@@ -13,7 +13,7 @@ SERVER_DIR="www"
 BUILD_DIR="$DIR/public"
 
 PDF_DIR="$BUILD_DIR/pdf"
-
+SECURE_DIR="$BUILD_DIR/secure"
 
 . "$DIR/env-creds.sh"
 
@@ -27,6 +27,15 @@ if [ -z "$HTACCESS_USER" ]; then
     exit 1
 fi
 htpasswd -bc "$PDF_DIR/.htpasswd" "$HTACCESS_USER" "$HTACCESS_PASS"
+
+# Access to pdf directory
+sed "s/<LOGIN>/$SERVER_USER/g" "$DIR/content/secure/.htaccess" > "$SECURE_DIR/.htaccess"
+if [ -z "$HTACCESS_XPERT_USER" ]; then
+    >&2 echo "ERROR: undefined HTACCESS_XPERT_USER in env-creds.sh"
+    exit 1
+fi
+htpasswd -bc "$SECURE_DIR/.htpasswd" "$HTACCESS_XPERT_USER" "$HTACCESS_XPERT_PASS"
+
 
 rm -rf "$DIR/public/resources"
 
