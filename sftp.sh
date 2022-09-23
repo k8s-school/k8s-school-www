@@ -39,12 +39,14 @@ htpasswd -bc "$SECURE_DIR/.htpasswd" "$HTACCESS_XPERT_USER" "$HTACCESS_XPERT_PAS
 
 rm -rf "$DIR/public/resources"
 
+# ADD line below before 'put' instruction for cleanup
+# rm -rf *
+
 #yafc fish://"$SERVER_USER"@"$SERVER"
 yafc  <<**
 open fish://"$SERVER_USER":$SERVER_PASS@"$SERVER"
 mkdir "$SERVER_DIR"
 cd "$SERVER_DIR"
-rm -rf *
 put -rf $BUILD_DIR/*
 mkdir resources
 close
