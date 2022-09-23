@@ -44,8 +44,7 @@ yafc  <<**
 open fish://"$SERVER_USER":$SERVER_PASS@"$SERVER"
 mkdir "$SERVER_DIR"
 cd "$SERVER_DIR"
-# UNCOMMENT TO CLEANUP
-# rm -rf *
+rm -rf *
 put -rf $BUILD_DIR/*
 mkdir resources
 close
