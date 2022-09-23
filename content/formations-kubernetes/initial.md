@@ -21,7 +21,7 @@ Accédez à la certification [**CKA** (Certified Kubernetes Administrator)](http
 
 [![Programme pdf de la formation Kubernetes](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_ET_LES_MICRO-SERVICES.pdf)
 
-[**Inscrivez-vous à votre formation Kubernetes**](/limesurvey/index.php/827842)
+[**Inscrivez-vous à votre formation Kubernetes**](https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link)
 
 Avec Microsoft, accédez gratuitement au livre [**Kubernetes Up and Running 2nd edition**](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/), qui couvre l'ensemble des fondamentaux de Kubernetes. Nos formateurs ont collaboré avec son auteur, [Joe Beda](https://www.vmware.com/company/leadership/joe-beda.html), et [Tim Hockin, leader technique Kubernetes chez Google](https://twitter.com/thockin), pour mettre au point le plan et les supports de votre formation.
 
