@@ -19,17 +19,18 @@ Vous souhaitez opérer **Kubernetes en production**, et construire et déployer 
 [![Programme pdf de la formation Kubernetes avancé](/images/pdf-64x64.png)](/images/PROGRAMME_KUBERNETES_AVANCE_ADMINISTRATION.pdf)
 
 {{< highlight html >}}
-$ kubectl exec -it formation-k8s -- curl http://prochaine-session
+$ kubectl exec -n formation -it k8s -- curl https://ma-prochaine-session
 <section id="formation-kubernetes">
   <div>
    <h1 id="niveau">KUBERNETES AVANCEE</h1>
-   <h1 id="lieu">Remote, @Ambient-It</h1>
-   <h1 id="date">29 au 30 MARS</h1>
+   <h1 id="lieu">A distance ou dans vos locaux</h1>
+   <h1 id="date">A votre convenant</h1>
   </div>
 </section>
 {{< /highlight >}}
 
-[**Inscrivez-vous pour la prochaine session du 28 au 30 mars en remote**](https://www.ambient-it.net/formation/kubernetes-avance/?partner=620bb70825b1c)
+<!--- [**Inscrivez-vous pour la prochaine session du 28 au 30 mars en remote**](https://www.ambient-it.net/formation/kubernetes-avance/?partner=620bb70825b1c)
+-->
 
 [**Demandez-nous un devis pour vos formations Kubernetes**](https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link)
 
