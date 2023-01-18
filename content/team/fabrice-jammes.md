@@ -16,8 +16,8 @@ Titulaire de la **CKA** (Certifiate Kubernetes Administrator) et de la CKS (Cert
 
 ### Certifications Kubernetes
 
-[![Certification Sécurité CKS](/images/pdf-64x64.png)](/images/CKS_Certificate_Fabrice_Jammes.pdf)
-[![Certification Administration CKA](/images/pdf-64x64.png)](/images/CKA_Certificate_Fabrice_Jammes.pdf)
+[![Certification Sécurité CKS](/images/CKS.png)](/images/CKS_Certificate_Fabrice_Jammes.pdf)
+[![Certification Administration CKA](/images/CKA.png)](/images/CKA_Certificate_Fabrice_Jammes.pdf)
 
 ### CNDM 2021
 
