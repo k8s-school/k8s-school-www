@@ -24,7 +24,7 @@ $ kubectl exec -n formation -it k8s -- curl https://ma-prochaine-session
   <div>
    <h1 id="niveau">KUBERNETES AVANCEE</h1>
    <h1 id="lieu">A distance ou dans vos locaux</h1>
-   <h1 id="date">A votre convenant</h1>
+   <h1 id="date">A votre convenance</h1>
   </div>
 </section>
 {{< /highlight >}}
