@@ -1,11 +1,13 @@
 ---
-title: 'Support de cours'
+title: 'Courses material'
 intro_image: images/cncf-logos.svg
 sitemap_exclude: true
-description: "Accédez à l'ensemble de nos support de cours Kubernetes, initial et avancé"
+description: "Access all our Kubernetes course materials, initial and advanced"
 ---
 
-# Support de cours
+# Courses material
+
+# Kubernetes fundamentals
 
 |  |
 |----------|
@@ -22,17 +24,38 @@ description: "Accédez à l'ensemble de nos support de cours Kubernetes, initial
 | [C_K8s_01_Kubernetes_Architecture.pdf](/pdf/C_K8s_01_Kubernetes_Architecture.pdf) |
 | [C_K8s_02_standard_API.pdf](/pdf/C_K8s_02_standard_API.pdf) |
 | [C_K8s_03_OFFICIAL_slide_deck.pdf](/pdf/C_K8s_03_OFFICIAL_slide_deck.pdf) |
-| [D_01_Ingress.pdf](/pdf/D_01_Ingress.pdf) |
-| [D_02_Istio_k8s_service-mesh.pdf](/pdf/D_02_Istio_k8s_service-mesh.pdf) |
-| [D_03_Helm.pdf](/pdf/D_03_Helm.pdf) |
-| [D_03_Prometheus_monitoring.pdf](/pdf/D_03_Prometheus_monitoring.pdf) |
-| [D_05_multicluster-monitoring.pdf](/pdf/D_05_multicluster-monitoring.pdf) |
+
+# Advanced Kubernetes
+
+|  |
+|----------|
 | [E_01_advanced-k8s-cluster-internals.pdf](/pdf/E_01_advanced-k8s-cluster-internals.pdf) |
 | [E_02_advanced-k8s_RBAC.pdf](/pdf/E_02_advanced-k8s_RBAC.pdf) |
 | [E_03_advanced-k8s_Security_node+network.pdf](/pdf/E_03_advanced-k8s_Security_node+network.pdf) |
 | [E_04_advanced-k8s_computational_resources.pdf](/pdf/E_04_advanced-k8s_computational_resources.pdf) |
 | [E_05_advanced-k8s_advanced_scheduling.pdf](/pdf/E_05_advanced-k8s_advanced_scheduling.pdf) |
 | [E_06_advanced-k8s_operators.pdf](/pdf/E_06_advanced-k8s_operators.pdf) |
+
+# Optional modules
+
+|  |
+|----------|
+| [D_01_Ingress.pdf](/pdf/D_01_Ingress.pdf) |
+| [D_02_Istio_k8s_service-mesh.pdf](/pdf/D_02_Istio_k8s_service-mesh.pdf) |
+| [D_03_Helm.pdf](/pdf/D_03_Helm.pdf) |
+| [D_03_Prometheus_monitoring.pdf](/pdf/D_03_Prometheus_monitoring.pdf) |
+| [D_05_multicluster-monitoring.pdf](/pdf/D_05_multicluster-monitoring.pdf) |
+
+# Openshift
+
+|  |
+|----------|
+| [OPENSHIFT.pdf](/pdf/OPENSHIFT.pdf) |
+
+# Misc
+
+|  |
+|----------|
 | [Gartner_choose_k8s_install_method.pdf](/pdf/Gartner_choose_k8s_install_method.pdf) |
 | [evaluation.pdf](/pdf/evaluation.pdf) |
 | [solution.pdf](/pdf/solution.pdf) |
