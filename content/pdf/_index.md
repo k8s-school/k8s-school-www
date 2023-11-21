@@ -7,8 +7,7 @@ description: "Access all our Kubernetes course materials, initial and advanced"
 
 # Courses material
 
-# Kubernetes fundamentals
-
+## Kubernetes fundamentals
 |  |
 |----------|
 | [A_00_Kubecon_LSST.pdf](/pdf/A_00_Kubecon_LSST.pdf) |
@@ -25,8 +24,7 @@ description: "Access all our Kubernetes course materials, initial and advanced"
 | [C_K8s_02_standard_API.pdf](/pdf/C_K8s_02_standard_API.pdf) |
 | [C_K8s_03_OFFICIAL_slide_deck.pdf](/pdf/C_K8s_03_OFFICIAL_slide_deck.pdf) |
 
-# Advanced Kubernetes
-
+## Advanced Kubernetes
 |  |
 |----------|
 | [E_01_advanced-k8s-cluster-internals.pdf](/pdf/E_01_advanced-k8s-cluster-internals.pdf) |
@@ -36,8 +34,7 @@ description: "Access all our Kubernetes course materials, initial and advanced"
 | [E_05_advanced-k8s_advanced_scheduling.pdf](/pdf/E_05_advanced-k8s_advanced_scheduling.pdf) |
 | [E_06_advanced-k8s_operators.pdf](/pdf/E_06_advanced-k8s_operators.pdf) |
 
-# Optional modules
-
+## Optional modules
 |  |
 |----------|
 | [D_01_Ingress.pdf](/pdf/D_01_Ingress.pdf) |
@@ -46,14 +43,12 @@ description: "Access all our Kubernetes course materials, initial and advanced"
 | [D_03_Prometheus_monitoring.pdf](/pdf/D_03_Prometheus_monitoring.pdf) |
 | [D_05_multicluster-monitoring.pdf](/pdf/D_05_multicluster-monitoring.pdf) |
 
-# Openshift
-
+## Openshift
 |  |
 |----------|
 | [OPENSHIFT.pdf](/pdf/OPENSHIFT.pdf) |
 
-# Misc
-
+## Misc
 |  |
 |----------|
 | [Gartner_choose_k8s_install_method.pdf](/pdf/Gartner_choose_k8s_install_method.pdf) |
