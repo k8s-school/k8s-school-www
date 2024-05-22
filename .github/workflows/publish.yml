@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2
         with:
@@ -33,4 +33,4 @@ jobs:
           HTACCESS_USER="${{ secrets.HTACCESS_USER }}"
           HTACCESS_PASS="${{ secrets.HTACCESS_PASS }}"
           EOF
-          ./sftp.sh 
+          ./sftp.sh
