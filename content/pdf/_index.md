@@ -5,9 +5,9 @@ sitemap_exclude: true
 description: "Access all our Kubernetes course materials, initial and advanced"
 ---
 
-# Courses material
+**Courses material**
 
-## Kubernetes fundamentals
+# Kubernetes fundamentals
 |  |
 |----------|
 | [A_00_Kubecon_LSST.pdf](/pdf/A_00_Kubecon_LSST.pdf) |
@@ -26,7 +26,7 @@ description: "Access all our Kubernetes course materials, initial and advanced"
 
 
 
-## Advanced Kubernetes
+# Advanced Kubernetes
 |  |
 |----------|
 | [E_01_advanced-k8s-cluster-internals.pdf](/pdf/E_01_advanced-k8s-cluster-internals.pdf) |
@@ -38,7 +38,7 @@ description: "Access all our Kubernetes course materials, initial and advanced"
 
 
 
-## Optional modules
+# Optional modules
 |  |
 |----------|
 | [D_01_Ingress.pdf](/pdf/D_01_Ingress.pdf) |
@@ -49,14 +49,14 @@ description: "Access all our Kubernetes course materials, initial and advanced"
 
 
 
-## Openshift
+# Openshift
 |  |
 |----------|
 | [OPENSHIFT.pdf](/pdf/OPENSHIFT.pdf) |
 
 
 
-## Misc
+# Misc
 |  |
 |----------|
 | [Gartner_choose_k8s_install_method.pdf](/pdf/Gartner_choose_k8s_install_method.pdf) |
