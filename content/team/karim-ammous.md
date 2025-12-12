@@ -2,7 +2,7 @@
 title: 'Karim Ammous'
 date: 2019-10-24T11:01:34+07:00
 draft: false
-image: 'team/kammous.jpg'
+# image: 'team/kammous.jpg'
 jobtitle: 'Architecte formateur Kubernetes'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/in/karim-ammous'

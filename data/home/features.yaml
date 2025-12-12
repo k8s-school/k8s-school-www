@@ -1,0 +1,14 @@
+enable: true
+
+title: "Pourquoi choisir K8s School ?"
+subtitle: "Notre expertise au service de votre réussite"
+
+features:
+  - title: "Formation CKA"
+    content: "Préparation complète à la certification Kubernetes Administrator avec labs pratiques"
+
+  - title: "Expertise CNRS"
+    content: "Formateur ingénieur de recherche au CNRS, expert en déploiements à grande échelle"
+
+  - title: "Expérience Production"
+    content: "Retour d'expérience sur des déploiements réels de clusters Kubernetes en production"

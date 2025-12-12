@@ -1,0 +1,25 @@
+baseURL: "https://k8s-school.fr/"
+title: "K8s-school"
+languageCode: "fr-fr"
+theme: "hugo-up-business"
+summaryLength: 20
+disableKinds: ["robotsTXT"]
+ignoreErrors: ["error-missing-instagram-accesstoken"]
+ignoreLogs: ["warning-goldmark-raw-html"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+imaging:
+  quality: 30
+  disableLatLong: true
+
+build:
+  publishDir: "public"
+
+services:
+  googleAnalytics:
+    id: "UA-146891246-1"
+

@@ -1,0 +1,28 @@
+title: "K8s School"
+description: "Formation Kubernetes professionnelle et expertise Cloud-Native. Certification CKA et déploiements à grande échelle."
+# images:
+#   - "images/hero-image.png"
+
+# logo: "arrow-up.png"
+
+favicons:
+  themeColor: "#FFFFFF"
+  backgroundColor: "#FFFFFF"
+  faviconColor: "#000000"
+
+social:
+  dribbble: "#"
+  instagram: "#"
+  facebook: "#"
+  twitter: "#"
+
+location:
+  - "3891 Ranchview Dr. Richardson, California 62639"
+  - "4517 Washington Ave. Manchester, Kentucky 39495"
+
+contact:
+  - "trungkienspktnd@gamail.com"
+  - "207.555.0119"
+
+copyright: "© 2022 Up Business All Rights Reserved"
+

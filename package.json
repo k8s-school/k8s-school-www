@@ -1,0 +1,25 @@
+{
+  "name": "k8s-school-www",
+  "version": "1.0.0",
+  "description": "- Install hugo - Install theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjammes/k8s-school-www.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjammes/k8s-school-www/issues"
+  },
+  "homepage": "https://github.com/fjammes/k8s-school-www#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "@tailwindcss/typography": "^0.5.19",
+    "tailwindcss": "^4.1.18"
+  }
+}

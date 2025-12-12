@@ -1,0 +1,34 @@
+main:
+  - name: "S'inscrire"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link"
+    weight: 1
+
+  - name: "Programmes K8s"
+    url: "/formations-kubernetes/"
+    weight: 2
+
+  - name: "Formateurs"
+    url: "/team/"
+    weight: 3
+
+  - name: "Références"
+    url: "/references/"
+    weight: 4
+
+  - name: "Labs"
+    url: "/labs"
+    weight: 5
+
+buttons:
+  - name: "S'inscrire"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link"
+    weight: 1
+
+footer:
+  - name: "Accueil"
+    url: "/"
+    weight: 1
+
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2

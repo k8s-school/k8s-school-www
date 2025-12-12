@@ -2,7 +2,7 @@ baseURL = "https://k8s-school.fr/"
 languageCode = "fr-fr"
 title = "K8s-school"
 themesDir = "themes"
-theme = "hugo-serif-theme"
+theme = "hugo-up-business"
 enableRobotsTXT = true
 
 [markup.goldmark.renderer]
