@@ -7,5 +7,3 @@ button:
   enable: true
   label: "S'inscrire maintenant"
   link: "https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link"
-
-image: "images/services-web-development.png"

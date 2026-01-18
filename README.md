@@ -1,7 +1,24 @@
 # Install
 
-- Install hugo
+- Install hugo **Extended** (required for image processing)
 - Install theme
+
+## Hugo Extended Installation
+
+The modern `hugo-up-business` theme requires Hugo Extended for image processing features.
+
+Install Hugo Extended using Go:
+```shell
+go install -tags extended github.com/gohugoio/hugo@latest
+```
+
+Verify installation:
+```shell
+hugo version
+# Should show "hugo v... +extended"
+```
+
+**Note**: Standard Hugo will fail with errors like "this feature is not available in your current Hugo version" when processing images.
 
 ## Theme management
 
