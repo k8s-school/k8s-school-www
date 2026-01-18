@@ -1,9 +1,9 @@
 title: "K8s School"
 description: "Formation Kubernetes professionnelle et expertise Cloud-Native. Certification CKA et déploiements à grande échelle."
-# images:
-#   - "images/hero-image.png"
+images:
+  - "images/hero-image.png"
 
-# logo: "arrow-up.png"
+logo: "images/logo.png"
 
 favicons:
   themeColor: "#FFFFFF"
