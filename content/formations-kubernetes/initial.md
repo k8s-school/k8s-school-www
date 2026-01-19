@@ -1,7 +1,7 @@
 ---
 title: 'Formation Kubernetes "Core Concepts"'
 date: 2019-10-24T11:01:34+07:00
-# image: '/services/noun_591323.png'
+image: 'images/formation_kubernetes_fondamentaux.svg'
 draft: false
 featured: true
 weight: 1
