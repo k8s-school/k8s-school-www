@@ -2,6 +2,16 @@
 title: 'Références et clients'
 intro_image: /images/certified.svg
 description: "Formez-vous avec des experts Kubernetes chevronnés, certifiés CKA, et reconnus par la recherche et l'industrie"
+brands:
+  title: "Technologies maîtrisées - Projets CNCF Graduated"
+  items:
+    - /images/cncf-logos/kubernetes-icon-color.svg
+    - /images/cncf-logos/prometheus-icon-color.svg
+    - /images/cncf-logos/istio-icon-color.svg
+    - /images/cncf-logos/helm-icon-color.svg
+    - /images/cncf-logos/coredns-icon-color.svg
+    - /images/cncf-logos/containerd-icon-color.svg
+    - /images/cncf-logos/fluentd-icon-color.svg
 ---
 
 # Formations Kubernetes reconnues

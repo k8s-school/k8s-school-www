@@ -26,7 +26,9 @@
       "Bash(HUGO_ENVIRONMENT=development hugo server --bind 0.0.0.0 --port 1313 --disableFastRender --renderStaticToDisk=false)",
       "Bash(HUGO_ENV=development hugo server --bind 0.0.0.0 --port 1313 --disableFastRender --noHTTPCache --ignoreCache)",
       "Bash(__NEW_LINE__ sed -i \"s/image: ''\\/services\\/default.png''/# image: ''\\/services\\/default.png''/\" content/formations-kubernetes/avance.md)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(curl:*)",
+      "WebFetch(domain:localhost)"
     ],
     "deny": [],
     "ask": []
