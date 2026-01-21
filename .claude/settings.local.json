@@ -28,7 +28,8 @@
       "Bash(__NEW_LINE__ sed -i \"s/image: ''\\/services\\/default.png''/# image: ''\\/services\\/default.png''/\" content/formations-kubernetes/avance.md)",
       "Bash(git push:*)",
       "Bash(curl:*)",
-      "WebFetch(domain:localhost)"
+      "WebFetch(domain:localhost)",
+      "WebFetch(domain:k8s-school.fr)"
     ],
     "deny": [],
     "ask": []
