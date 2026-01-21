@@ -12,6 +12,9 @@ brands:
     - /images/cncf-logos/coredns-icon-color.svg
     - /images/cncf-logos/containerd-icon-color.svg
     - /images/cncf-logos/fluentd-icon-color.svg
+    - /images/cncf-logos/argo-icon-color.svg
+    - /images/cncf-logos/envoy-icon-color.svg
+    - /images/cncf-logos/etcd-icon-color.svg
 ---
 
 # Formations Kubernetes reconnues
