@@ -10,9 +10,31 @@ weight: 1
 description: 'Votre formateur Kubernetes, ingénieur CNRS, est titulaire de la CKA (Certifiate Kubernetes Administrator), et speaker lors de la KubeCon2019.'
 ---
 
-Titulaire de la **CKA** (Certifiate Kubernetes Administrator) et de la CKS (Certifiate Kubernetes Security Specialist), **speaker lors de la KubeCon et aux Cloud-Native Data Management Days**, Fabrice est également **ingénieur de recherche au CNRS**.
+**Ingénieur de recherche CNRS** et **référent Cloud-Natif pour Stanford University**, Fabrice Jammes est l'architecte Kubernetes de projets scientifiques internationaux d'envergure.
 
- Actuellement, il est responsable français pour **la base de données du télescope LSST**, dénommée [Qserv](https://github.com/lsst/qserv). Cette base de données distribuée, destinée à stocker un catalogue d’objets célestes de plusieurs PetaOctets, est développée par ~10 ingénieurs de l’**université de Stanford** ainsi que Fabrice, leur **référent Cloud-Natif et Kubernetes**. Fabrice conçoit et développe la procédure de déploiement à grande échelle de Qserv (~500 machines par clusters), sous forme d'[**un opérateur Kubernetes**](https://github.com/lsst/qserv-operator). Depuis 2019, **il collabor étroitement avec les ingénieurs de Google Cloud** pour déployer Qserv sur **[Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine)**. Fabrice forme également les ingénieurs de Stanford et du CNRS à Kubernetes.
+## Expertise de terrain
+
+**Rubin Observatory (ex-LSST, Stanford/CNRS)** : Responsable français pour la base de données distribuée [Qserv](https://github.com/lsst/qserv), destinée à cataloguer plusieurs PetaOctets d'objets célestes. Conception et développement d'un [opérateur Kubernetes](https://github.com/lsst/qserv-operator) pour des déploiements à ~500 machines par cluster.
+
+**Fink-Broker** : Architecte de la plateforme de détection d'alertes astronomiques en temps réel. Stack complète sur Kubernetes bare-metal : Kafka, Spark, MinIO, ArgoCD pour le traitement d'images télescopiques avec intelligence artificielle.
+
+**Collaboration Google Cloud** : Depuis 2019, ingénierie de solutions Kubernetes sur [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine) avec les équipes techniques de Google.
+
+**Triptyque technique maîtrisé** :
+- **Bare-metal** : Déploiements HPC et recherche scientifique
+- **Kind** : Développement, CI/CD et formations
+- **OpenShift** : Applications entreprise et conformité
+
+## Reconnaissance technique
+
+**Certifications** : CKA, CKS
+
+**Speaker KubeCon** (3 talks) :
+- KubeCon Europe 2019 (Barcelone) : Rubin Observatory architecture distribuée
+- KubeCon Europe 2024 (Paris) : Fink-Broker on Kubernetes
+- Cloud-Native Data Management Days
+
+**Formation** : Accompagnement des équipes Stanford, CNRS et clients industriels
 
 ### Certifications Kubernetes
 
