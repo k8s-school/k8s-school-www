@@ -29,9 +29,6 @@ $ kubectl exec -n formation -it k8s -- curl https://ma-prochaine-session
 </section>
 {{< /highlight >}}
 
-<!--- [**Inscrivez-vous pour la prochaine session du 28 au 30 mars en remote**](https://www.ambient-it.net/formation/kubernetes-avance/?partner=620bb70825b1c)
--->
-
 [**Demandez-nous un devis pour vos formations Kubernetes**](https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link)
 
 # Sessions inter-entreprises

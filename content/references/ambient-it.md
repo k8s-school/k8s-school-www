@@ -3,12 +3,10 @@ title: "Ambient-IT"
 date: 2020-01-03T10:47:58+10:00
 draft: false 
 weight: 1
-description: 'Vous souhaitez une formation Kubernetes en inter-entreprise sur Paris. Obtenez une promotion avec Ambient-IT, notre partenaire privilégié.'
+description: 'Ambient-IT, notre partenaire privilégié.'
 ---
 
-Bénéficiez d'une promotion chez **[Ambient-IT](http://www.ambient-it.net)** en nous contactant directement. Nos formateurs travaillent depuis 3 ans avec l'organisme de formation parisien **[Ambient-IT](http://www.ambient-it.net)**, dont nous assurons la majorité des formations Kubernetes inter-entreprise.
-
-Les avis des participants sont disponibles sur les pages du site d'Ambient-IT dediées à la [formation Kubernetes initiale](https://www.ambient-it.net/formation/formation-kubernetes/) et à la [formation Kubernetes avancée](https://www.ambient-it.net/formation/kubernetes).
+Nos formateurs travaillent depuis 7 ans avec l'organisme de formation parisien **[Ambient-IT](http://www.ambient-it.net)**.
 
 ### Paris, novembre 2019, 5 participants.
 

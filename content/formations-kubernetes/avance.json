@@ -2,10 +2,10 @@
    {
       "@context":"https://schema.org",
       "@type":"Product",
-      "image":"https://www.ambient-it.net/wp-content/uploads/2019/02/Kubernetes-ADVANCED.jpg",
+      "image":"https://k8s-school.fr/images/k8s-advanced.svg",
       "name":"Formation Kubernetes Avancé : Administration",
-      "url":"https://www.ambient-it.net/formation/kubernetes-avance/",
-      "@id":"https://www.ambient-it.net/formation/kubernetes-avance/#product",
+      "url":"https://k8s-school.fr/formations-kubernetes/avance/",
+      "@id":"https://k8s-school.fr/formations-kubernetes/avance/#product",
       "aggregateRating":{
          "@type":"AggregateRating",
          "ratingValue":4.9,
@@ -17,7 +17,7 @@
          "@type":"Offer",
          "priceCurrency":"EUR",
          "price":"2090",
-         "sku":"sku-ambient-10710"
+         "sku":"sku-k8sschool-10710"
       },
       "review":[
          {
