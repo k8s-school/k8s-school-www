@@ -114,7 +114,18 @@ description: 'Rendez vos applications observables avec OpenTelemetry : logs, mé
   </div>
 </div>
 
-<div class="not-prose mt-16 grid gap-8 md:grid-cols-2">
+<div class="not-prose mt-16 grid gap-8 md:grid-cols-3">
+  <div class="flex flex-col rounded-4xl border border-primary/25 p-8">
+    <h2 class="mb-3 text-xl font-bold text-primary">Tarifs</h2>
+    <div class="mb-4 rounded-2xl bg-tertiary px-4 py-3">
+      <span class="text-3xl font-bold text-primary">1 980 € <span class="text-sm font-normal">HT</span></span><br />
+      <span class="text-sm">par personne, session inter-entreprises de <strong>2 jours</strong></span>
+    </div>
+    <ul class="list-disc space-y-1 pl-5 text-sm">
+      <li>650 € HT par personne pour chaque jour optionnel supplémentaire</li>
+      <li>Sessions intra-entreprise : sur demande</li>
+    </ul>
+  </div>
   <div class="rounded-4xl border border-primary/25 p-8">
     <h2 class="mb-3 text-xl font-bold text-primary">Labs en accès libre</h2>
     <p class="mb-4">Les labs de la formation sont publiés sous licence Creative Commons BY-SA : vous pouvez les parcourir avant de vous inscrire, et les rejouer après.</p>
@@ -132,9 +143,9 @@ description: 'Rendez vos applications observables avec OpenTelemetry : logs, mé
 
 <div class="not-prose mt-16 rounded-4xl bg-tertiary px-6 py-12 text-center xl:px-12">
   <h2 class="mb-4 text-3xl font-bold text-primary">Formez votre équipe à OpenTelemetry</h2>
-  <p class="mx-auto mb-8 max-w-2xl">Sessions intra-entreprise sur devis, dans vos locaux ou à distance ; sessions inter-entreprises sur demande. Le programme s'adapte à votre stack (langages, backends d'observabilité).</p>
+  <p class="mx-auto mb-8 max-w-2xl">Sessions inter-entreprises, ou intra-entreprise dans vos locaux ou à distance. Le programme s'adapte à votre stack (langages, backends d'observabilité).</p>
   <div class="flex flex-col items-center justify-center gap-4 xl:flex-row">
-    <a class="bg-primary hover:bg-primary/90 rounded px-8 py-2 text-white duration-500" href="https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link">Demander un devis</a>
+    <a class="bg-primary hover:bg-primary/90 rounded px-8 py-2 text-white duration-500" href="https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link">S'inscrire</a>
     <a class="border-primary text-primary hover:bg-primary rounded border px-8 py-2 duration-500 hover:text-white" href="/contact/">Nous contacter</a>
   </div>
 </div>
@@ -146,5 +157,6 @@ description: 'Rendez vos applications observables avec OpenTelemetry : logs, mé
   "description": "Rendez vos applications observables avec OpenTelemetry : logs, métriques et traces corrélés, du SDK Java au collecteur et à Grafana.",
   "url": "https://k8s-school.fr/formations-kubernetes/opentelemetry/",
   "provider": {"@type": "Organization", "name": "K8s School", "url": "https://k8s-school.fr/"},
-  "hasCourseInstance": {"@type": "CourseInstance", "courseMode": ["onsite", "online"], "courseWorkload": "PT14H"}
+  "hasCourseInstance": {"@type": "CourseInstance", "courseMode": ["onsite", "online"], "courseWorkload": "PT14H"},
+  "offers": {"@type": "Offer", "priceCurrency": "EUR", "price": "1980", "category": "Session inter-entreprises, par personne, HT"}
 }</script>

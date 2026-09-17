@@ -20,6 +20,9 @@ SECURE_DIR="$BUILD_DIR/secure"
 # 404 management
 cp "$DIR/content/.htaccess" "$BUILD_DIR"
 
+# Hugo only creates these directories when they hold pages
+mkdir -p "$PDF_DIR" "$SECURE_DIR"
+
 # Access to pdf directory
 sed "s/<LOGIN>/$SERVER_USER/g" "$DIR/content/pdf/.htaccess" > "$PDF_DIR/.htaccess"
 if [ -z "$HTACCESS_USER" ]; then
