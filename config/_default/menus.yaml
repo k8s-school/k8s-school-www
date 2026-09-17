@@ -7,17 +7,21 @@ main:
     url: "/formations-kubernetes/"
     weight: 2
 
+  - name: "Formations CNRS"
+    url: "/formations-kubernetes/cnrs-formation-entreprises/"
+    weight: 3
+
   - name: "Formateurs"
     url: "/team/"
-    weight: 3
+    weight: 4
 
   - name: "Références"
     url: "/references/"
-    weight: 4
+    weight: 5
 
   - name: "Labs"
     url: "/labs"
-    weight: 5
+    weight: 6
 
 buttons:
   - name: "S'inscrire"

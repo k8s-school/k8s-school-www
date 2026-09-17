@@ -16,6 +16,8 @@ description: 'Vos programmes de formation Kubernetes initial et avancé sont per
 
 ⎈ [**Préparation CKA, CKAD et CKS**](certifications): Certifications officielles avec labs pratiques gratuits.
 
+⎈ [**Formations CNRS Formation Entreprises**](cnrs-formation-entreprises): 4 formations Kubernetes et OpenShift en inter-entreprises à Clermont-Ferrand, certifiées Qualiopi et finançables par votre OPCO.
+
 ## **Formation K8S en inter et intra-entreprise, en visio-conférence ou en remote sur demande** 
 
 [**Inscrivez-vous à votre formation Kubernetes**](https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link)

@@ -40,6 +40,8 @@ openshift     enterprise  hybrid-cloud   Applications métier, compliance
 
 ⎈ [**Production & Security**](formations-kubernetes/avance): Administration avancée et préparation CKS
 
+⎈ [**CNRS Formation Entreprises**](formations-kubernetes/cnrs-formation-entreprises): 4 formations Kubernetes et OpenShift en inter-entreprises, Qualiopi / OPCO
+
 ---
 
 **Références** : Stanford, CNRS, HPE, Moody's, Afnic, Axians-Vinci

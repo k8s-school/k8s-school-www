@@ -1,0 +1,12 @@
+enable: true
+
+items:
+  - image: "images/logo-cnrs-formation-entreprises.svg"
+    pretitle: "Sessions inter-entreprises · Qualiopi · financement OPCO"
+    title: "4 formations Kubernetes & OpenShift au catalogue CNRS Formation Entreprises"
+    text: "Kubernetes initiation et production, OpenShift initiation et avancé : quatre formations de 3 jours animées par Fabrice Jammes, responsable scientifique, à Clermont-Ferrand (Aubière). Prochaines sessions du 14 au 16 octobre, du 27 au 29 octobre et du 18 au 20 novembre 2026. Lieu modifiable sur demande, sessions intra-entreprise possibles."
+    buttons:
+      - label: "Voir les 4 formations"
+        link: "/formations-kubernetes/cnrs-formation-entreprises/"
+      - label: "Catalogue CNRS"
+        link: "https://cnrsformation.cnrs.fr/catalogue/recherche/?keyword=kubernetes"
