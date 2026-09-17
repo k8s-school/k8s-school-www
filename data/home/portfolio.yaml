@@ -10,3 +10,13 @@ items:
         link: "/formations-kubernetes/cnrs-formation-entreprises/"
       - label: "Catalogue CNRS"
         link: "https://cnrsformation.cnrs.fr/catalogue/recherche/?keyword=kubernetes"
+
+  - image: "images/opentelemetry-icon-color.svg"
+    pretitle: "Nouveau · 2 jours · 60 % de labs"
+    title: "Formation OpenTelemetry : logs, métriques et traces corrélés"
+    text: "Instrumentez vos applications Java / Spring Boot sans toucher au code, configurez le collecteur OpenTelemetry et exploitez les trois signaux dans Grafana, jusqu'au masquage des données sensibles. Fil rouge sur la démo officielle OpenTelemetry, labs en accès libre sous licence Creative Commons."
+    buttons:
+      - label: "Découvrir la formation"
+        link: "/formations-kubernetes/opentelemetry/"
+      - label: "Labs OpenTelemetry"
+        link: "https://k8s-school.fr/labs/otel"

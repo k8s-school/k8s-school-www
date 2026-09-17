@@ -40,6 +40,8 @@ openshift     enterprise  hybrid-cloud   Applications métier, compliance
 
 ⎈ [**Production & Security**](formations-kubernetes/avance): Administration avancée et préparation CKS
 
+⎈ [**OpenTelemetry**](formations-kubernetes/opentelemetry): Observabilité, logs, métriques et traces corrélés
+
 ⎈ [**CNRS Formation Entreprises**](formations-kubernetes/cnrs-formation-entreprises): 4 formations Kubernetes et OpenShift en inter-entreprises, Qualiopi / OPCO
 
 ---

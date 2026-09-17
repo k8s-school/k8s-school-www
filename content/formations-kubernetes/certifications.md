@@ -4,7 +4,7 @@ date: 2019-10-24T11:01:34+07:00
 image: 'images/cka-ckad-cks.svg'
 draft: false
 featured: true
-weight: 3
+weight: 4
 description: 'Préparez-vous aux certifications officielles Kubernetes avec nos labs pratiques et formations ciblées'
 ---
 

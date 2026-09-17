@@ -3,7 +3,7 @@ main:
     url: "https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link"
     weight: 1
 
-  - name: "Programmes K8s"
+  - name: "Programmes"
     url: "/formations-kubernetes/"
     weight: 2
 

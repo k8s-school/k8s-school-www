@@ -4,7 +4,7 @@ date: 2026-09-17T10:00:00+02:00
 image: 'images/logo-cnrs-formation-entreprises.svg'
 draft: false
 featured: true
-weight: 4
+weight: 5
 layout: wide
 description: 'Quatre formations Kubernetes et OpenShift au catalogue CNRS Formation Entreprises, animées par Fabrice Jammes : sessions inter-entreprises à Clermont-Ferrand, financement via votre OPCO'
 ---

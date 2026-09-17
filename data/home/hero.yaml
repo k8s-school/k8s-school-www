@@ -1,10 +1,10 @@
 enable: true
 
 title: "Formation **Kubernetes** professionnelle"
-text: "K8s School fournit une formation Kubernetes pour les micro-services et une formation Kubernetes avancée. Expertise et formation Cloud-Native."
+text: "Formations **Kubernetes** (fondamentaux, production et sécurité, certifications CKA/CKS) et **OpenTelemetry** (observabilité : logs, métriques, traces), animées par un expert qui opère ces technologies au quotidien pour la recherche et l'industrie."
 
 buttons:
-  - label: "Programmes K8s"
+  - label: "Programmes"
     url: "/formations-kubernetes/"
 
   - label: "S'inscrire"
