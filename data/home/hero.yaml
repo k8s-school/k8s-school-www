@@ -5,7 +5,7 @@ text: "K8s School fournit une formation Kubernetes pour les micro-services et un
 
 buttons:
   - label: "Programmes K8s"
-    link: "/formations-kubernetes/"
+    url: "/formations-kubernetes/"
 
   - label: "S'inscrire"
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link"
