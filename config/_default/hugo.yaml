@@ -18,6 +18,31 @@ imaging:
 
 build:
   publishDir: "public"
+  # Collecte les classes CSS du HTML généré (contenu inclus) pour Tailwind, et
+  # force la recompilation du CSS quand elles changent.
+  buildStats:
+    enable: true
+  cachebusters:
+    - source: "assets/notwatching/hugo_stats\\.json"
+      target: "css"
+
+module:
+  mounts:
+    - source: "hugo_stats.json"
+      target: "assets/notwatching/hugo_stats.json"
+      disableWatch: true
+    - source: "assets"
+      target: "assets"
+    - source: "content"
+      target: "content"
+    - source: "static"
+      target: "static"
+    - source: "layouts"
+      target: "layouts"
+    - source: "data"
+      target: "data"
+    - source: "archetypes"
+      target: "archetypes"
 
 services:
   googleAnalytics:

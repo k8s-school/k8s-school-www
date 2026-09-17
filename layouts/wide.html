@@ -1,0 +1,18 @@
+{{/* Variante pleine largeur de single.html du thème, pour les pages composées de blocs HTML (cartes, grilles). */}}
+{{ define "main" }}
+  <section class="py-16">
+    <div class="container mx-auto max-w-6xl px-4">
+      {{ with .Title }}
+        <h2 class="text-primary mb-8 text-center text-6xl font-bold">{{ . }}</h2>
+      {{ end }}
+      {{ with .Params.description }}
+        <p class="mx-auto mb-16 text-center xl:max-w-[60%]">{{ . }}</p>
+      {{ end }}
+      {{ with .Content }}
+        <div class="prose prose-lg max-w-none">
+          {{ . }}
+        </div>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}
