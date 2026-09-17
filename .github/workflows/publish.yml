@@ -4,26 +4,35 @@ on:
   push:
     branches:
       - master  # Set a branch to deploy
+  workflow_dispatch:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
+          submodules: true  # Fetch Hugo theme (themes/hugo-up-business)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.75.1'
+          hugo-version: '0.154.5'
           extended: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install Tailwind CLI
+        run: npm ci
+
       - name: Install htpasswd and yafc
-        run: sudo apt-get install apache2-utils yafc
-      - name: Clone theme
-        run: |
-          cd themes
-          git clone --single-branch -b k8s-school --depth 1 https://github.com/k8s-school/hugo-serif-theme.git
+        run: sudo apt-get update && sudo apt-get install -y apache2-utils yafc
+
       - name: Ftp site to OVH
         run: |
           cat <<EOF > "env-creds.sh"
@@ -32,5 +41,7 @@ jobs:
           SERVER_PASS="${{ secrets.SERVER_PASS }}"
           HTACCESS_USER="${{ secrets.HTACCESS_USER }}"
           HTACCESS_PASS="${{ secrets.HTACCESS_PASS }}"
+          HTACCESS_XPERT_USER="${{ secrets.HTACCESS_XPERT_USER }}"
+          HTACCESS_XPERT_PASS="${{ secrets.HTACCESS_XPERT_PASS }}"
           EOF
           ./sftp.sh
