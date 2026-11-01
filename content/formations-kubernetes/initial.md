@@ -27,7 +27,7 @@ Avec Microsoft, accédez gratuitement au livre [**Kubernetes Up and Running 2nd 
 
 # Sessions inter-entreprises
 
-⎈ 1980 € HT par personne pour **3 jours** de formation, 650 € HT par personne pour chaque jour optionnel supplémentaire.
+⎈ Formation de **3 jours**, adaptable à votre équipe. Tarif sur demande, selon le format et la taille du groupe.
 
 # Sessions intra-entreprise, option visio-conférence
 
@@ -60,12 +60,6 @@ Sur demande
       "reviewCount":30,
       "bestRating":5,
       "worstRating":1
-   },
-   "offers":{
-      "@type":"Offer",
-      "priceCurrency":"EUR",
-      "price":"1980",
-      "sku":"sku-k8sschool-0001"
    },
    "review":[
       {

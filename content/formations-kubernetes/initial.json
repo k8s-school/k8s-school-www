@@ -13,12 +13,6 @@
       "bestRating":5,
       "worstRating":1
    },
-   "offers":{
-      "@type":"Offer",
-      "priceCurrency":"EUR",
-      "price":"1980",
-      "sku":"sku-k8sschool-0001"
-   },
    "review":[
       {
          "@type":"Review",
@@ -482,14 +476,6 @@
          }
       }
    ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
    "performer":{
       "@type":"Person",
       "name":"Formateur by AmbientIT"
@@ -520,14 +506,6 @@
          }
       }
    ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
    "performer":{
       "@type":"Person",
       "name":"Formateur by AmbientIT"
@@ -558,14 +536,6 @@
          }
       }
    ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
    "performer":{
       "@type":"Person",
       "name":"Formateur by AmbientIT"
@@ -596,14 +566,6 @@
          }
       }
    ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
    "performer":{
       "@type":"Person",
       "name":"Formateur by AmbientIT"
@@ -634,14 +596,6 @@
          }
       }
    ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
    "performer":{
       "@type":"Person",
       "name":"Formateur by AmbientIT"
@@ -672,14 +626,6 @@
          }
       }
    ],
-   "offers":{
-      "@type":"Offer",
-      "price":"1980",
-      "priceCurrency":"EUR",
-      "availability":"http://schema.org/InStock",
-      "url":"https://k8s-school.fr/formations-kubernetes/micro-services/",
-      "validFrom":"2019-04-01T00:00:00+00:00"
-   },
    "performer":{
       "@type":"Person",
       "name":"Formateur by AmbientIT"

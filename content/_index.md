@@ -1,53 +1,46 @@
 ---
-title: 'L''ingénierie Kubernetes par la pratique. Du Bare-metal à l''IA.'
+title: 'Mettre Kubernetes en production, du bare-metal aux plateformes de données.'
 intro_image: images/logo_kubernetes.svg
 ---
 
-# L'ingénierie Kubernetes par la pratique. Du Bare-metal à l'IA.
+# Mettre Kubernetes en production, du bare-metal aux plateformes de données.
 
-**Expert Kubernetes certifié CKA/CKS** | **Ingénieur de recherche CNRS** | **Référent Cloud-Natif Stanford University**
+**Expert Kubernetes certifié CKA/CKS** | **Speaker KubeCon Europe 2019 & 2024** | **Clusters de production à ~500 machines**
 
 ---
 
-## Expertise technique éprouvée
+## Une expertise de terrain, pas de catalogue
 
-Formez-vous avec un expert qui déploie Kubernetes à l'échelle pour des projets de recherche internationaux. Responsable français du Rubin Observatory (ex-LSST, Stanford/CNRS), j'ai conçu et développé des solutions Kubernetes pour gérer des infrastructures de plusieurs PetaOctets sur ~500 machines par cluster.
+Vous êtes accompagné par un ingénieur qui conçoit et exploite des plateformes Kubernetes à grande échelle depuis 2018 : opérateurs, bases de données distribuées de plusieurs PetaOctets, chaînes temps réel Kafka/Spark, bare-metal et cloud public. Les formations et les interventions s'appuient sur ces retours d'expérience, pas sur des slides génériques.
 
 ### Environnements maîtrisés
 ```bash
 $ kubectl get environments --output=wide
 NAME          TYPE        EXPERTISE      USE-CASES
-bare-metal    on-premise  production     HPC, recherche, edge computing
+bare-metal    on-premise  production     HPC, données, edge computing
 kind          local       development    CI/CD, testing, formations
 openshift     enterprise  hybrid-cloud   Applications métier, compliance
 ```
 
 ---
 
-## Philosophy Open Source
+## Trois façons de travailler ensemble
+
+⎈ [**Accompagnement & expertise**](accompagnement): audit de cluster, mise en production, sécurité, observabilité, plateformes de données. Un engagement sur un résultat, dans votre contexte.
+
+⎈ [**Formations expertes**](formations-kubernetes): Kubernetes production & sécurité (CKS), OpenTelemetry, conçues sur mesure pour votre équipe, en intra-entreprise.
+
+⎈ [**Fondamentaux & certifications**](formations-kubernetes/initial): bases de Kubernetes, préparation CKA/CKAD/CKS, et [formations Kubernetes et OpenShift proposées par CNRS Formation Entreprises](formations-kubernetes/cnrs-formation-entreprises).
+
+---
+
+## Open Source
 
 **Labs gratuits** sous licence Creative Commons : [k8s-school.fr/labs](/labs)
 
-**Expertise sur mesure** : accompagnement technique, scénarios complexes, déploiements à l'échelle
+**Intervention flexible** : en direct, via portage certifié Qualiopi ou en sous-traitance. France, Suisse, remote.
 
-**Intervention flexible** : direct via portage certifié Qualiopi ou en sous-traitance
-
----
-
-## Programmes d'expertise
-
-⎈ [**Core Concepts**](formations-kubernetes/initial): Fondamentaux et préparation CKA
-
-⎈ [**Production & Security**](formations-kubernetes/avance): Administration avancée et préparation CKS
-
-⎈ [**OpenTelemetry**](formations-kubernetes/opentelemetry): Observabilité, logs, métriques et traces corrélés
-
-⎈ [**CNRS Formation Entreprises**](formations-kubernetes/cnrs-formation-entreprises): 4 formations Kubernetes et OpenShift en inter-entreprises, Qualiopi / OPCO
-
----
-
-**Références** : Stanford, CNRS, HPE, Moody's, Afnic, Axians-Vinci
-**Interventions** : France, Suisse, remote
+**[Parlons de votre projet →](/contact/)**
 
 <script type="application/ld+json" >{
 	"@context":"http://schema.org",
@@ -55,9 +48,15 @@ openshift     enterprise  hybrid-cloud   Applications métier, compliance
 		"itemListElement":[
 		{"@type":"ListItem",
 			"position":1,
-			"url":"https://k8s-school.fr/formations-kubernetes/avance/"},
+			"url":"https://k8s-school.fr/accompagnement/"},
 		{"@type":"ListItem",
 			"position":2,
-			"url":"https://k8s-school.fr/formations-kubernetes/initial/"},]
+			"url":"https://k8s-school.fr/formations-kubernetes/avance/"},
+		{"@type":"ListItem",
+			"position":3,
+			"url":"https://k8s-school.fr/formations-kubernetes/opentelemetry/"},
+		{"@type":"ListItem",
+			"position":4,
+			"url":"https://k8s-school.fr/formations-kubernetes/initial/"}]
 	}
 </script>

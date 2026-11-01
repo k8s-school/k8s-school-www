@@ -7,18 +7,20 @@ jobtitle: 'Expert formateur Kubernetes'
 email: 'fabrice.jammes@gmail.com'
 linkedinurl: 'https://www.linkedin.com/in/fabrice-jammes-5b29b042/'
 weight: 1
-description: 'Votre formateur Kubernetes, ingénieur CNRS, est titulaire de la CKA (Certifiate Kubernetes Administrator), et speaker lors de la KubeCon2019.'
+description: 'Votre formateur Kubernetes, ingénieur CNRS, certifié CKA et CKS, speaker à la KubeCon Europe 2019 et 2024.'
 ---
 
-**Ingénieur de recherche CNRS** et **référent Cloud-Natif pour Stanford University**, Fabrice Jammes est l'architecte Kubernetes de projets scientifiques internationaux d'envergure.
+Fabrice Jammes conçoit et exploite des plateformes Kubernetes à grande échelle depuis 2018. Il exerce son activité de formation et d'expertise via K8s-school, en parallèle de son poste d'ingénieur de recherche au CNRS.
 
-## Expertise de terrain
+## Parcours
 
-**Rubin Observatory (ex-LSST, Stanford/CNRS)** : Responsable français pour la base de données distribuée [Qserv](https://github.com/lsst/qserv), destinée à cataloguer plusieurs PetaOctets d'objets célestes. Conception et développement d'un [opérateur Kubernetes](https://github.com/lsst/qserv-operator) pour des déploiements à ~500 machines par cluster.
+*Les projets ci-dessous relèvent de son activité de recherche au CNRS. Ils illustrent son expérience et ne constituent ni des références clients ni des partenariats de K8s-school.*
 
-**Fink-Broker** : Architecte de la plateforme de détection d'alertes astronomiques en temps réel. Stack complète sur Kubernetes bare-metal : Kafka, Spark, MinIO, ArgoCD pour le traitement d'images télescopiques avec intelligence artificielle.
+**Rubin Observatory (ex-LSST)** : contribution à la base de données distribuée [Qserv](https://github.com/lsst/qserv), destinée à cataloguer plusieurs PetaOctets d'objets célestes, et développement de son [opérateur Kubernetes](https://github.com/lsst/qserv-operator) pour des déploiements à ~500 machines par cluster.
 
-**Collaboration Google Cloud** : Depuis 2019, ingénierie de solutions Kubernetes sur [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine) avec les équipes techniques de Google.
+**Fink-Broker** : architecture de la plateforme de traitement d'alertes astronomiques en temps réel. Stack complète sur Kubernetes bare-metal : Kafka, Spark, MinIO, ArgoCD.
+
+**Cloud public** : déploiements de ces plateformes sur [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine).
 
 **Triptyque technique maîtrisé** :
 - **Bare-metal** : Déploiements HPC et recherche scientifique
@@ -29,12 +31,12 @@ description: 'Votre formateur Kubernetes, ingénieur CNRS, est titulaire de la C
 
 **Certifications** : CKA, CKS
 
-**Speaker KubeCon** (3 talks) :
+**Conférences** (3 talks) :
 - KubeCon Europe 2019 (Barcelone) : Rubin Observatory architecture distribuée
 - KubeCon Europe 2024 (Paris) : Fink-Broker on Kubernetes
 - Cloud-Native Data Management Days
 
-**Formation** : Accompagnement des équipes Stanford, CNRS et clients industriels
+**Formation** : équipes de recherche et clients industriels (voir les [références](/references/))
 
 ### Certifications Kubernetes
 

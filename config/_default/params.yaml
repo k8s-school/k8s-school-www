@@ -1,5 +1,5 @@
 title: "K8s School"
-description: "Formation Kubernetes professionnelle et expertise Cloud-Native. Certification CKA et déploiements à grande échelle."
+description: "Expertise et formation Kubernetes : mise en production, sécurité, observabilité et plateformes de données. Certifié CKA/CKS."
 
 logo: "images/logo.png"
 
@@ -7,12 +7,6 @@ favicons:
   themeColor: "#FFFFFF"
   backgroundColor: "#FFFFFF"
   faviconColor: "#000000"
-
-social:
-  dribbble: "#"
-  instagram: "#"
-  facebook: "#"
-  twitter: "#"
 
 location:
   - "42 allée des Conteneurs — Silicon Vallée d'Auvergne, 63000 Clermont-Ferrand"
@@ -22,5 +16,5 @@ contact:
   - "fabrice.jammes@k8s-school.fr"
   - "06 83 56 28 46"
 
-copyright: "© 2022 Up Business All Rights Reserved"
+copyright: "© 2026 K8s-school"
 

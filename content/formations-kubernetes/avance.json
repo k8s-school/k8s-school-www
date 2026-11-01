@@ -13,12 +13,6 @@
          "bestRating":5,
          "worstRating":1
       },
-      "offers":{
-         "@type":"Offer",
-         "priceCurrency":"EUR",
-         "price":"2090",
-         "sku":"sku-k8sschool-10710"
-      },
       "review":[
          {
             "@type":"Review",

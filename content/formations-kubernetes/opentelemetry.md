@@ -10,7 +10,7 @@ description: 'Rendez vos applications observables avec OpenTelemetry : logs, mé
 ---
 
 <div class="not-prose mb-12 flex flex-col items-center gap-8 rounded-4xl bg-tertiary px-6 py-10 xl:flex-row xl:px-12">
-  <img src="/images/opentelemetry-icon-color.svg" alt="OpenTelemetry" class="w-40 shrink-0" />
+  <img src="/images/opentelemetry-icon-color.svg" alt="OpenTelemetry" class="w-32 shrink-0" />
   <div>
     <p class="mb-3 text-lg">
       <strong class="text-primary">OpenTelemetry</strong> est le standard CNCF de l'observabilité : un seul SDK, un seul protocole (OTLP) et un collecteur unique pour vos <strong>logs, métriques et traces</strong>. Cette formation vous rend autonome pour instrumenter vos applications, configurer la chaîne de collecte et exploiter les trois signaux, corrélés, dans Grafana.
@@ -117,14 +117,8 @@ description: 'Rendez vos applications observables avec OpenTelemetry : logs, mé
 <div class="not-prose mt-16 grid gap-8 md:grid-cols-3">
   <div class="flex flex-col rounded-4xl border border-primary/25 p-8">
     <h2 class="mb-3 text-xl font-bold text-primary">Tarifs</h2>
-    <div class="mb-4 rounded-2xl bg-tertiary px-4 py-3">
-      <span class="text-3xl font-bold text-primary">1 980 € <span class="text-sm font-normal">HT</span></span><br />
-      <span class="text-sm">par personne, session inter-entreprises de <strong>2 jours</strong></span>
-    </div>
-    <ul class="list-disc space-y-1 pl-5 text-sm">
-      <li>650 € HT par personne pour chaque jour optionnel supplémentaire</li>
-      <li>Sessions intra-entreprise : sur demande</li>
-    </ul>
+    <p class="mb-4">Tarif sur demande, selon le format (inter ou intra-entreprise, présentiel ou distanciel) et la taille du groupe.</p>
+    <a class="bg-primary hover:bg-primary/90 mt-auto inline-flex justify-center rounded px-8 py-2 text-white duration-500" href="/contact/">Me consulter</a>
   </div>
   <div class="rounded-4xl border border-primary/25 p-8">
     <h2 class="mb-3 text-xl font-bold text-primary">Labs en accès libre</h2>
@@ -157,6 +151,5 @@ description: 'Rendez vos applications observables avec OpenTelemetry : logs, mé
   "description": "Rendez vos applications observables avec OpenTelemetry : logs, métriques et traces corrélés, du SDK Java au collecteur et à Grafana.",
   "url": "https://k8s-school.fr/formations-kubernetes/opentelemetry/",
   "provider": {"@type": "Organization", "name": "K8s School", "url": "https://k8s-school.fr/"},
-  "hasCourseInstance": {"@type": "CourseInstance", "courseMode": ["onsite", "online"], "courseWorkload": "PT14H"},
-  "offers": {"@type": "Offer", "priceCurrency": "EUR", "price": "1980", "category": "Session inter-entreprises, par personne, HT"}
+  "hasCourseInstance": {"@type": "CourseInstance", "courseMode": ["onsite", "online"], "courseWorkload": "PT14H"}
 }</script>

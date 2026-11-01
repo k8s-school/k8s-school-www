@@ -1,7 +1,7 @@
 ---
 title: 'Programmes de formation'
 intro_image: images/cncf-logos.svg
-description: 'Formations Kubernetes et OpenTelemetry, personnalisées durant un audit gratuit avec nos formateurs'
+description: 'Formations Kubernetes et OpenTelemetry, conçues sur mesure pour votre équipe, en intra-entreprise'
 ---
 
 # Vos programmes de formation
@@ -10,16 +10,18 @@ description: 'Formations Kubernetes et OpenTelemetry, personnalisées durant un 
 
 ## **Offre de formation:**
 
-⎈ [**Formation Kubernetes**](initial): Devenez opérationnel sur les fondamentaux de Kubernetes.
-
 ⎈ [**Formation K8s avancé/expert**](avance): Devenez expert Kubernetes, notamment sur les aspects **sécurité** et **production**.
 
 ⎈ [**Formation OpenTelemetry**](opentelemetry): Rendez vos applications observables : logs, métriques et traces corrélés, du SDK au collecteur et à Grafana.
 
+⎈ [**Formation Kubernetes**](initial): Devenez opérationnel sur les fondamentaux de Kubernetes.
+
 ⎈ [**Préparation CKA, CKAD et CKS**](certifications): Certifications officielles avec labs pratiques gratuits.
 
-⎈ [**Formations CNRS Formation Entreprises**](cnrs-formation-entreprises): 4 formations Kubernetes et OpenShift en inter-entreprises à Clermont-Ferrand, certifiées Qualiopi et finançables par votre OPCO.
+⎈ [**Formations CNRS Formation Entreprises**](cnrs-formation-entreprises): 4 formations Kubernetes et OpenShift proposées par CNRS Formation Entreprises (CFE), dont je suis le responsable scientifique.
 
 ## **Formations en inter et intra-entreprise, en visio-conférence ou en remote sur demande** 
 
-[**Inscrivez-vous à votre formation Kubernetes**](https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link)
+Besoin d'aller au-delà de la formation ? Découvrez l'[**accompagnement sur vos clusters**](/accompagnement/).
+
+[**Parlons de votre projet →**](/contact/)

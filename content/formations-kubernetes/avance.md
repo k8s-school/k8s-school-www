@@ -33,7 +33,7 @@ $ kubectl exec -n formation -it k8s -- curl https://ma-prochaine-session
 
 # Sessions inter-entreprises
 
-⎈ 2090 € HT par personne pour **3 jours** de formation, 650 euros par personne pour chaque jour optionnel supplémentaire.
+⎈ Formation de **3 jours**, adaptable à votre équipe. Tarif sur demande, selon le format et la taille du groupe.
 
 # Sessions intra-entreprise, option visio-conférence
 
@@ -59,12 +59,6 @@ Sur demande
          "reviewCount":10,
          "bestRating":5,
          "worstRating":1
-      },
-      "offers":{
-         "@type":"Offer",
-         "priceCurrency":"EUR",
-         "price":"2090",
-         "sku":"sku-k8sschool-002"
       },
       "review":[
          {

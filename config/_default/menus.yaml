@@ -1,9 +1,9 @@
 main:
-  - name: "S'inscrire"
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link"
+  - name: "Accompagnement"
+    url: "/accompagnement/"
     weight: 1
 
-  - name: "Programmes"
+  - name: "Formations"
     url: "/formations-kubernetes/"
     weight: 2
 
@@ -24,8 +24,8 @@ main:
     weight: 6
 
 buttons:
-  - name: "S'inscrire"
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSdReUtBAMQWI_CuKbSLtEWaIVSlEQKaOMSEnlstjtvS67UnGw/viewform?usp=sf_link"
+  - name: "Parlons de votre projet"
+    url: "/contact/"
     weight: 1
 
 footer:

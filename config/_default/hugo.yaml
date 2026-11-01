@@ -44,7 +44,3 @@ module:
     - source: "archetypes"
       target: "archetypes"
 
-services:
-  googleAnalytics:
-    id: "UA-146891246-1"
-
