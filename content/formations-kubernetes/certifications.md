@@ -14,7 +14,7 @@ Préparez-vous aux certifications officielles Kubernetes avec nos labs pratiques
 
 ## Certifications CNCF couvertes
 
-⚡ [**Guide des certifications**](https://k8s-school.fr/labs/fr/certifications/introduction/index.html) : Vue d'ensemble et stratégie de préparation
+⚡ [**Guide des certifications**](https://k8s-school.fr/labs/k8s/fr/certifications/introduction/index.html) : Vue d'ensemble et stratégie de préparation
 
 **CKA (Certified Kubernetes Administrator)** : Installation, configuration, troubleshooting
 **CKAD (Certified Kubernetes Application Developer)** : Développement d'applications cloud-natives
@@ -22,10 +22,10 @@ Préparez-vous aux certifications officielles Kubernetes avec nos labs pratiques
 
 ## Labs de préparation gratuits
 
-⚡ [**Installation Kubeadm**](https://k8s-school.fr/labs/fr/1_labs/index.html) : Déploiement cluster from scratch
-⚡ [**Ingress & Networking**](https://k8s-school.fr/labs/fr/1_labs/index.html) : Exposition d'applications et routage
-⚡ [**Storage & StatefulSets**](https://k8s-school.fr/labs/fr/1_labs/index.html) : Persistance et applications stateful
-⚡ [**Security with Falco**](https://k8s-school.fr/labs/en/1_labs/falco/index.html) : Runtime security monitoring
+⚡ [**Installation Kubeadm**](https://k8s-school.fr/labs/k8s/fr/1_labs/index.html) : Déploiement cluster from scratch
+⚡ [**Ingress & Networking**](https://k8s-school.fr/labs/k8s/fr/1_labs/index.html) : Exposition d'applications et routage
+⚡ [**Storage & StatefulSets**](https://k8s-school.fr/labs/k8s/fr/1_labs/index.html) : Persistance et applications stateful
+⚡ [**Security with Falco**](https://k8s-school.fr/labs/k8s/en/1_labs/falco/index.html) : Runtime security monitoring
 
 ## Commandes essentielles
 
