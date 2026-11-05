@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>CV — Fabrice Jammes</title>
+<style>
+  @page { size: A4; margin: 11mm 14mm; }
+  * { box-sizing: border-box; }
+  body { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 9.2pt; line-height: 1.32; color: #222; margin: 0; }
+  a { color: #1f5fa8; text-decoration: none; }
+  header { border-bottom: 2px solid #326ce5; padding-bottom: 6px; margin-bottom: 8px; }
+  h1 { font-size: 21pt; margin: 0; color: #111; }
+  .role { font-size: 11pt; color: #326ce5; font-weight: 600; margin: 2px 0 4px; }
+  .contact { font-size: 8.8pt; color: #444; }
+  .summary { margin: 6px 0 2px; }
+  h2 { font-size: 10.5pt; text-transform: uppercase; letter-spacing: .06em; color: #326ce5; border-bottom: 1px solid #cfd8e6; padding-bottom: 2px; margin: 8px 0 4px; }
+  h3 { font-size: 10pt; margin: 6px 0 0; }
+  .meta { font-size: 8.8pt; color: #555; font-style: italic; margin-bottom: 2px; }
+  ul { margin: 2px 0 4px; padding-left: 15px; }
+  li { margin: 1px 0; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 18px; }
+  .skills li b { color: #111; }
+  .note { font-size: 8pt; color: #666; margin-top: 2px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Fabrice Jammes</h1>
+  <div class="role">Formateur OpenShift, Kubernetes et OpenTelemetry — Ingénieur de recherche CNRS (IN2P3)</div>
+  <div class="contact">
+    Clermont-Ferrand, France ·
+    <a href="mailto:fabrice.jammes@gmail.com">fabrice.jammes@gmail.com</a> ·
+    <a href="https://www.linkedin.com/in/fabrice-jammes-5b29b042/">linkedin.com/in/fabrice-jammes-5b29b042</a> ·
+    <a href="https://k8s-school.fr/team/fabrice-jammes/">k8s-school.fr</a>
+  </div>
+  <p class="summary">Forme depuis 2018 des équipes de grands comptes, de l'industrie et de la recherche à OpenShift, Kubernetes et OpenTelemetry ; responsable scientifique de 4 formations Kubernetes et OpenShift de CNRS Formation Entreprises. Conçoit et exploite des plateformes de données scientifiques à très grande échelle depuis 2012, et sur Kubernetes depuis 2018. Une dizaine d'années au sein de l'équipe Qserv de Stanford/SLAC pour le Rubin Observatory. Disponible pour des formations Cloud Native, des conférences et du conseil.</p>
+</header>
+
+<h2>Expérience</h2>
+
+<h3>Formation OpenShift, Kubernetes et OpenTelemetry</h3>
+<div class="meta">K8s-school et CNRS Formation Entreprises — depuis 2018</div>
+<ul>
+  <li>Formations <b>OpenShift</b> et <b>OpenTelemetry</b> pour de grands comptes.</li>
+  <li>Responsable scientifique de 4 formations CNRS Formation Entreprises : <i>OpenShift : déploiement et gestion d'applications conteneurisées</i> ; <i>OpenShift avancé : sécurité, haute disponibilité et administration en production</i> ; <i>Kubernetes : déploiement et orchestration d'applications</i> ; <i>Kubernetes : de l'initiation à la production</i>.</li>
+  <li>Formations Kubernetes initiation, avancé et sécurité (CKA, CKS) : HPE (75 ingénieurs), Axians, Moody's Analytics, Murex, Afnic, Université de Stanford…</li>
+  <li>Pédagogie centrée sur la pratique : 60 % de labs, rejouables en autonomie sur Kind.</li>
+</ul>
+
+<h3>Rubin Observatory (ex-LSST) — Qserv, base de données SQL distribuée</h3>
+<div class="meta">CNRS / IN2P3, en collaboration avec SLAC National Accelerator Laboratory (Université de Stanford) — depuis 2012</div>
+<ul>
+  <li>Membre pendant environ 10 ans de l'équipe de développement de Qserv, intégrée au groupe Data Management de Stanford/SLAC (Menlo Park, Californie).</li>
+  <li>Qserv héberge le catalogue du Rubin Observatory : plusieurs PetaOctets d'objets célestes interrogeables par la communauté astronomique mondiale.</li>
+  <li>Conception et développement de l'opérateur Kubernetes de Qserv (Operator SDK, CRD) : déploiement complet de l'application à partir d'une courte ressource YAML.</li>
+  <li>Pipeline d'ingestion des données (qserv-ingest) orchestré par Argo Workflows ; mise en production au CC-IN2P3 et sur Google Kubernetes Engine.</li>
+</ul>
+
+<h3>Fink-Broker — traitement temps réel d'alertes astronomiques</h3>
+<div class="meta">CNRS / IN2P3 et Université Paris-Saclay</div>
+<ul>
+  <li>Architecture de la plateforme qui filtre et classe chaque nuit des millions d'alertes émises par le Rubin Observatory.</li>
+  <li>Stack complète sur Kubernetes bare-metal et OpenStack : Kafka, Spark, MinIO, ArgoCD ; CI/CD auto-hébergée sur Kubernetes.</li>
+</ul>
+
+
+<h2>Compétences</h2>
+<ul class="skills grid">
+  <li><b>OpenShift</b> : déploiement d'applications, sécurité, haute disponibilité, administration en production</li>
+  <li><b>Observabilité</b> : OpenTelemetry (SDK, collecteur), Prometheus, Grafana, Jaeger</li>
+  <li><b>Kubernetes</b> : administration, sécurité, opérateurs, CRD, GitOps (ArgoCD), Argo Workflows</li>
+  <li><b>Plateformes</b> : bare-metal (HPC), Kind, OpenShift, GKE, OpenStack</li>
+  <li><b>Données</b> : bases distribuées (Qserv, MariaDB, XRootD), Kafka, Spark, MinIO</li>
+  <li><b>Développement</b> : Go, Python, C++, shell ; CI/CD, conteneurisation</li>
+</ul>
+
+<div class="grid">
+<div>
+<h2>Conférences</h2>
+<ul>
+  <li><b>KubeCon + CloudNativeCon Europe 2024</b> (Paris) — <i>Fink on Kubernetes: Efficient Management of Massive Alert Streams for Astronomical Objects Identification</i> (<a href="https://www.youtube.com/watch?v=JklTII0HcKk">vidéo</a>)</li>
+  <li><b>KubeCon + CloudNativeCon Europe 2019</b> (Barcelone) — Qserv, l'architecture distribuée du Rubin Observatory sur Kubernetes</li>
+  <li><b>Cloud-Native Data Management Days 2021</b></li>
+  <li><b>ComputeOps 2023</b> (IN2P3) — Qserv et son opérateur Kubernetes</li>
+  <li><b>Podcast Electro Monkeys</b></li>
+</ul>
+</div>
+<div>
+<h2>Publications</h2>
+<ul>
+  <li>G. Mainetti, F. Hernandez, Q. Le Boulc'h, F. Jammes — déploiement de Qserv sur Kubernetes via un opérateur, CHEP 2023, <i>EPJ Web of Conferences</i> (2024)</li>
+  <li>F. Hernandez, F. Jammes, J. Becla — <i>Building, Configuring, Deploying and Running Distributed, Peta-scale Data Analysis Software at IN2P3</i>, JRES 2015</li>
+</ul>
+<h2>Certifications</h2>
+<ul>
+  <li><b>CKS</b> — Certified Kubernetes Security Specialist (2021)</li>
+  <li><b>CKA</b> — Certified Kubernetes Administrator (2019)</li>
+</ul>
+<h2>Formation et langues</h2>
+<ul>
+  <li>Diplôme d'ingénieur, Polytech Clermont-Ferrand (1999)</li>
+  <li>Français (langue maternelle), anglais (professionnel)</li>
+</ul>
+</div>
+</div>
+</body>
+</html>
